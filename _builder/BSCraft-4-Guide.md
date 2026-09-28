@@ -3429,6 +3429,27 @@ Bridge rotation into FE with the Crafts & Additions Alternator or New Age Genera
 
 Fuel ranking for Diesel Generators, straight from the mod's files: Diesel beats Gasoline and Biodiesel (tied), which beat Ethanol, which beats Plant Oil. Get crude oil from a Pumpjack over an oil deposit (find one with the Oil Scanner), then run it through a Distillation Tower to split it into diesel and gasoline. Ethanol comes from the Bulk Fermenter.
 
+## The cheap end: cranks, burners and heat
+The table above starts at water wheels, but there's a whole tier below and beside it that costs almost nothing to set up.
+
+- **Hand Crank** (Create): right-click it and it turns. Fine for opening a door or running one machine for a few seconds, useless for anything continuous.
+- **Blaze Burner** (Create): the standard heat source. Feed it a blaze, then keep it fed with fuel. It heats basins for mixing and boilers for steam.
+- **Solid Burner** and **Liquid Burner** (Create: Propulsion): burn solid fuel like coal, or liquid fuel, to make heat for whatever sits directly above them. The liquid one puts out twice the heat of the solid one, and both have a thermostat so they don't cook the block above.
+- **Stirling Engine** (Create: Propulsion and Create: New Age): sits on a heat source and turns. More heat means faster rotation. This is the "burn coal, get rotation" answer, and it's the simplest engine in the pack.
+- **Burner** (Diesel Generators): burns a flammable liquid to heat a basin. A valve sets the burn rate, and a redstone signal makes it burn faster.
+- **Heating Plates** (New Age): make heat from daylight, so a roof of them runs a Stirling Engine for free in the day. There's also a **Boiler Heater**, which behaves like a Blaze Burner but eats heat instead of fuel, plus heat pipes and pumps to move heat where you want it. Push too much heat into a block and it turns into lava, so watch the pipes.
+- **Coal Burner**, **Combustion Engine** and **Gas Engine** (Clockwork): small engines meant for ships built with Valkyrien Skies rather than for base power.
+
+## Rotation, electricity, and getting between them
+Two currencies run side by side. Create machines want **rotation**, measured in RPM and SU. RFTools, Pipez energy pipes, the Builder, teleporters and anything electric want **FE**.
+
+- **Rotation to FE**: the **Alternator** (Crafts & Additions) needs at least 32 RPM to do anything. **Generator Coils** (New Age) spin inside a ring of magnets and hand their output to **Carbon Brushes**; stronger magnets convert a bigger share of the SU but eat more of it, and one set of brushes reads up to 8 coils. Coils only make electricity, never rotation.
+- **FE to rotation**: the **Electric Motor** (Crafts & Additions), where scrolling the back panel sets the RPM, or New Age's **Motors**, where a wrench sets speed and redstone switches them off.
+- The two mods are tuned to match each other in this pack, so it doesn't matter much which side you build.
+- **Wires and connectors** (Crafts & Additions, New Age, Power Grid) carry FE between blocks, and Pipez energy pipes do the same job with less fuss.
+
+If you only ever build Create machines you can ignore FE completely. The moment you want an RFTools quarry, a teleporter or a dimension, you need one of the converters above, or a Bigger Reactor, which makes FE directly.
+
 ## Create Nuclear
 Fuel chain: raw uranium gets crushed into uranium powder, mixed into a liquid, compacted into yellowcake, fan-enriched into enriched yellowcake, then mechanical-crafted into a Uranium Rod. Graphite rods are graphene (pressed coal dust) plus steel (coal dust and iron).
 
