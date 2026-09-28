@@ -568,7 +568,7 @@ Outside of that one exception, if you're after a particular tree, ore or mob tie
 
 # Structures and best loot
 
-About 20 structure mods fill every dimension. Nearly all of them use chest loot tables, which means almost every one can roll a Simply Swords unique (0.1% per roll) and, for the vanilla types, an Artifact. YUNG's redesigns keep the vanilla loot tables, and Repurposed Structures copies modded loot into its biome variants. Village houses are the one exception: they never drop uniques.
+About 20 structure mods fill every dimension. Counted from the pack files, they can generate around 800 different structures from 455 spawn sets, so you are rarely more than a few hundred blocks from something built. Nearly all of them use chest loot tables, which means almost every one can roll a Simply Swords unique (0.1% per roll) and, for the vanilla types, an Artifact. YUNG's redesigns keep the vanilla loot tables, and Repurposed Structures copies modded loot into its biome variants. Village houses are the one exception: they never drop uniques.
 
 ## Best loot sources, ranked
 
@@ -591,13 +591,14 @@ About 20 structure mods fill every dimension. Nearly all of them use chest loot 
 
 ## Structure mods and what they add
 - **When Dungeons Arise** (39 structures): big dungeons with lots of mobs and chests. Includes the Illager Fort, Illager Galley and Illager Corsair ships, Illager Windmill, Bandit Towers and Bandit Village, the Heavenly Challenger, Conqueror and Rider sky structures, Keep Kayra, Shiraz Palace, the Plague Asylum, the Coliseum, the Mechanical Nest, the Foundry, the Scorched Mines and Mining System, the Mushroom Mines and Mushroom Village, Thornborn Towers, Typhon, the Undead Pirate Ship, a Monastery, an Aviary, a Lighthouse, a Small Blimp and more.
-- **Dungeons and Taverns** (59): taverns in most biomes, crypts (Creeping Crypt, Undead Crypt), a Donjon, an Illager Manor and Illager Hideout, a Stray Fort, bunkers, ruined towns and firewatch towers. In the Nether it adds the Nether Keep, a Nether Port, piglin camps and outstations, and skeleton towers. It also overhauls the Ancient City.
+- **Dungeons and Taverns** (58): taverns in most biomes, crypts (Creeping Crypt, Undead Crypt), a Donjon, an Illager Manor and Illager Hideout, a Stray Fort, bunkers, ruined towns and firewatch towers. In the Nether it adds the Nether Keep, a Nether Port, piglin camps and outstations, and skeleton towers. It also overhauls the Ancient City.
 - **Trek** (125): a big mix of castles, forts, pillager mansions and bases, elven trees, hobbit holes, haunted houses, floating farms, buried villages, ice forts, oases and a lot more.
-- **Moog's Voyager** (125) and **Moog's Soaring** (28): lots of smaller vanilla-style builds, from wells, camps and carts to cathedrals and castle ruins, plus sky builds like floating islands, towers and a volcano.
+- **Moog's Voyager** (130) and **Moog's Soaring** (35): lots of smaller vanilla-style builds, from wells, camps and carts to cathedrals and castle ruins, plus sky builds like floating islands, towers and a volcano.
 - **Moog's Temples** (6): reworked badlands, desert, jungle, ocean and Nether temples, and a stronghold.
-- **Moog's Nether** (31) and **Moog's End** (21): Nether towers, shrines, giant skulls and wells. End spires, the Phantom Citadel, crashed Mega Ships and more.
+- **Moog's Nether** (44) and **Moog's End** (24): Nether towers, shrines, giant skulls and wells. End spires, the Phantom Citadel, crashed Mega Ships and more.
 - **Towns and Towers** (59): biome and culture versions of villages and pillager outposts (Tudor, Mediterranean, Iberian, Oriental, Swedish and others).
-- **Epic Villages**: big medieval towns. **Tidal Towns**: floating driftwood villages on the ocean. **No More Villages** turns off the plain vanilla villages so these replace them.
+- **Tidal Towns**: ocean villages out in deep water, with their own farms and blacksmith. **No More Villages** switches off the plain vanilla villages, and Towns and Towers generates its own in their place.
+- **Epic Villages** ships only loot tables and tags in this pack, with no structures of its own, and vanilla villages are switched off, so it has nothing to attach to. It isn't doing anything at the moment.
 - **Repurposed Structures** (101): biome versions of vanilla structures, like Nether and End ancient cities, jungle fortresses, desert and snowy mansions, themed mineshafts, outposts, pyramids and monuments. It copies modded loot into every variant.
 - **YUNG's** (9 mods): redesigned dungeons, mineshafts, strongholds, Nether fortresses, ocean monuments, desert and jungle temples, witch huts and the End island, plus natural bridges. Same loot tables as vanilla, a lot more rooms.
 - **Forgotten Ruins** (8): ruins and libraries guarded by golems.
@@ -606,6 +607,41 @@ About 20 structure mods fill every dimension. Nearly all of them use chest loot 
 - **BetterNether** and **BetterEnd**: Nether cities, pyramids, temples and ghast hives. End villages and the Eternal Portal.
 - **Boss lairs**: Bosses'Rise (Dragon Tower, Kraken Ship, Sandworm Nest, Yeti Hideout, Underworld Arena), Mowzie's Mobs (Umvuthana Grove, the Wroughtnaut's chamber), Aquamirae (the Ice Maze with its ships, shelters and outposts) and Alex's Caves (Underground Cabins, Abyssal Ruins, Gingerbread Town, Licowitch Tower, the volcano).
 - **Magic structures**: Iron's Spells adds the Catacombs (the Dead King), the Citadel and Ancient Battleground in the Nether (Echo of Tyros), Pyromancer and Mountain Towers, the Evoker Fort, Mangrove Huts, Ice Spider Dens, the Impaled Icebreaker, and Priest Houses inside Repurposed Structures villages. Adam's Ars Plus adds six Archmage dungeons: the Frozen Library (snowy biomes), Infernal Prison (Nether Wastes), Overgrown Barracks (Deep Dark), Nimbostratic Ruins (mountains), Holy Mausoleum (Soul Sand Valley) and Void Fortress (outer End islands). Ars Nouveau has Wilden Dens, Ars Additions the Arcane Library, Nexus Tower and Ruined Warp Portals, Ars Zero the Necropolis, Magic From The East the Onmyoji Shrine and Taoist House, Wind's Spellbooks the Windmill, and Geomancy Plus the Geomancer Tower.
+
+## How often you run into them
+Spacing is the average number of chunks between attempts, taken from each mod's own spawn settings. Smaller means more common.
+- **Mineshafts**: every chunk. The densest thing in the pack, and YUNG's version replaces the vanilla one.
+- **Repurposed Structures** (101 structures): anywhere from every chunk to every 400, depending on the variant.
+- **Moog's Voyager** (130): every 12 to 112 chunks, mostly Overworld.
+- **Trek** (125): every 16 to 150 chunks.
+- **Towns and Towers** villages (59): every 32 to 48 chunks.
+- **Dungeons and Taverns** (58): every 20 to 200 chunks.
+- **Moog's Nether** (44): every 22 to 115 chunks. **Moog's End** (24): every 10 to 88.
+- **When Dungeons Arise** (39): every 35 to 60 chunks.
+- **The Graveyard** (17): every 12 to 120 chunks.
+- **Iron's Spells** structures (5): every 72 to 85 chunks, the rarest of the magic builds.
+
+## What this pack changes about vanilla structures
+- **YUNG's mods replace their vanilla counterpart and switch the original off**: mineshafts, Nether fortresses, jungle temples, ocean monuments, witch huts and desert pyramids. You will never see the plain versions.
+- **Desert temples give you Mining Fatigue** the whole time you are inside one you have not cleared. It lifts when you deal with the tomb at the end. This is on in this pack.
+- **Wither skeletons from Better Dungeons spawners drop skulls**, and blazes from spawners drop rods, so those dungeons are a real farm. Small Nether dungeons are switched off.
+- **The End has no vanilla obsidian spawn platform**, because the End island is rebuilt.
+- **Vanilla villages are off entirely** (No More Villages). What you find are Towns and Towers villages, which is why the update put waystone plazas in the Biomes We've Gone villages rather than the vanilla ones.
+
+## Overlaps worth knowing
+- **Three mods claim the stronghold**: YUNG's Better Strongholds, Repurposed Structures and Trek all write the tag the Eye of Ender follows. Whichever loads last wins, so what you walk into can differ from what a wiki shows.
+- **Mineshafts come from two places**: YUNG's replaces the vanilla one, Repurposed Structures adds its own biome variants on top.
+- Five mods write the village biome tags. Only one ends up in charge, and that is why village style can look inconsistent between saves.
+
+## Which mods actually hold the top-tier loot
+Counted from each mod's chest tables: how many of them can roll netherite, an enchanted golden apple, a totem, an Elytra or a nether star.
+- **Repurposed Structures**: 78 tables. Far more shots at good loot than anything else, spread across every biome variant.
+- **When Dungeons Arise**: 30 tables, concentrated in the big dungeons.
+- **Dungeons and Taverns**: 10, including the illager manor and the Nether fort.
+- **BetterNether** (6) and **The Graveyard** (6).
+- **Iron's Spells** (4): the catacombs and battleground chests.
+- **Moog's Nether** (3) and **Northstar** bases (3).
+- **BetterEnd** (2), and one of those is the End village Elytra.
 
 ## Waystones in the world
 - Waystones generate on their own about every 24 chunks, in every surface biome, as one of three builds: a blossom arch, a moonlight gazebo or a fairy ring. Each has lanterns and a campfire, so the smoke column gives them away from a distance.
@@ -781,6 +817,9 @@ Star Maps for Ceres, Jupiter, Saturn and others exist as items, but none of them
 - Fuel: Methane, Hydrocarbon, Hydrogen and Biofuel all burn for 1,600. Liquid Hydrogen burns for 3,200, twice as long. Electrolysis splits water into oxygen and hydrogen.
 - Bases: the Oxygen Sealer fills rooms with air (it needs oxygen and rotation). The Temperature Regulator and Large Fans extend its range.
 - Titanium: mix rutile, zinc, chlorine and carbon into titanium tetrachloride, then sequenced-assemble it on a sturdy sheet.
+
+## Where you can actually go
+The pack runs four Northstar destinations beyond Earth: the **Moon**, **Mars**, **Mercury** and **Venus**. Each one now generates waystones, so once you have been somewhere you can warp back rather than flying every time. Northstar needs both Create and Valkyrien Skies to work, which is why the rocket is a build rather than a single item.
 
 ## Aircraft (Immersive Aircraft and Man of Many Planes)
 
@@ -3413,9 +3452,10 @@ Experience becomes a fluid you can pump, so enchanting turns into a production l
 - **Liquid Experience**: experience as a fluid. A **Grindstone Drain** under a **Mechanical Grindstone** catches the experience from disenchanting, and an **Experience Hatch** collects what mobs and furnaces give off.
 - **Blaze Enchanter**: a blaze burner that enchants items fed to it, drinking liquid experience. Set the level, and feed it either a direct enchantment or a template.
 - **Printer**: copies written books, enchanted books and maps, using ink and experience.
-- **Blaze Composer** and **Blaze Forger**: combine, extract and move enchantments between items and books, so you can strip a good enchant off junk gear and put it where you want it.
-- **Brass Bookshelf**, **Gem Cutter**, **Infuser** and the essences (crystal, apotheotic) feed the higher tiers, including work with Apotheosis affixes.
+- **Blaze Forger**: an automatic anvil. It repairs and combines gear, and a Spout with liquid experience will top up Mending gear on a belt.
 - **Cake o' Enchanting** and **Bucket o' Enchanting** store experience in a form you can carry.
+
+The mod also ships a Gem Cutter, Infuser, Brass Bookshelf, Affix Augmentor and the apotheotic essences. Those all need Apotheosis, which this pack does not have, so they are dead weight here. The working half is the loop above: experience in, enchanted gear out.
 
 It needs **Create: Dragons Plus**, which also adds fan processing of its own: blow air through sand for bulk sanding, through powder snow for freezing, through a dragon head or dragon's breath for ending, and through golden aercloud for bulk enchanting. It brings a large set of dyes with it too.
 
@@ -3440,6 +3480,18 @@ RFTools runs on FE, so you'll need an Alternator, Generator Coils, or a Bigger R
 - **Crafter T1 to T3**: auto-crafters.
 - **Screens**: live monitors for energy, inventory, fluids, redstone and machines.
 - **RFTools Dimensions**: research dimlets at the Dimlet Workbench (fed with Lost Knowledge), combine them, then build your own dimension in the Dimension Builder. Categories: terrain, biome, structures, sky, time, blocks, fluids, features and more. 7 rarity tiers. Dimensions draw FE continuously, even while you're offline. Dimension "Blob" mobs have 30, 250 or 5,000 HP.
+
+## What each RFTools module gives you
+- **Matter Transmitter and Dialing Device** (Utility): stand on the transmitter, dial a receiver, and you teleport. It is one way, so a return trip needs a second pair.
+- **Builder and shape cards** (Builder): the Builder does the digging and the building. A Quarry card mines an area and backfills with dirt, a Clearing card leaves air, and there are Silk Touch and Fortune versions. A Void card throws away the junk instead of filling your chests with cobble.
+- **Dimension Builder** (Dimensions): makes your own dimension from Dimlets. It costs a lot to create and then keeps costing power to stay alive, and the fancier the dimension the higher that upkeep.
+- **Screens and Powercells** (Utility): wall screens that show energy, fluid levels, item counts or plain text, and Powercells that store energy and can be linked so several of them share one pool.
+- **Crafter** (Utility): simple autocrafting that can chain several recipes, useful long before you build anything bigger.
+
+-# Exact RF numbers for the Builder and dimensions vary by version. Check the tooltips in game rather than trusting a wiki figure.
+
+## Computers (CC: Tweaked)
+Create ships ComputerCraft support out of the box: a computer can read a Speedometer or Stressometer, set a Rotation Speed Controller, drive a Sequenced Gearshift, and run Train Stations and schedules. CC:C Bridge adds more peripherals on top. In practice people use it for timed factory sequences, automatic train dispatch and status displays, the things redstone alone times badly.
 
 ## Bigger Reactors
 A multiblock of reactor casing and glass around fuel rods, fuelled with uranium ingots, with a Power Tap for FE output. The passive reactor is simple. An active reactor feeding a Turbine (up to 32x32x192) is the most efficient FE setup in the pack. Pack multipliers are the defaults (1.0). Recycle waste in the Cyanite Reprocessor.
@@ -3549,6 +3601,17 @@ Ferment grapes in a barrel, then store the wine in a rack. A wine gains 1 effect
 
 Ingredients come from the pack's own recipes. The effect names come from the Vinery wiki.
 
+## What the buffs actually do
+- **Farmer's Delight** is where the useful effects are. Soups and stews give **Comfort**, which regenerates health quietly over time. The big plated meals give **Nourishment**, which stops running, jumping and fighting from draining your hunger. The bigger the meal, the longer it lasts.
+- **Croptopia** is the opposite: hundreds of dishes, all of them pure food and saturation with no effects. Use it for feeding yourself cheaply and for ingredients.
+- **Delightful**, **More Delight** and **Croptopia Delight** are bridges. They let Croptopia's crops go into Farmer's Delight cutting boards and cooking pots, and add extra dishes to both.
+
+## Drinks and smokes
+- **Vinery**: gather wild grapes with a Basket, press them in a Grapevine Pot for juice, then ferment that in a Fermenting Barrel. Wine keeps ageing in the barrel, so older is better. An Applepress does cider. It also brings a full vineyard building set and a wine-themed armour set.
+- **Brewin' and Chewin'**: a **Keg** with four ingredient slots, a liquid slot and a container slot, for fermenting liquors, cheese and fudge, each recipe wanting its own time. It also talks to Create, so a Spout can fill and empty kegs as part of a line.
+- **Drink Beer Refill**: nine base beers, and mixing them with spices turns up new flavours to find, plus tavern decoration to go with them.
+- **Tobacconist**: growing, curing, fermenting and blending tobacco into cigars, cigarettes, pipes and hookahs. It has optional Create integration if you want it industrial.
+
 ## Magic food and drink
 - **Farmer's Spell**: drinks that restore mana. Ink Beer gives back 50% of your max mana, Evasion Latte 15%, Goodberry Juice and Butterbeer 10%, and Pumpkin Juice 5%. Its Alchemist Pot does the magic cooking, and the Gluttony rings add up to +150 max mana while you have Nourishment.
 - **Ars Nouveau's Flavors & Delight**: Wilden and Chimera meat dishes give the Wilden effect (+20% max mana, mana regen and spell damage per level). It also has Archwood fruit pies and jellies, and foods with Blast Resistance, Flourishing (you regain mana when you heal), Synchronized Shield or Freezing Spell. Wilden Hunter and Chimera meat drop when you kill them with a knife.
@@ -3576,7 +3639,17 @@ Ingredients come from the pack's own recipes. The effect names come from the Vin
 - **Sit** on any stair or slab by right-clicking it.
 
 ## Decoration mods
-Macaw's Furniture and Lights, Handcrafted, Chipped (thousands of block variants from its workbenches), Decorative Blocks, Dawn of Time (historic cultural blocks), Immersive Furniture (design your own furniture in-game), Create: Bells & Whistles (train stations), and Gauges & Switches (industrial redstone controls). Resource packs include Enhanced Audio, Visual Titles and Pretty Pipez.
+- **Chipped**: turns almost any vanilla block into hundreds of variants. This is the one that needs its own benches: the Carpenter's Table, Mason's Table, Alchemy Bench, Mechanist's Workbench and the rest, each handling its own material.
+- **Macaw's Furniture** (over 650 recipes) and **Macaw's Lights and Lamps**: couches, wardrobes, desks, sinks, counters, then street lamps, chandeliers, paper lamps and wall lanterns. Plain crafting table.
+- **Handcrafted**: chairs, tables, benches, desks, cushions and crockery in every wood type. Plain crafting table.
+- **Dawn of Time**: over 400 recipes of Japanese, Mayan, Roman and French building blocks, for when vanilla blocks run out of looks. Plain crafting table.
+- **Decorative Blocks**: rustic pieces like palisades, braziers, bonfires, trellises, chandeliers and seats. Craftable normally, and many also cut from a woodcutter.
+- **Supplementaries**: the vanilla-plus one. Jars, sconces, signposts, faucets, planters, pedestals and the rest, mixed in with the gadgets above.
+- **Immersive Furniture**: build your own furniture from an in-game editor rather than fixed recipes.
+- **Curious Lanterns**: more lantern styles to build with, and any of them can hang off your belt for light.
+- **Create: Bells & Whistles** for dressing up train stations and factories, and **Gauges and Switches** for industrial-looking redstone panels, dials and alarm lights.
+
+Resource packs include Enhanced Audio, Visual Titles and Pretty Pipez.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
