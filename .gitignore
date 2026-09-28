@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.bak
+*.zip
+
+# raw menu art and scratch renders used to build the theme, not needed to run or rebuild the site
+_builder/theme_src/
+_builder/theme_work/
+_builder/logos_raw/
+_builder/raw/

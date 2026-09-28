@@ -1,0 +1,27 @@
+<title>BSCraft 4 Wiki</title>
+<meta name="description" content="The BSCraft 4 wiki: every mod, boss, weapon, armor set, spell system and comfort in the pack, straight from the pack's own files.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&family=Silkscreen:wght@400;700&family=VT323&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/icons.css">
+
+<header class="top">
+  <button class="iconbtn menubtn" id="menuBtn" type="button" aria-label="Open the page list" aria-expanded="false">☰</button>
+  <a class="brand" href="#/"><img class="sprite pix" id="brandFlower" alt=""><span><b>BSCraft 4</b><small>Pack wiki</small></span></a>
+  <div class="searchbox">
+    <svg class="mag" viewBox="0 0 16 16" aria-hidden="true"><circle cx="6.5" cy="6.5" r="5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M10.5 10.5 15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <input id="q" type="search" placeholder="Search bosses, items, mods, spells…" autocomplete="off" aria-label="Search the wiki" aria-controls="results">
+    <span class="hint" aria-hidden="true">/</span>
+    <div class="results" id="results" role="listbox" hidden></div>
+  </div>
+  <button class="iconbtn" id="themeBtn" type="button" aria-label="Switch between day and night">☾</button>
+</header>
+<div class="shell">
+  <aside class="side" id="side"><nav id="nav" aria-label="Wiki pages"></nav></aside>
+  <main id="main" tabindex="-1"></main>
+</div>
+<div class="mctip" id="tip" hidden></div>
+
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>

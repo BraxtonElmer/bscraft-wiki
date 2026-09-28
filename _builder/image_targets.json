@@ -1,0 +1,2387 @@
+{
+ "bosses": [
+  {
+   "slug": "tremorzilla",
+   "name": "Tremorzilla",
+   "mod": "Alex's Caves"
+  },
+  {
+   "slug": "luxtructosaurus",
+   "name": "Luxtructosaurus",
+   "mod": "Alex's Caves"
+  },
+  {
+   "slug": "helvar-underworld-knight",
+   "name": "Helvar, Underworld Knight",
+   "mod": "Bosses'Rise"
+  },
+  {
+   "slug": "the-lich",
+   "name": "The Lich",
+   "mod": "Corrupted Champion"
+  },
+  {
+   "slug": "dark-doppelganger",
+   "name": "Dark Doppelganger",
+   "mod": "Dark Doppelganger"
+  },
+  {
+   "slug": "adam-the-void-archmage",
+   "name": "Adam, the Void Archmage",
+   "mod": "Adam's Ars Plus"
+  },
+  {
+   "slug": "josh",
+   "name": "Josh",
+   "mod": "Adam's Ars Plus"
+  },
+  {
+   "slug": "matt-the-holy-archmage",
+   "name": "Matt, the Holy Archmage",
+   "mod": "Adam's Ars Plus"
+  },
+  {
+   "slug": "ender-dragon",
+   "name": "Ender Dragon",
+   "mod": "True Ending"
+  },
+  {
+   "slug": "nerakyss-the-kraken",
+   "name": "Nerakyss, the Kraken",
+   "mod": "Bosses'Rise"
+  },
+  {
+   "slug": "hullbreaker",
+   "name": "Hullbreaker",
+   "mod": "Alex's Caves"
+  },
+  {
+   "slug": "echo-of-tyros",
+   "name": "Echo of Tyros",
+   "mod": "Iron's Spells"
+  },
+  {
+   "slug": "wilden-chimera",
+   "name": "Wilden Chimera",
+   "mod": "Ars Nouveau"
+  },
+  {
+   "slug": "cam-the-lightning-archmage",
+   "name": "Cam, the Lightning Archmage",
+   "mod": "Adam's Ars Plus"
+  },
+  {
+   "slug": "nick-the-earth-archmage",
+   "name": "Nick, the Earth Archmage",
+   "mod": "Adam's Ars Plus"
+  },
+  {
+   "slug": "dead-king",
+   "name": "Dead King",
+   "mod": "Iron's Spells"
+  },
+  {
+   "slug": "hydra",
+   "name": "Hydra",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "ashlord-infernal-dragon",
+   "name": "Ashlord, Infernal Dragon",
+   "mod": "Bosses'Rise"
+  },
+  {
+   "slug": "captain-cornelia",
+   "name": "Captain Cornelia",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "ur-ghast",
+   "name": "Ur-Ghast",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "frostmaw",
+   "name": "Frostmaw",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "skor-the-yeti",
+   "name": "Skor, the Yeti",
+   "mod": "Bosses'Rise"
+  },
+  {
+   "slug": "forsaken",
+   "name": "Forsaken",
+   "mod": "Alex's Caves"
+  },
+  {
+   "slug": "snow-queen",
+   "name": "Snow Queen",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "alpha-yeti",
+   "name": "Alpha Yeti",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "knight-phantoms",
+   "name": "Knight Phantoms",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "void-worm",
+   "name": "Void Worm",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "umvuthi-the-sunbird",
+   "name": "Umvuthi, the Sunbird",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "ryan-the-flame-archmage",
+   "name": "Ryan, the Flame Archmage",
+   "mod": "Adam's Ars Plus"
+  },
+  {
+   "slug": "sirok-the-sandworm",
+   "name": "Sirok, the Sandworm",
+   "mod": "Bosses'Rise"
+  },
+  {
+   "slug": "gum-worm",
+   "name": "Gum Worm",
+   "mod": "Alex's Caves"
+  },
+  {
+   "slug": "cade-the-frost-archmage",
+   "name": "Cade, the Frost Archmage",
+   "mod": "Adam's Ars Plus"
+  },
+  {
+   "slug": "minoshroom",
+   "name": "Minoshroom",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "naga",
+   "name": "Naga",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "lich",
+   "name": "Lich",
+   "mod": "Twilight Forest"
+  },
+  {
+   "slug": "mother-of-the-maze",
+   "name": "Mother of the Maze",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "ferrous-wroughtnaut",
+   "name": "Ferrous Wroughtnaut",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "tongbi-the-sculptor",
+   "name": "Tongbi, the Sculptor",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "magnetron",
+   "name": "Magnetron",
+   "mod": "Alex's Caves"
+  },
+  {
+   "slug": "wither",
+   "name": "Wither",
+   "mod": "vanilla"
+  },
+  {
+   "slug": "warden",
+   "name": "Warden",
+   "mod": "vanilla"
+  },
+  {
+   "slug": "legendary-blob",
+   "name": "Legendary Blob",
+   "mod": "RFTools Dimensions"
+  }
+ ],
+ "mobs": [
+  {
+   "slug": "alligator-snapping-turtle",
+   "name": "Alligator Snapping Turtle",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "anaconda",
+   "name": "Anaconda",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "anteater",
+   "name": "Anteater",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "bald-eagle",
+   "name": "Bald Eagle",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "banana-slug",
+   "name": "Banana Slug",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "bison",
+   "name": "Bison",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "blobfish",
+   "name": "Blobfish",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "blue-jay",
+   "name": "Blue Jay",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "bone-serpent",
+   "name": "Bone Serpent",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "bunfungus",
+   "name": "Bunfungus",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "cachalot-whale",
+   "name": "Cachalot Whale",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "caiman",
+   "name": "Caiman",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "capuchin-monkey",
+   "name": "Capuchin Monkey",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "catfish",
+   "name": "Catfish",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "cave-centipede",
+   "name": "Cave Centipede",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "cockroach",
+   "name": "Cockroach",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "comb-jelly",
+   "name": "Comb Jelly",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "cosmaw",
+   "name": "Cosmaw",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "cosmic-cod",
+   "name": "Cosmic Cod",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "crimson-mosquito",
+   "name": "Crimson Mosquito",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "crocodile",
+   "name": "Crocodile",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "crow",
+   "name": "Crow",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "devil-s-hole-pupfish",
+   "name": "Devil's Hole Pupfish",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "dropbear",
+   "name": "Dropbear",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "elephant",
+   "name": "Elephant",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "emu",
+   "name": "Emu",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "endergrade",
+   "name": "Endergrade",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "enderiophage",
+   "name": "Enderiophage",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "farseer",
+   "name": "Farseer",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "flutter",
+   "name": "Flutter",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "fly",
+   "name": "Fly",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "flying-fish",
+   "name": "Flying Fish",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "frilled-shark",
+   "name": "Frilled Shark",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "froststalker",
+   "name": "Froststalker",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "gazelle",
+   "name": "Gazelle",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "gelada-monkey",
+   "name": "Gelada Monkey",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "giant-squid",
+   "name": "Giant Squid",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "gorilla",
+   "name": "Gorilla",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "grizzly-bear",
+   "name": "Grizzly Bear",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "guster",
+   "name": "Guster",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "hammerhead-shark",
+   "name": "Hammerhead Shark",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "hummingbird",
+   "name": "Hummingbird",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "jerboa",
+   "name": "Jerboa",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "kangaroo",
+   "name": "Kangaroo",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "komodo-dragon",
+   "name": "Komodo Dragon",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "laviathan",
+   "name": "Laviathan",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "leafcutter-ant",
+   "name": "Leafcutter Ant",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "lobster",
+   "name": "Lobster",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "maned-wolf",
+   "name": "Maned Wolf",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "mantis-shrimp",
+   "name": "Mantis Shrimp",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "mimic-octopus",
+   "name": "Mimic Octopus",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "mimicube",
+   "name": "Mimicube",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "moose",
+   "name": "Moose",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "mudskipper",
+   "name": "Mudskipper",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "mungus",
+   "name": "Mungus",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "murmur",
+   "name": "Murmur",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "orca",
+   "name": "Orca",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "platypus",
+   "name": "Platypus",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "potoo",
+   "name": "Potoo",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "raccoon",
+   "name": "Raccoon",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "rain-frog",
+   "name": "Rain Frog",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "rattlesnake",
+   "name": "Rattlesnake",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "rhinoceros",
+   "name": "Rhinoceros",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "roadrunner",
+   "name": "Roadrunner",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "rocky-roller",
+   "name": "Rocky Roller",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "sea-bear",
+   "name": "Sea Bear",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "seagull",
+   "name": "Seagull",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "seal",
+   "name": "Seal",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "shoebill",
+   "name": "Shoebill",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "skelewag",
+   "name": "Skelewag",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "skreecher",
+   "name": "Skreecher",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "skunk",
+   "name": "Skunk",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "snow-leopard",
+   "name": "Snow Leopard",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "soul-vulture",
+   "name": "Soul Vulture",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "spectre",
+   "name": "Spectre",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "straddler",
+   "name": "Straddler",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "stradpole",
+   "name": "Stradpole",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "sugar-glider",
+   "name": "Sugar Glider",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "sunbird",
+   "name": "Sunbird",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "tarantula-hawk",
+   "name": "Tarantula Hawk",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "tasmanian-devil",
+   "name": "Tasmanian Devil",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "terrapin",
+   "name": "Terrapin",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "tiger",
+   "name": "Tiger",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "toucan",
+   "name": "Toucan",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "triops",
+   "name": "Triops",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "tusklin",
+   "name": "Tusklin",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "underminer",
+   "name": "Underminer",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "warped-mosco",
+   "name": "Warped Mosco",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "warped-toad",
+   "name": "Warped Toad",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "void-worm",
+   "name": "Void Worm",
+   "mod": "Alex's Mobs"
+  },
+  {
+   "slug": "foliaath",
+   "name": "Foliaath",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "naga",
+   "name": "Naga",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "grottol",
+   "name": "Grottol",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "lantern",
+   "name": "Lantern",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "bluff",
+   "name": "Bluff",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "elokosa",
+   "name": "Elokosa",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "umvuthana",
+   "name": "Umvuthana",
+   "mod": "Mowzie's Mobs"
+  },
+  {
+   "slug": "lion",
+   "name": "Lion",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "giraffe",
+   "name": "Giraffe",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "hippo",
+   "name": "Hippo",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "rhino",
+   "name": "Rhino",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "vulture",
+   "name": "Vulture",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "boar",
+   "name": "Boar",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "bear",
+   "name": "Bear",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "deer",
+   "name": "Deer",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "alligator",
+   "name": "Alligator",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "snake",
+   "name": "Snake",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "lizard",
+   "name": "Lizard",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "tortoise",
+   "name": "Tortoise",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "bluejay-cardinal-canary-robin",
+   "name": "Bluejay/Cardinal/Canary/Robin",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "butterfly-caterpillar-dragonfly-firefly",
+   "name": "Butterfly/Caterpillar/Dragonfly/Firefly",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "snail",
+   "name": "Snail",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "duck",
+   "name": "Duck",
+   "mod": "Naturalist"
+  },
+  {
+   "slug": "stranded",
+   "name": "Stranded",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "firekeeper",
+   "name": "Firekeeper",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "sea-cow",
+   "name": "Sea Cow",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "flukeshroom",
+   "name": "Flukeshroom",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "seahorse",
+   "name": "Seahorse",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "octopus",
+   "name": "Octopus",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "barracuda",
+   "name": "Barracuda",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "spider-crab",
+   "name": "Spider Crab",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "coastal-crab",
+   "name": "Coastal Crab",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "clam",
+   "name": "Clam",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "booby",
+   "name": "Booby",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "dodo",
+   "name": "Dodo",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "ant",
+   "name": "Ant",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "hamster",
+   "name": "Hamster",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "stickbug",
+   "name": "Stickbug",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "sunfish",
+   "name": "Sunfish",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "iguana",
+   "name": "Iguana",
+   "mod": "Spawn"
+  },
+  {
+   "slug": "coconut-crab",
+   "name": "Coconut Crab",
+   "mod": "Ecologics"
+  },
+  {
+   "slug": "camel",
+   "name": "Camel",
+   "mod": "Ecologics"
+  },
+  {
+   "slug": "penguin",
+   "name": "Penguin",
+   "mod": "Ecologics"
+  },
+  {
+   "slug": "squirrel",
+   "name": "Squirrel",
+   "mod": "Ecologics"
+  },
+  {
+   "slug": "burned",
+   "name": "Burned",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "frostbitten",
+   "name": "Frostbitten",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "glacial-hunter",
+   "name": "Glacial Hunter",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "swampy",
+   "name": "Swampy",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "undead-miner",
+   "name": "Undead Miner",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "mummy",
+   "name": "Mummy",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "scarab",
+   "name": "Scarab",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "skeleton-lackey",
+   "name": "Skeleton Lackey",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "zombie-lackey",
+   "name": "Zombie Lackey",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "zap",
+   "name": "Zap",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "hunter-wolf",
+   "name": "Hunter Wolf",
+   "mod": "Rotten Creatures"
+  },
+  {
+   "slug": "ghoul",
+   "name": "Ghoul",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "revenant",
+   "name": "Revenant",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "skeleton-creeper",
+   "name": "Skeleton Creeper",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "reaper",
+   "name": "Reaper",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "nightmare",
+   "name": "Nightmare",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "acolyte",
+   "name": "Acolyte",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "wraith",
+   "name": "Wraith",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "corrupted-pillager",
+   "name": "Corrupted Pillager",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "corrupted-vindicator",
+   "name": "Corrupted Vindicator",
+   "mod": "The Graveyard"
+  },
+  {
+   "slug": "moon-lunargrade",
+   "name": "Moon Lunargrade",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "moon-snail",
+   "name": "Moon Snail",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "moon-eel",
+   "name": "Moon Eel",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "frozen-zombie",
+   "name": "Frozen Zombie",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "mars-cobra",
+   "name": "Mars Cobra",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "mars-devil-moth",
+   "name": "Mars Devil Moth",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "mars-root-toad",
+   "name": "Mars Root Toad",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "mars-echo-worm",
+   "name": "Mars Echo Worm",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "mercurian-raptor",
+   "name": "Mercurian Raptor",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "mercury-roach",
+   "name": "Mercury Roach",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "mercury-tortoise",
+   "name": "Mercury Tortoise",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "venus-scorpion",
+   "name": "Venus Scorpion",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "venus-vulture",
+   "name": "Venus Vulture",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "venus-stone-bull",
+   "name": "Venus Stone Bull",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "venus-mimic",
+   "name": "Venus Mimic",
+   "mod": "Northstar"
+  },
+  {
+   "slug": "cubozoa",
+   "name": "Cubozoa",
+   "mod": "BetterEnd"
+  },
+  {
+   "slug": "ender-dragonfly",
+   "name": "Ender Dragonfly",
+   "mod": "BetterEnd"
+  },
+  {
+   "slug": "end-fish",
+   "name": "End Fish",
+   "mod": "BetterEnd"
+  },
+  {
+   "slug": "end-slime",
+   "name": "End Slime",
+   "mod": "BetterEnd"
+  },
+  {
+   "slug": "silk-moth",
+   "name": "Silk Moth",
+   "mod": "BetterEnd"
+  },
+  {
+   "slug": "jungle-skeleton",
+   "name": "Jungle Skeleton",
+   "mod": "BetterNether"
+  },
+  {
+   "slug": "skull",
+   "name": "Skull",
+   "mod": "BetterNether"
+  },
+  {
+   "slug": "hydrogen-jellyfish",
+   "name": "Hydrogen Jellyfish",
+   "mod": "BetterNether"
+  },
+  {
+   "slug": "flying-pig",
+   "name": "Flying Pig",
+   "mod": "BetterNether"
+  },
+  {
+   "slug": "firefly",
+   "name": "Firefly",
+   "mod": "BetterNether"
+  },
+  {
+   "slug": "corpor",
+   "name": "Corpor",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "wraither",
+   "name": "Wraither",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "wex",
+   "name": "Wex",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "wither-skeleton-knight",
+   "name": "Wither Skeleton Knight",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "wither-skeleton-horse",
+   "name": "Wither Skeleton Horse",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "warped-enderman",
+   "name": "Warped Enderman",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "piglin-prisoner",
+   "name": "Piglin Prisoner",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "piglin-hunter",
+   "name": "Piglin Hunter",
+   "mod": "Bygone Nether"
+  },
+  {
+   "slug": "eel",
+   "name": "Eel",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "anglerfish",
+   "name": "Anglerfish",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "maw",
+   "name": "Maw",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "tortured-soul",
+   "name": "Tortured Soul",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "golden-moth",
+   "name": "Golden Moth",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "abyssal-scyphoid",
+   "name": "Abyssal Scyphoid",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "spinefish",
+   "name": "Spinefish",
+   "mod": "Aquamirae"
+  },
+  {
+   "slug": "polarizz",
+   "name": "Polarizz",
+   "mod": "Alex's Caves: Stuff & Torpedoes"
+  },
+  {
+   "slug": "shadow",
+   "name": "Shadow",
+   "mod": "Alex's Caves: Stuff & Torpedoes"
+  },
+  {
+   "slug": "bulb",
+   "name": "Bulb",
+   "mod": "Alex's Caves: Stuff & Torpedoes"
+  },
+  {
+   "slug": "magnetic-burst",
+   "name": "Magnetic Burst",
+   "mod": "Alex's Caves: Stuff & Torpedoes"
+  },
+  {
+   "slug": "torpedo-missile",
+   "name": "Torpedo Missile",
+   "mod": "Alex's Caves: Stuff & Torpedoes"
+  },
+  {
+   "slug": "guardian-golem",
+   "name": "Guardian Golem",
+   "mod": "Forgotten Ruins"
+  },
+  {
+   "slug": "irradiated-cat",
+   "name": "Irradiated Cat",
+   "mod": "Create Nuclear"
+  },
+  {
+   "slug": "irradiated-chicken",
+   "name": "Irradiated Chicken",
+   "mod": "Create Nuclear"
+  },
+  {
+   "slug": "irradiated-wolf",
+   "name": "Irradiated Wolf",
+   "mod": "Create Nuclear"
+  },
+  {
+   "slug": "twilight-trader",
+   "name": "Twilight Trader",
+   "mod": "TF Dungeons & Villages"
+  },
+  {
+   "slug": "wilden-hunter",
+   "name": "Wilden Hunter",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "wilden-stalker",
+   "name": "Wilden Stalker",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "wilden-guardian",
+   "name": "Wilden Guardian",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "weald-walker",
+   "name": "Weald Walker",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "starbuncle",
+   "name": "Starbuncle",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "whirlisprig",
+   "name": "Whirlisprig",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "drygmy",
+   "name": "Drygmy",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "bookwyrm",
+   "name": "Bookwyrm",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "mysterious-mages",
+   "name": "Mysterious Mages",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "mage-knights",
+   "name": "Mage Knights",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "necromancer",
+   "name": "Necromancer",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "bone-golem",
+   "name": "Bone Golem",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "lich",
+   "name": "Lich",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "pyromancer",
+   "name": "Pyromancer",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "cryomancer",
+   "name": "Cryomancer",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "archevoker",
+   "name": "Archevoker",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "priest",
+   "name": "Priest",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "cultist",
+   "name": "Cultist",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "apothecarist",
+   "name": "Apothecarist",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "keeper",
+   "name": "Keeper",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "the-ancient-knight",
+   "name": "the Ancient Knight",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "ice-spider",
+   "name": "Ice Spider",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "cursed-armor-stand",
+   "name": "Cursed Armor Stand",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "jiangshi",
+   "name": "Jiangshi",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "onmyoji",
+   "name": "Onmyoji",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "taoist",
+   "name": "Taoist",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "aeromancer",
+   "name": "Aeromancer",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "geomancer",
+   "name": "Geomancer",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "geo-grandmaster",
+   "name": "Geo Grandmaster",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "rogue-elemental-mages",
+   "name": "Rogue elemental mages",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "mermaid",
+   "name": "Mermaid",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "siren",
+   "name": "Siren",
+   "mod": "Magic mods"
+  },
+  {
+   "slug": "foodgeist",
+   "name": "Foodgeist",
+   "mod": "Magic mods"
+  }
+ ],
+ "mods": [
+  {
+   "id": "alexscaves",
+   "name": "Alex's Caves",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/alexs-caves"
+  },
+  {
+   "id": "alexscaves_torpedoes",
+   "name": "Alex's Caves: Stuff & Torpedoes",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/alexscaves-torpedoes"
+  },
+  {
+   "id": "betterend",
+   "name": "Better End",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/betterend-forge"
+  },
+  {
+   "id": "betternether",
+   "name": "Better Nether",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/betternether-forge"
+  },
+  {
+   "id": "bygonenether",
+   "name": "Bygone Nether",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/bygone-nether"
+  },
+  {
+   "id": "create_alexscaves_compat",
+   "name": "Create: Alex's Caves Compat",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/create-alexs-caves-compat"
+  },
+  {
+   "id": "mr_limesplatus_ending",
+   "name": "True Ending: Ender Dragon Overhaul",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/true-ending"
+  },
+  {
+   "id": "tf_dnv",
+   "name": "Twilight Forest - Dungeons & Villages",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/the-twilight-forest-dungeons-villages"
+  },
+  {
+   "id": "twilightdelight",
+   "name": "Twilight's Flavor & Delight",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/twilight-delight"
+  },
+  {
+   "id": "betterendisland",
+   "name": "YUNG's Better End Island",
+   "cat": "Dimensions & Adventure",
+   "modrinth": "https://modrinth.com/mod/yungs-better-end-island"
+  },
+  {
+   "id": "barteringstation",
+   "name": "Bartering Station",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/bartering-station"
+  },
+  {
+   "id": "mr_dungeons_andtaverns",
+   "name": "Dungeons and Taverns",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/dungeons-and-taverns"
+  },
+  {
+   "id": "mr_dungeons_andtavernsancientcityoverhaul",
+   "name": "Dungeons and Taverns Ancient City Overhaul",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/dungeons-and-taverns-ancient-city-overhaul"
+  },
+  {
+   "id": "mr_epic_structuresvillages",
+   "name": "Epic Structures: Villages",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/epic-structures-villages"
+  },
+  {
+   "id": "forgottenruins",
+   "name": "Forgotten Ruins",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/forgotten-ruins"
+  },
+  {
+   "id": "lootr",
+   "name": "Lootr",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/lootr"
+  },
+  {
+   "id": "mes",
+   "name": "MoogsEndStructures",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/mes-moogs-end-structures"
+  },
+  {
+   "id": "mns",
+   "name": "MoogsNetherStructures",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/mns-moogs-nether-structures"
+  },
+  {
+   "id": "mss",
+   "name": "MoogsSoaringStructures",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/mss-moogs-soaring-structures"
+  },
+  {
+   "id": "mtr",
+   "name": "MoogsTemplesReimagined",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/mtr-moogs-temples-reimagined"
+  },
+  {
+   "id": "mvs",
+   "name": "MoogsVoyagerStructures",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/moogs-voyager-structures"
+  },
+  {
+   "id": "mr_no_morevillages",
+   "name": "No More Villages",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/no-more-villages"
+  },
+  {
+   "id": "repurposed_structures",
+   "name": "Repurposed Structures",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/repurposed-structures-forge"
+  },
+  {
+   "id": "mr_tidal_towns",
+   "name": "Tidal Towns",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/tidal-towns"
+  },
+  {
+   "id": "t_and_t",
+   "name": "Towns and Towers",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/towns-and-towers"
+  },
+  {
+   "id": "travelerstitles",
+   "name": "Traveler's Titles",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/travelers-titles"
+  },
+  {
+   "id": "mr_trek",
+   "name": "Trek",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/trek"
+  },
+  {
+   "id": "dungeons_arise",
+   "name": "When Dungeons Arise",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/when-dungeons-arise"
+  },
+  {
+   "id": "betterdeserttemples",
+   "name": "YUNG's Better Desert Temples",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-desert-temples"
+  },
+  {
+   "id": "betterdungeons",
+   "name": "YUNG's Better Dungeons",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-dungeons"
+  },
+  {
+   "id": "betterjungletemples",
+   "name": "YUNG's Better Jungle Temples",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-jungle-temples"
+  },
+  {
+   "id": "bettermineshafts",
+   "name": "YUNG's Better Mineshafts",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-mineshafts"
+  },
+  {
+   "id": "betterfortresses",
+   "name": "YUNG's Better Nether Fortresses",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-nether-fortresses"
+  },
+  {
+   "id": "betteroceanmonuments",
+   "name": "YUNG's Better Ocean Monuments",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-ocean-monuments"
+  },
+  {
+   "id": "betterstrongholds",
+   "name": "YUNG's Better Strongholds",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-strongholds"
+  },
+  {
+   "id": "betterwitchhuts",
+   "name": "YUNG's Better Witch Huts",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-better-witch-huts"
+  },
+  {
+   "id": "yungsbridges",
+   "name": "YUNG's Bridges",
+   "cat": "Structures & Exploration",
+   "modrinth": "https://modrinth.com/mod/yungs-bridges"
+  },
+  {
+   "id": "biomeswevegone",
+   "name": "Oh The Biomes We've Gone",
+   "cat": "World Generation & Biomes",
+   "modrinth": "https://modrinth.com/mod/oh-the-biomes-weve-gone"
+  },
+  {
+   "id": "ohthetreesyoullgrow",
+   "name": "Oh The Trees You'll Grow",
+   "cat": "World Generation & Biomes",
+   "modrinth": "https://modrinth.com/mod/oh-the-trees-youll-grow"
+  },
+  {
+   "id": "regions_unexplored",
+   "name": "Regions Unexplored",
+   "cat": "World Generation & Biomes",
+   "modrinth": "https://modrinth.com/mod/regions-unexplored"
+  },
+  {
+   "id": "terrablender",
+   "name": "TerraBlender",
+   "cat": "World Generation & Biomes",
+   "modrinth": "https://modrinth.com/mod/terrablender"
+  },
+  {
+   "id": "yungscavebiomes",
+   "name": "YUNG's Cave Biomes",
+   "cat": "World Generation & Biomes",
+   "modrinth": "https://modrinth.com/mod/yungs-cave-biomes"
+  },
+  {
+   "id": "alexsmobs",
+   "name": "Alex's Mobs",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/alexs-mobs"
+  },
+  {
+   "id": "aquamirae",
+   "name": "Aquamirae",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/aquamirae"
+  },
+  {
+   "id": "block_factorys_bosses",
+   "name": "Bosses'Rise",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/bossesrise"
+  },
+  {
+   "id": "ecologics",
+   "name": "Ecologics",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/ecologics"
+  },
+  {
+   "id": "mowziesmobs",
+   "name": "Mowzie's Mobs",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/mowzies-mobs"
+  },
+  {
+   "id": "naturalist",
+   "name": "Naturalist",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/naturalist"
+  },
+  {
+   "id": "nyctophobia",
+   "name": "Nyctophobia",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/nyctophobia"
+  },
+  {
+   "id": "rottencreatures",
+   "name": "Rotten Creatures",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/rottencreatures"
+  },
+  {
+   "id": "spawn",
+   "name": "Spawn",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/spawn-mod"
+  },
+  {
+   "id": "graveyard",
+   "name": "The Graveyard",
+   "cat": "Bosses & Mobs",
+   "modrinth": "https://modrinth.com/mod/the-graveyard-forge"
+  },
+  {
+   "id": "armoroftheages",
+   "name": "Armor of the Ages",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/armor-of-the-ages"
+  },
+  {
+   "id": "artifacts",
+   "name": "Artifacts",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/artifacts"
+  },
+  {
+   "id": "attributefix",
+   "name": "AttributeFix",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/attributefix"
+  },
+  {
+   "id": "charmofundying",
+   "name": "Charm of Undying",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/charm-of-undying"
+  },
+  {
+   "id": "curios",
+   "name": "Curios API",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/curios"
+  },
+  {
+   "id": "elytraslot",
+   "name": "Elytra Slot",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/elytra-slot"
+  },
+  {
+   "id": "ensorcellation",
+   "name": "Ensorcellation",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/ensorcellation"
+  },
+  {
+   "id": "immersive_armors",
+   "name": "Immersive Armors",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/immersive-armors"
+  },
+  {
+   "id": "shieldexp",
+   "name": "Shield Expansion",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/shield-expansion"
+  },
+  {
+   "id": "simplyswords",
+   "name": "Simply Swords",
+   "cat": "Weapons, Armor & Accessories",
+   "modrinth": "https://modrinth.com/mod/simply-swords"
+  },
+  {
+   "id": "apprenticecodex",
+   "name": "Apprentice's Codex",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/apprentices-codex"
+  },
+  {
+   "id": "ars_n_spells",
+   "name": "Ars 'n' Spells",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/ars-n-spells"
+  },
+  {
+   "id": "ars_additions",
+   "name": "Ars Additions",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/ars-additions"
+  },
+  {
+   "id": "ars_artifice",
+   "name": "Ars Artifice",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/ars-artifice"
+  },
+  {
+   "id": "ars_controle",
+   "name": "Ars Controle",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/ars-controle"
+  },
+  {
+   "id": "ars_creo",
+   "name": "Ars Creo",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/ars-creo"
+  },
+  {
+   "id": "ars_nouveau",
+   "name": "Ars Nouveau",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/ars-nouveau"
+  },
+  {
+   "id": "arsdelight",
+   "name": "Ars Nouveau's Flavors & Delight",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/arsdelight"
+  },
+  {
+   "id": "farmers_spell",
+   "name": "Farmer's Spell",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/farmers-spell"
+  },
+  {
+   "id": "irons_spellbooks_tweaks",
+   "name": "Iron's Spellbooks Tweaks",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/irons-spellbooks-tweaks"
+  },
+  {
+   "id": "irons_spellbooks",
+   "name": "Iron's Spells 'n Spellbooks",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/irons-spells-n-spellbooks"
+  },
+  {
+   "id": "iss_magicfromtheeast",
+   "name": "ISS: Magic From The East",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/magic-from-the-east"
+  },
+  {
+   "id": "not_enough_glyphs",
+   "name": "Not Enough Glyphs",
+   "cat": "Magic",
+   "modrinth": "https://modrinth.com/mod/not-enough-glyphs"
+  },
+  {
+   "id": "vs_clockwork",
+   "name": "Clockwork",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/create-clockwork"
+  },
+  {
+   "id": "createpropulsion",
+   "name": "Create: Propulsion",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/create-propulsion"
+  },
+  {
+   "id": "do_a_barrel_roll",
+   "name": "Do a Barrel Roll",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/do-a-barrel-roll"
+  },
+  {
+   "id": "dragonmounts",
+   "name": "Dragon Mounts: Legacy",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/dragon-mounts-legacy"
+  },
+  {
+   "id": "immersive_aircraft",
+   "name": "Immersive Aircraft",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/immersive-aircraft"
+  },
+  {
+   "id": "immersive_machinery",
+   "name": "Immersive Machinery",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/immersive-machinery"
+  },
+  {
+   "id": "man_of_many_planes",
+   "name": "Man of Many Planes",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/man-of-many-planes"
+  },
+  {
+   "id": "northstar",
+   "name": "Northstar Redux",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/northstar-redux"
+  },
+  {
+   "id": "valkyrienskies",
+   "name": "Valkyrien Skies 2",
+   "cat": "Space, Ships & Vehicles",
+   "modrinth": "https://modrinth.com/mod/valkyrien-skies"
+  },
+  {
+   "id": "alternate_current",
+   "name": "Alternate Current",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/alternate-current"
+  },
+  {
+   "id": "computercraft",
+   "name": "CC: Tweaked",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/cc-tweaked"
+  },
+  {
+   "id": "cccbridge",
+   "name": "CC:C Bridge",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/cccbridge"
+  },
+  {
+   "id": "chunkloaders",
+   "name": "Chunk Loaders",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/chunk-loaders"
+  },
+  {
+   "id": "create",
+   "name": "Create",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/create"
+  },
+  {
+   "id": "createaddition",
+   "name": "Create Crafts & Additions",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/createaddition"
+  },
+  {
+   "id": "createnuclear",
+   "name": "Create Nuclear",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/createnuclear"
+  },
+  {
+   "id": "sliceanddice",
+   "name": "Create Slice & Dice",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/slice-and-dice"
+  },
+  {
+   "id": "bellsandwhistles",
+   "name": "Create: Bells & Whistles",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/bellsandwhistles"
+  },
+  {
+   "id": "createdieselgenerators",
+   "name": "Create: Diesel Generators",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/create-diesel-generators"
+  },
+  {
+   "id": "create_new_age",
+   "name": "Create: New Age",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/create-new-age"
+  },
+  {
+   "id": "create_oppenheimered",
+   "name": "Create: Oppenheimered",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/create-oppenheimered"
+  },
+  {
+   "id": "powergrid",
+   "name": "Create: Power Grid",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/power-grid"
+  },
+  {
+   "id": "railways",
+   "name": "Create: Steam 'n' Rails",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/create-steam-n-rails"
+  },
+  {
+   "id": "delightfulcreators",
+   "name": "Delightful Creators",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/delightful-creators"
+  },
+  {
+   "id": "rftoolsbase",
+   "name": "RFToolsBase",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/rftools-base"
+  },
+  {
+   "id": "rftoolsbuilder",
+   "name": "RFToolsBuilder",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/rftools-builder"
+  },
+  {
+   "id": "rftoolsdim",
+   "name": "RFToolsDimensions",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/rftools-dimensions"
+  },
+  {
+   "id": "rftoolsutility",
+   "name": "RFToolsUtility",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/rftools-utility"
+  },
+  {
+   "id": "wirelessredstone",
+   "name": "Wireless Redstone",
+   "cat": "Tech & Automation",
+   "modrinth": "https://modrinth.com/mod/wirelessredstone"
+  },
+  {
+   "id": "vinery",
+   "name": "[Let's Do] Vinery",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/lets-do-vinery"
+  },
+  {
+   "id": "brewinandchewin",
+   "name": "Brewin' And Chewin'",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/brewin-and-chewin"
+  },
+  {
+   "id": "croptopiadelight",
+   "name": "Croptopia Delight",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/croptopia-delight"
+  },
+  {
+   "id": "delightful",
+   "name": "Delightful",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/delightful"
+  },
+  {
+   "id": "drinkbeer",
+   "name": "Drink Beer Refill",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/drink-beer-refill"
+  },
+  {
+   "id": "farmersdelight",
+   "name": "Farmer's Delight",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/farmers-delight"
+  },
+  {
+   "id": "moredelight",
+   "name": "More Delight",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/more-delight"
+  },
+  {
+   "id": "tobacconistmod",
+   "name": "Tobacconist",
+   "cat": "Food & Farming",
+   "modrinth": "https://modrinth.com/mod/tobacconist"
+  },
+  {
+   "id": "chipped",
+   "name": "Chipped",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/chipped"
+  },
+  {
+   "id": "comforts",
+   "name": "Comforts",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/comforts"
+  },
+  {
+   "id": "dawnoftimebuilder",
+   "name": "Dawn Of Time",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/dawn-of-time"
+  },
+  {
+   "id": "decorative_blocks",
+   "name": "Decorative Blocks",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/decorative-blocks"
+  },
+  {
+   "id": "handcrafted",
+   "name": "Handcrafted",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/handcrafted"
+  },
+  {
+   "id": "immersive_furniture",
+   "name": "Immersive Furniture",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/immersive-furniture"
+  },
+  {
+   "id": "mcwfurnitures",
+   "name": "Macaw's Furniture",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/macaws-furniture"
+  },
+  {
+   "id": "mcwlights",
+   "name": "Macaw's Lights and Lamps",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/macaws-lights-and-lamps"
+  },
+  {
+   "id": "supplementaries",
+   "name": "Supplementaries",
+   "cat": "Building & Decoration",
+   "modrinth": "https://modrinth.com/mod/supplementaries"
+  },
+  {
+   "id": "corpse",
+   "name": "Corpse",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/corpse"
+  },
+  {
+   "id": "corpsecurioscompat",
+   "name": "corpsecurioscompat",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/corpse-x-curios-api-compat"
+  },
+  {
+   "id": "ironchest",
+   "name": "Iron Chests",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/iron-chests"
+  },
+  {
+   "id": "naturescompass",
+   "name": "Nature's Compass",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/natures-compass"
+  },
+  {
+   "id": "polymorph",
+   "name": "Polymorph",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/polymorph"
+  },
+  {
+   "id": "sit",
+   "name": "Sit",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/bl4cks-sit"
+  },
+  {
+   "id": "sophisticatedbackpacks",
+   "name": "Sophisticated Backpacks",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/sophisticated-backpacks"
+  },
+  {
+   "id": "sophisticatedcore",
+   "name": "Sophisticated Core",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/sophisticated-core"
+  },
+  {
+   "id": "waystones",
+   "name": "Waystones",
+   "cat": "Storage, Travel & Utility",
+   "modrinth": "https://modrinth.com/mod/waystones"
+  },
+  {
+   "id": "appleskin",
+   "name": "AppleSkin",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/appleskin"
+  },
+  {
+   "id": "betterf3",
+   "name": "BetterF3",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/betterf3"
+  },
+  {
+   "id": "drippyloadingscreen",
+   "name": "Drippy Loading Screen",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/drippy-loading-screen"
+  },
+  {
+   "id": "enchdesc",
+   "name": "EnchantmentDescriptions",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/enchantment-descriptions"
+  },
+  {
+   "id": "fancymenu",
+   "name": "FancyMenu",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/fancymenu"
+  },
+  {
+   "id": "inventoryhud",
+   "name": "Inventory HUD+",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/inventoryhudplus"
+  },
+  {
+   "id": "inventoryprofilesnext",
+   "name": "Inventory Profiles Next",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/inventory-profiles-next"
+  },
+  {
+   "id": "jade",
+   "name": "Jade",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/jade"
+  },
+  {
+   "id": "jei",
+   "name": "Just Enough Items",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/jei"
+  },
+  {
+   "id": "jeresources",
+   "name": "Just Enough Resources",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/just-enough-resources-jer"
+  },
+  {
+   "id": "legendarytooltips",
+   "name": "Legendary Tooltips",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/legendary-tooltips"
+  },
+  {
+   "id": "libipn",
+   "name": "libIPN",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/libipn"
+  },
+  {
+   "id": "mobplaques",
+   "name": "Mob Plaques",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/mob-plaques"
+  },
+  {
+   "id": "mousetweaks",
+   "name": "Mouse Tweaks",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/mouse-tweaks"
+  },
+  {
+   "id": "ok_zoomer",
+   "name": "Ok Zoomer",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/ok-zoomer"
+  },
+  {
+   "id": "patchouli",
+   "name": "Patchouli",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/patchouli"
+  },
+  {
+   "id": "xaerominimap",
+   "name": "Xaero's Minimap",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/xaeros-minimap"
+  },
+  {
+   "id": "xaeroworldmap",
+   "name": "Xaero's World Map",
+   "cat": "Interface & Info",
+   "modrinth": "https://modrinth.com/mod/xaeros-world-map"
+  },
+  {
+   "id": "skinlayers3d",
+   "name": "3d-Skin-Layers",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/3dskinlayers"
+  },
+  {
+   "id": "ambientsounds",
+   "name": "AmbientSounds",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/ambientsounds"
+  },
+  {
+   "id": "athena",
+   "name": "Athena",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/athena-ctm"
+  },
+  {
+   "id": "betteranimationscollection",
+   "name": "Better Animations Collection",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/better-animations-collection"
+  },
+  {
+   "id": "culllessleaves",
+   "name": "Cull Less Leaves Reforged",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/cull-less-leaves-reforged"
+  },
+  {
+   "id": "customskinloader-bootstrap",
+   "name": "CustomSkinLoader Bootstrap",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/customskinloader"
+  },
+  {
+   "id": "distanthorizons",
+   "name": "Distant Horizons",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/distanthorizons"
+  },
+  {
+   "id": "fusion",
+   "name": "Fusion",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/fusion-connected-textures"
+  },
+  {
+   "id": "magiccircles",
+   "name": "Magic Circles - ISAS Addon",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/magic-circles-isas-addon"
+  },
+  {
+   "id": "notenoughanimations",
+   "name": "NotEnoughAnimations",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/not-enough-animations"
+  },
+  {
+   "id": "oculus",
+   "name": "Oculus",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/oculus"
+  },
+  {
+   "id": "particular",
+   "name": "Particular",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/particular-reforged"
+  },
+  {
+   "id": "presencefootsteps",
+   "name": "Presence Footsteps [FORGE]",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/presence-footsteps-forge"
+  },
+  {
+   "id": "radiantgear",
+   "name": "Radiant Gear",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/radiant-gear"
+  },
+  {
+   "id": "ryoamiclights",
+   "name": "RyoamicLights",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/ryoamiclights"
+  },
+  {
+   "id": "sound_physics_remastered",
+   "name": "Sound Physics Remastered",
+   "cat": "Visuals & Audio",
+   "modrinth": "https://modrinth.com/mod/sound-physics-remastered"
+  }
+ ]
+}

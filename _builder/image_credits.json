@@ -1,0 +1,1604 @@
+{
+ "bosses": {
+  "tremorzilla": {
+   "file": "images/bosses/tremorzilla.jpg",
+   "source": "https://alexscaves.wiki.gg/wiki/Tremorzilla",
+   "wiki": "Alex's Caves Wiki (wiki.gg)",
+   "title": "Tremorzilla"
+  },
+  "ender-dragon": {
+   "file": "images/bosses/ender-dragon.jpg",
+   "source": "https://minecraft.wiki/wiki/Ender_Dragon",
+   "wiki": "Minecraft Wiki",
+   "title": "Ender Dragon"
+  },
+  "ashlord-infernal-dragon": {
+   "file": "images/bosses/ashlord-infernal-dragon.jpg",
+   "source": "https://linggango.wiki.gg/wiki/Infernal_Dragon",
+   "wiki": "Linggango Wiki (wiki.gg)",
+   "title": "Infernal Dragon"
+  },
+  "skor-the-yeti": {
+   "file": "images/bosses/skor-the-yeti.jpg",
+   "source": "https://linggango.wiki.gg/wiki/Yeti",
+   "wiki": "Linggango Wiki (wiki.gg)",
+   "title": "Yeti"
+  },
+  "sirok-the-sandworm": {
+   "file": "images/bosses/sirok-the-sandworm.jpg",
+   "source": "https://linggango.wiki.gg/wiki/Sandworm",
+   "wiki": "Linggango Wiki (wiki.gg)",
+   "title": "Sandworm"
+  },
+  "gum-worm": {
+   "file": "images/bosses/gum-worm.jpg",
+   "source": "https://alexscaves.wiki.gg/wiki/Gum_Worm",
+   "wiki": "Alex's Caves Wiki (wiki.gg)",
+   "title": "Gum Worm"
+  },
+  "wither": {
+   "file": "images/bosses/wither.jpg",
+   "source": "https://minecraft.wiki/wiki/Wither",
+   "wiki": "Minecraft Wiki",
+   "title": "Wither"
+  },
+  "warden": {
+   "file": "images/bosses/warden.jpg",
+   "source": "https://minecraft.wiki/wiki/Warden",
+   "wiki": "Minecraft Wiki",
+   "title": "Warden"
+  },
+  "frostmaw": {
+   "file": "images/bosses/frostmaw.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Frostmaw",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Frostmaw"
+  },
+  "void-worm": {
+   "file": "images/bosses/void-worm.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Void_Worm",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Void Worm"
+  },
+  "umvuthi-the-sunbird": {
+   "file": "images/bosses/umvuthi-the-sunbird.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Umvuthi%2C_the_Sunbird",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Umvuthi, the Sunbird"
+  },
+  "ferrous-wroughtnaut": {
+   "file": "images/bosses/ferrous-wroughtnaut.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Ferrous_Wroughtnaut",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Ferrous Wroughtnaut"
+  },
+  "hullbreaker": {
+   "file": "images/bosses/hullbreaker.jpg",
+   "source": "https://alexscaves.wiki.gg/wiki/Hullbreaker",
+   "wiki": "Alex's Caves Wiki (wiki.gg)",
+   "title": "Hullbreaker"
+  },
+  "forsaken": {
+   "file": "images/bosses/forsaken.jpg",
+   "source": "https://alexscaves.wiki.gg/wiki/Forsaken",
+   "wiki": "Alex's Caves Wiki (wiki.gg)",
+   "title": "Forsaken"
+  },
+  "magnetron": {
+   "file": "images/bosses/magnetron.jpg",
+   "source": "https://alexscaves.wiki.gg/wiki/Magnetron",
+   "wiki": "Alex's Caves Wiki (wiki.gg)",
+   "title": "Magnetron"
+  },
+  "tongbi-the-sculptor": {
+   "file": "images/bosses/tongbi-the-sculptor.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Tongbi%2C_the_Sculptor",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Tongbi, the Sculptor"
+  },
+  "helvar-underworld-knight": {
+   "file": "images/bosses/helvar-underworld-knight.jpg",
+   "source": "https://modrinth.com/mod/bossesrise",
+   "wiki": "Modrinth (gallery)",
+   "title": "Underworld Knight"
+  }
+ },
+ "mobs": {
+  "alligator-snapping-turtle": {
+   "file": "images/mobs/alligator-snapping-turtle.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Alligator_Snapping_Turtle",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Alligator Snapping Turtle"
+  },
+  "anaconda": {
+   "file": "images/mobs/anaconda.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Anaconda",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Anaconda"
+  },
+  "anteater": {
+   "file": "images/mobs/anteater.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Anteater",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Anteater"
+  },
+  "bald-eagle": {
+   "file": "images/mobs/bald-eagle.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Bald_Eagle",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Bald Eagle"
+  },
+  "banana-slug": {
+   "file": "images/mobs/banana-slug.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Banana_Slug",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Banana Slug"
+  },
+  "bison": {
+   "file": "images/mobs/bison.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Bison",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Bison"
+  },
+  "blobfish": {
+   "file": "images/mobs/blobfish.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Blobfish_%28mob%29",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Blobfish (mob)"
+  },
+  "blue-jay": {
+   "file": "images/mobs/blue-jay.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Blue_Jay",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Blue Jay"
+  },
+  "bone-serpent": {
+   "file": "images/mobs/bone-serpent.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Bone_Serpent",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Bone Serpent"
+  },
+  "bunfungus": {
+   "file": "images/mobs/bunfungus.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Bunfungus",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Bunfungus"
+  },
+  "cachalot-whale": {
+   "file": "images/mobs/cachalot-whale.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Cachalot_Whale",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Cachalot Whale"
+  },
+  "caiman": {
+   "file": "images/mobs/caiman.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Caiman",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Caiman"
+  },
+  "capuchin-monkey": {
+   "file": "images/mobs/capuchin-monkey.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Capuchin_Monkey",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Capuchin Monkey"
+  },
+  "catfish": {
+   "file": "images/mobs/catfish.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Catfish",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Catfish"
+  },
+  "cave-centipede": {
+   "file": "images/mobs/cave-centipede.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Cave_Centipede",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Cave Centipede"
+  },
+  "cockroach": {
+   "file": "images/mobs/cockroach.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Cockroach",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Cockroach"
+  },
+  "comb-jelly": {
+   "file": "images/mobs/comb-jelly.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Comb_Jelly",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Comb Jelly"
+  },
+  "cosmaw": {
+   "file": "images/mobs/cosmaw.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Cosmaw",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Cosmaw"
+  },
+  "crimson-mosquito": {
+   "file": "images/mobs/crimson-mosquito.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Crimson_Mosquito",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Crimson Mosquito"
+  },
+  "crocodile": {
+   "file": "images/mobs/crocodile.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Crocodile",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Crocodile"
+  },
+  "crow": {
+   "file": "images/mobs/crow.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Crow",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Crow"
+  },
+  "devil-s-hole-pupfish": {
+   "file": "images/mobs/devil-s-hole-pupfish.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Devil%27s_Hole_Pupfish",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Devil's Hole Pupfish"
+  },
+  "dropbear": {
+   "file": "images/mobs/dropbear.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Dropbear",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Dropbear"
+  },
+  "elephant": {
+   "file": "images/mobs/elephant.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Elephant",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Elephant"
+  },
+  "emu": {
+   "file": "images/mobs/emu.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Emu",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Emu"
+  },
+  "endergrade": {
+   "file": "images/mobs/endergrade.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Endergrade",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Endergrade"
+  },
+  "enderiophage": {
+   "file": "images/mobs/enderiophage.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Enderiophage",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Enderiophage"
+  },
+  "farseer": {
+   "file": "images/mobs/farseer.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Farseer",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Farseer"
+  },
+  "flutter": {
+   "file": "images/mobs/flutter.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Flutter",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Flutter"
+  },
+  "fly": {
+   "file": "images/mobs/fly.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Fly",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Fly"
+  },
+  "flying-fish": {
+   "file": "images/mobs/flying-fish.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Flying_Fish_%28mob%29",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Flying Fish (mob)"
+  },
+  "frilled-shark": {
+   "file": "images/mobs/frilled-shark.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Frilled_Shark",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Frilled Shark"
+  },
+  "froststalker": {
+   "file": "images/mobs/froststalker.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Froststalker",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Froststalker"
+  },
+  "gazelle": {
+   "file": "images/mobs/gazelle.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Gazelle",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Gazelle"
+  },
+  "gelada-monkey": {
+   "file": "images/mobs/gelada-monkey.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Gelada_Monkey",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Gelada Monkey"
+  },
+  "giant-squid": {
+   "file": "images/mobs/giant-squid.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Giant_Squid",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Giant Squid"
+  },
+  "gorilla": {
+   "file": "images/mobs/gorilla.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Gorilla",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Gorilla"
+  },
+  "grizzly-bear": {
+   "file": "images/mobs/grizzly-bear.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Grizzly_Bear",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Grizzly Bear"
+  },
+  "guster": {
+   "file": "images/mobs/guster.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Guster",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Guster"
+  },
+  "hammerhead-shark": {
+   "file": "images/mobs/hammerhead-shark.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Hammerhead_Shark",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Hammerhead Shark"
+  },
+  "hummingbird": {
+   "file": "images/mobs/hummingbird.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Hummingbird",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Hummingbird"
+  },
+  "jerboa": {
+   "file": "images/mobs/jerboa.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Jerboa",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Jerboa"
+  },
+  "kangaroo": {
+   "file": "images/mobs/kangaroo.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Kangaroo",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Kangaroo"
+  },
+  "komodo-dragon": {
+   "file": "images/mobs/komodo-dragon.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Komodo_Dragon",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Komodo Dragon"
+  },
+  "laviathan": {
+   "file": "images/mobs/laviathan.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Laviathan",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Laviathan"
+  },
+  "leafcutter-ant": {
+   "file": "images/mobs/leafcutter-ant.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Leafcutter_Ant",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Leafcutter Ant"
+  },
+  "lobster": {
+   "file": "images/mobs/lobster.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Lobster",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Lobster"
+  },
+  "maned-wolf": {
+   "file": "images/mobs/maned-wolf.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Maned_Wolf",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Maned Wolf"
+  },
+  "mantis-shrimp": {
+   "file": "images/mobs/mantis-shrimp.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Mantis_Shrimp",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Mantis Shrimp"
+  },
+  "mimic-octopus": {
+   "file": "images/mobs/mimic-octopus.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Mimic_Octopus",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Mimic Octopus"
+  },
+  "mimicube": {
+   "file": "images/mobs/mimicube.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Mimicube",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Mimicube"
+  },
+  "moose": {
+   "file": "images/mobs/moose.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Moose",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Moose"
+  },
+  "mudskipper": {
+   "file": "images/mobs/mudskipper.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Mudskipper",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Mudskipper"
+  },
+  "mungus": {
+   "file": "images/mobs/mungus.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Mungus",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Mungus"
+  },
+  "murmur": {
+   "file": "images/mobs/murmur.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Murmur",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Murmur"
+  },
+  "orca": {
+   "file": "images/mobs/orca.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Orca",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Orca"
+  },
+  "platypus": {
+   "file": "images/mobs/platypus.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Platypus",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Platypus"
+  },
+  "potoo": {
+   "file": "images/mobs/potoo.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Potoo",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Potoo"
+  },
+  "raccoon": {
+   "file": "images/mobs/raccoon.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Raccoon",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Raccoon"
+  },
+  "rain-frog": {
+   "file": "images/mobs/rain-frog.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Rain_Frog",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Rain Frog"
+  },
+  "rattlesnake": {
+   "file": "images/mobs/rattlesnake.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Rattlesnake",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Rattlesnake"
+  },
+  "rhinoceros": {
+   "file": "images/mobs/rhinoceros.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Rhinoceros",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Rhinoceros"
+  },
+  "roadrunner": {
+   "file": "images/mobs/roadrunner.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Roadrunner",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Roadrunner"
+  },
+  "rocky-roller": {
+   "file": "images/mobs/rocky-roller.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Rocky_Roller",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Rocky Roller"
+  },
+  "sea-bear": {
+   "file": "images/mobs/sea-bear.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Sea_Bear",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Sea Bear"
+  },
+  "seagull": {
+   "file": "images/mobs/seagull.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Seagull",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Seagull"
+  },
+  "seal": {
+   "file": "images/mobs/seal.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Seal",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Seal"
+  },
+  "shoebill": {
+   "file": "images/mobs/shoebill.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Shoebill",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Shoebill"
+  },
+  "skelewag": {
+   "file": "images/mobs/skelewag.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Skelewag",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Skelewag"
+  },
+  "skreecher": {
+   "file": "images/mobs/skreecher.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Skreecher",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Skreecher"
+  },
+  "skunk": {
+   "file": "images/mobs/skunk.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Skunk",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Skunk"
+  },
+  "snow-leopard": {
+   "file": "images/mobs/snow-leopard.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Snow_Leopard",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Snow Leopard"
+  },
+  "soul-vulture": {
+   "file": "images/mobs/soul-vulture.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Soul_Vulture",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Soul Vulture"
+  },
+  "spectre": {
+   "file": "images/mobs/spectre.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Spectre",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Spectre"
+  },
+  "straddler": {
+   "file": "images/mobs/straddler.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Straddler",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Straddler"
+  },
+  "stradpole": {
+   "file": "images/mobs/stradpole.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Stradpole",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Stradpole"
+  },
+  "sugar-glider": {
+   "file": "images/mobs/sugar-glider.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Sugar_Glider",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Sugar Glider"
+  },
+  "sunbird": {
+   "file": "images/mobs/sunbird.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Sunbird",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Sunbird"
+  },
+  "tarantula-hawk": {
+   "file": "images/mobs/tarantula-hawk.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Tarantula_Hawk",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Tarantula Hawk"
+  },
+  "tasmanian-devil": {
+   "file": "images/mobs/tasmanian-devil.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Tasmanian_Devil",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Tasmanian Devil"
+  },
+  "terrapin": {
+   "file": "images/mobs/terrapin.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Terrapin",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Terrapin"
+  },
+  "tiger": {
+   "file": "images/mobs/tiger.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Tiger",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Tiger"
+  },
+  "toucan": {
+   "file": "images/mobs/toucan.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Toucan",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Toucan"
+  },
+  "triops": {
+   "file": "images/mobs/triops.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Triops",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Triops"
+  },
+  "tusklin": {
+   "file": "images/mobs/tusklin.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Tusklin",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Tusklin"
+  },
+  "underminer": {
+   "file": "images/mobs/underminer.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Underminer",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Underminer"
+  },
+  "warped-mosco": {
+   "file": "images/mobs/warped-mosco.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Warped_Mosco",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Warped Mosco"
+  },
+  "warped-toad": {
+   "file": "images/mobs/warped-toad.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Warped_Toad",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Warped Toad"
+  },
+  "void-worm": {
+   "file": "images/mobs/void-worm.jpg",
+   "source": "https://alexs-mobs-unofficial.fandom.com/wiki/Void_Worm",
+   "wiki": "Alex's Mobs Wiki (Fandom)",
+   "title": "Void Worm"
+  },
+  "foliaath": {
+   "file": "images/mobs/foliaath.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Foliaath",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Foliaath"
+  },
+  "naga": {
+   "file": "images/mobs/naga.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Naga",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Naga"
+  },
+  "grottol": {
+   "file": "images/mobs/grottol.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Grottol",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Grottol"
+  },
+  "lantern": {
+   "file": "images/mobs/lantern.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Lanterns",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Lanterns"
+  },
+  "bluff": {
+   "file": "images/mobs/bluff.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Bluff",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Bluff"
+  },
+  "umvuthana": {
+   "file": "images/mobs/umvuthana.jpg",
+   "source": "https://mowziesmobs.fandom.com/wiki/Umvuthana",
+   "wiki": "Mowzie's Mobs Wiki (Fandom)",
+   "title": "Umvuthana"
+  },
+  "silk-moth": {
+   "file": "images/mobs/silk-moth.jpg",
+   "source": "https://better-end-mod.fandom.com/wiki/Silk_Moth",
+   "wiki": "Better End mod Wiki (Fandom)",
+   "title": "Silk Moth"
+  },
+  "jungle-skeleton": {
+   "file": "images/mobs/jungle-skeleton.jpg",
+   "source": "https://betternether.fandom.com/wiki/Jungle_Skeletons",
+   "wiki": "BetterNether Wiki (Fandom)",
+   "title": "Jungle Skeletons"
+  },
+  "skull": {
+   "file": "images/mobs/skull.jpg",
+   "source": "https://betternether.fandom.com/wiki/Skulls",
+   "wiki": "BetterNether Wiki (Fandom)",
+   "title": "Skulls"
+  },
+  "hydrogen-jellyfish": {
+   "file": "images/mobs/hydrogen-jellyfish.jpg",
+   "source": "https://betternether.fandom.com/wiki/Hydrogen_Jellyfish",
+   "wiki": "BetterNether Wiki (Fandom)",
+   "title": "Hydrogen Jellyfish"
+  },
+  "flying-pig": {
+   "file": "images/mobs/flying-pig.jpg",
+   "source": "https://betternether.fandom.com/wiki/Flying_Pigs",
+   "wiki": "BetterNether Wiki (Fandom)",
+   "title": "Flying Pigs"
+  },
+  "anglerfish": {
+   "file": "images/mobs/anglerfish.jpg",
+   "source": "https://modrinth.com/mod/aquamirae",
+   "wiki": "Modrinth (gallery)",
+   "title": "Anglerfish"
+  },
+  "revenant": {
+   "file": "images/mobs/revenant.jpg",
+   "source": "https://modrinth.com/mod/the-graveyard-forge",
+   "wiki": "Modrinth (gallery)",
+   "title": "Revenants"
+  },
+  "tortoise": {
+   "file": "images/mobs/tortoise.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Tortoise"
+  },
+  "duck": {
+   "file": "images/mobs/duck.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Ducks"
+  },
+  "lion": {
+   "file": "images/mobs/lion.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Lions"
+  },
+  "deer": {
+   "file": "images/mobs/deer.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Deer"
+  },
+  "vulture": {
+   "file": "images/mobs/vulture.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Vulture"
+  },
+  "snail": {
+   "file": "images/mobs/snail.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Snails"
+  },
+  "bear": {
+   "file": "images/mobs/bear.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Bears"
+  },
+  "rhino": {
+   "file": "images/mobs/rhino.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Rhinos"
+  },
+  "giraffe": {
+   "file": "images/mobs/giraffe.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Giraffes"
+  },
+  "butterfly-caterpillar-dragonfly-firefly": {
+   "file": "images/mobs/butterfly-caterpillar-dragonfly-firefly.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Butterflies (Butterfly/Caterpillar/Dragonfly/Firefly group)"
+  },
+  "snake": {
+   "file": "images/mobs/snake.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Rattlesnake (Snake)"
+  },
+  "sea-cow": {
+   "file": "images/mobs/sea-cow.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Sea Cows"
+  },
+  "hamster": {
+   "file": "images/mobs/hamster.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Hamsters"
+  },
+  "sunfish": {
+   "file": "images/mobs/sunfish.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Sunfish"
+  },
+  "seahorse": {
+   "file": "images/mobs/seahorse.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Seahorse"
+  },
+  "ant": {
+   "file": "images/mobs/ant.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Ant Gardens and Ants"
+  },
+  "clam": {
+   "file": "images/mobs/clam.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Rocky Shore and Clams"
+  },
+  "barracuda": {
+   "file": "images/mobs/barracuda.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Deep Coral Reef, Giant Clams and Barracuda"
+  },
+  "octopus": {
+   "file": "images/mobs/octopus.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth (gallery)",
+   "title": "Octopolis and Octopus"
+  },
+  "glacial-hunter": {
+   "file": "images/mobs/glacial-hunter.jpg",
+   "source": "https://modrinth.com/mod/rottencreatures",
+   "wiki": "Modrinth (gallery)",
+   "title": "Glacial Hunter"
+  },
+  "burned": {
+   "file": "images/mobs/burned.jpg",
+   "source": "https://modrinth.com/mod/rottencreatures",
+   "wiki": "Modrinth (gallery)",
+   "title": "Burned"
+  },
+  "undead-miner": {
+   "file": "images/mobs/undead-miner.jpg",
+   "source": "https://modrinth.com/mod/rottencreatures",
+   "wiki": "Modrinth (gallery)",
+   "title": "Undead Miner"
+  },
+  "swampy": {
+   "file": "images/mobs/swampy.jpg",
+   "source": "https://modrinth.com/mod/rottencreatures",
+   "wiki": "Modrinth (gallery)",
+   "title": "Swampy"
+  },
+  "mummy": {
+   "file": "images/mobs/mummy.jpg",
+   "source": "https://modrinth.com/mod/rottencreatures",
+   "wiki": "Modrinth (gallery)",
+   "title": "Mummy"
+  },
+  "coconut-crab": {
+   "file": "images/mobs/coconut-crab.jpg",
+   "source": "https://modrinth.com/mod/ecologics",
+   "wiki": "Modrinth (gallery)",
+   "title": "Coconut Crab, Sand Castle, and Seashells"
+  },
+  "camel": {
+   "file": "images/mobs/camel.jpg",
+   "source": "https://modrinth.com/mod/ecologics",
+   "wiki": "Modrinth (gallery)",
+   "title": "The Desert Update (Camels)"
+  },
+  "penguin": {
+   "file": "images/mobs/penguin.jpg",
+   "source": "https://modrinth.com/mod/ecologics",
+   "wiki": "Modrinth (gallery)",
+   "title": "The Snowy Update (Penguins)"
+  },
+  "squirrel": {
+   "file": "images/mobs/squirrel.jpg",
+   "source": "https://modrinth.com/mod/ecologics",
+   "wiki": "Modrinth (gallery)",
+   "title": "The Plains Update (Squirrels)"
+  },
+  "frostbitten": {
+   "file": "images/mobs/frostbitten.jpg",
+   "source": "https://modrinth.com/mod/rottencreatures",
+   "wiki": "Modrinth (gallery)",
+   "title": "Frostbitten Horde"
+  },
+  "bluejay-cardinal-canary-robin": {
+   "file": "images/mobs/bluejay-cardinal-canary-robin.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth (gallery)",
+   "title": "Birds (Bluejay/Cardinal/Canary/Robin group)"
+  },
+  "warped-enderman": {
+   "file": "images/mobs/warped-enderman.jpg",
+   "source": "https://modrinth.com/mod/bygone-nether",
+   "wiki": "Modrinth (gallery)",
+   "title": "Warped Endermen"
+  }
+ },
+ "mods": {
+  "alexscaves": {
+   "file": "images/mods/alexscaves.jpg",
+   "source": "https://modrinth.com/mod/alexs-caves",
+   "wiki": "Modrinth",
+   "title": "Primordial Caves"
+  },
+  "alexscaves_torpedoes": {
+   "file": "images/mods/alexscaves_torpedoes.jpg",
+   "source": "https://modrinth.com/mod/alexscaves-torpedoes",
+   "wiki": "Modrinth",
+   "title": "Torpedoes"
+  },
+  "bygonenether": {
+   "file": "images/mods/bygonenether.jpg",
+   "source": "https://modrinth.com/mod/bygone-nether",
+   "wiki": "Modrinth",
+   "title": "Warped Endermen"
+  },
+  "create_alexscaves_compat": {
+   "file": "images/mods/create_alexscaves_compat.jpg",
+   "source": "https://modrinth.com/mod/create-alexs-caves-compat",
+   "wiki": "Modrinth",
+   "title": "Hot Chocolate Filling"
+  },
+  "mr_limesplatus_ending": {
+   "file": "images/mods/mr_limesplatus_ending.jpg",
+   "source": "https://modrinth.com/mod/true-ending",
+   "wiki": "Modrinth",
+   "title": "Stage Ambience"
+  },
+  "twilightdelight": {
+   "file": "images/mods/twilightdelight.jpg",
+   "source": "https://modrinth.com/mod/twilight-delight",
+   "wiki": "Modrinth",
+   "title": "Range Freezing"
+  },
+  "betterendisland": {
+   "file": "images/mods/betterendisland.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-end-island",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better End Island"
+  },
+  "barteringstation": {
+   "file": "images/mods/barteringstation.jpg",
+   "source": "https://modrinth.com/mod/bartering-station",
+   "wiki": "Modrinth",
+   "title": "Bartering Station"
+  },
+  "mr_dungeons_andtavernsancientcityoverhaul": {
+   "file": "images/mods/mr_dungeons_andtavernsancientcityoverhaul.jpg",
+   "source": "https://modrinth.com/mod/dungeons-and-taverns-ancient-city-overhaul",
+   "wiki": "Modrinth",
+   "title": "Ancient City Enterance"
+  },
+  "mr_epic_structuresvillages": {
+   "file": "images/mods/mr_epic_structuresvillages.jpg",
+   "source": "https://modrinth.com/mod/epic-structures-villages",
+   "wiki": "Modrinth",
+   "title": "Plains Village"
+  },
+  "forgottenruins": {
+   "file": "images/mods/forgottenruins.jpg",
+   "source": "https://modrinth.com/mod/forgotten-ruins",
+   "wiki": "Modrinth",
+   "title": "Swamp Ruin"
+  },
+  "lootr": {
+   "file": "images/mods/lootr.jpg",
+   "source": "https://modrinth.com/mod/lootr",
+   "wiki": "Modrinth",
+   "title": "Mineshaft lootr chest!"
+  },
+  "mes": {
+   "file": "images/mods/mes.jpg",
+   "source": "https://modrinth.com/mod/mes-moogs-end-structures",
+   "wiki": "Modrinth",
+   "title": "MES - Moog's End Structures"
+  },
+  "mns": {
+   "file": "images/mods/mns.jpg",
+   "source": "https://modrinth.com/mod/mns-moogs-nether-structures",
+   "wiki": "Modrinth",
+   "title": "MNS - Moog's Nether Structures"
+  },
+  "mss": {
+   "file": "images/mods/mss.jpg",
+   "source": "https://modrinth.com/mod/mss-moogs-soaring-structures",
+   "wiki": "Modrinth",
+   "title": "MSS - Moog's Soaring Structures"
+  },
+  "mtr": {
+   "file": "images/mods/mtr.jpg",
+   "source": "https://modrinth.com/mod/mtr-moogs-temples-reimagined",
+   "wiki": "Modrinth",
+   "title": "jungle temple"
+  },
+  "mvs": {
+   "file": "images/mods/mvs.jpg",
+   "source": "https://modrinth.com/mod/moogs-voyager-structures",
+   "wiki": "Modrinth",
+   "title": "MVS - Moog's Voyager Structures"
+  },
+  "repurposed_structures": {
+   "file": "images/mods/repurposed_structures.jpg",
+   "source": "https://modrinth.com/mod/repurposed-structures-forge",
+   "wiki": "Modrinth",
+   "title": "Jungle Fortress"
+  },
+  "mr_tidal_towns": {
+   "file": "images/mods/mr_tidal_towns.jpg",
+   "source": "https://modrinth.com/mod/tidal-towns",
+   "wiki": "Modrinth",
+   "title": "Tidal Towns"
+  },
+  "t_and_t": {
+   "file": "images/mods/t_and_t.jpg",
+   "source": "https://modrinth.com/mod/towns-and-towers",
+   "wiki": "Modrinth",
+   "title": "Rustic Outpost (exclusive)"
+  },
+  "travelerstitles": {
+   "file": "images/mods/travelerstitles.jpg",
+   "source": "https://modrinth.com/mod/travelers-titles",
+   "wiki": "Modrinth",
+   "title": "Traveler's Titles"
+  },
+  "mr_trek": {
+   "file": "images/mods/mr_trek.jpg",
+   "source": "https://modrinth.com/mod/trek",
+   "wiki": "Modrinth",
+   "title": "Village at sunrise"
+  },
+  "dungeons_arise": {
+   "file": "images/mods/dungeons_arise.jpg",
+   "source": "https://modrinth.com/mod/when-dungeons-arise",
+   "wiki": "Modrinth",
+   "title": "Mechanical Nest"
+  },
+  "betterdeserttemples": {
+   "file": "images/mods/betterdeserttemples.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-desert-temples",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better Desert Temples"
+  },
+  "betterdungeons": {
+   "file": "images/mods/betterdungeons.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-dungeons",
+   "wiki": "Modrinth",
+   "title": "Fortress of the Undead"
+  },
+  "betterjungletemples": {
+   "file": "images/mods/betterjungletemples.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-jungle-temples",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better Jungle Temples"
+  },
+  "bettermineshafts": {
+   "file": "images/mods/bettermineshafts.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-mineshafts",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better Mineshafts"
+  },
+  "betterfortresses": {
+   "file": "images/mods/betterfortresses.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-nether-fortresses",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better Nether Fortresses"
+  },
+  "betteroceanmonuments": {
+   "file": "images/mods/betteroceanmonuments.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-ocean-monuments",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better Ocean Monuments"
+  },
+  "betterstrongholds": {
+   "file": "images/mods/betterstrongholds.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-strongholds",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better Strongholds"
+  },
+  "betterwitchhuts": {
+   "file": "images/mods/betterwitchhuts.jpg",
+   "source": "https://modrinth.com/mod/yungs-better-witch-huts",
+   "wiki": "Modrinth",
+   "title": "YUNG's Better Witch Huts"
+  },
+  "yungsbridges": {
+   "file": "images/mods/yungsbridges.jpg",
+   "source": "https://modrinth.com/mod/yungs-bridges",
+   "wiki": "Modrinth",
+   "title": "YUNG's Bridges"
+  },
+  "biomeswevegone": {
+   "file": "images/mods/biomeswevegone.jpg",
+   "source": "https://modrinth.com/mod/oh-the-biomes-weve-gone",
+   "wiki": "Modrinth",
+   "title": "Oh The Biomes We've Gone"
+  },
+  "regions_unexplored": {
+   "file": "images/mods/regions_unexplored.jpg",
+   "source": "https://modrinth.com/mod/regions-unexplored",
+   "wiki": "Modrinth",
+   "title": "Thumbnail"
+  },
+  "yungscavebiomes": {
+   "file": "images/mods/yungscavebiomes.jpg",
+   "source": "https://modrinth.com/mod/yungs-cave-biomes",
+   "wiki": "Modrinth",
+   "title": "Frosted Caves"
+  },
+  "alexsmobs": {
+   "file": "images/mods/alexsmobs.jpg",
+   "source": "https://modrinth.com/mod/alexs-mobs",
+   "wiki": "Modrinth",
+   "title": "Elephant"
+  },
+  "aquamirae": {
+   "file": "images/mods/aquamirae.jpg",
+   "source": "https://modrinth.com/mod/aquamirae",
+   "wiki": "Modrinth",
+   "title": "Ice Maze"
+  },
+  "block_factorys_bosses": {
+   "file": "images/mods/block_factorys_bosses.jpg",
+   "source": "https://modrinth.com/mod/bossesrise",
+   "wiki": "Modrinth",
+   "title": "Underworld Knight"
+  },
+  "ecologics": {
+   "file": "images/mods/ecologics.jpg",
+   "source": "https://modrinth.com/mod/ecologics",
+   "wiki": "Modrinth",
+   "title": "The Coastal Update"
+  },
+  "mowziesmobs": {
+   "file": "images/mods/mowziesmobs.jpg",
+   "source": "https://modrinth.com/mod/mowzies-mobs",
+   "wiki": "Modrinth",
+   "title": "Elokosa"
+  },
+  "naturalist": {
+   "file": "images/mods/naturalist.jpg",
+   "source": "https://modrinth.com/mod/naturalist",
+   "wiki": "Modrinth",
+   "title": "Tortoise"
+  },
+  "nyctophobia": {
+   "file": "images/mods/nyctophobia.jpg",
+   "source": "https://modrinth.com/mod/nyctophobia",
+   "wiki": "Modrinth",
+   "title": "Ancient Dead Coral Reef"
+  },
+  "rottencreatures": {
+   "file": "images/mods/rottencreatures.jpg",
+   "source": "https://modrinth.com/mod/rottencreatures",
+   "wiki": "Modrinth",
+   "title": "The Roster"
+  },
+  "spawn": {
+   "file": "images/mods/spawn.jpg",
+   "source": "https://modrinth.com/mod/spawn-mod",
+   "wiki": "Modrinth",
+   "title": "Rocky Shore and Clams"
+  },
+  "graveyard": {
+   "file": "images/mods/graveyard.jpg",
+   "source": "https://modrinth.com/mod/the-graveyard-forge",
+   "wiki": "Modrinth",
+   "title": "Haunted House"
+  },
+  "artifacts": {
+   "file": "images/mods/artifacts.jpg",
+   "source": "https://modrinth.com/mod/artifacts",
+   "wiki": "Modrinth",
+   "title": "Panic Necklace"
+  },
+  "charmofundying": {
+   "file": "images/mods/charmofundying.jpg",
+   "source": "https://modrinth.com/mod/charm-of-undying",
+   "wiki": "Modrinth",
+   "title": "Curios Totem of Undying"
+  },
+  "elytraslot": {
+   "file": "images/mods/elytraslot.jpg",
+   "source": "https://modrinth.com/mod/elytra-slot",
+   "wiki": "Modrinth",
+   "title": "Trinkets Elytra"
+  },
+  "immersive_armors": {
+   "file": "images/mods/immersive_armors.jpg",
+   "source": "https://modrinth.com/mod/immersive-armors",
+   "wiki": "Modrinth",
+   "title": "Immersive Armors"
+  },
+  "simplyswords": {
+   "file": "images/mods/simplyswords.jpg",
+   "source": "https://modrinth.com/mod/simply-swords",
+   "wiki": "Modrinth",
+   "title": "Soulstealer"
+  },
+  "apprenticecodex": {
+   "file": "images/mods/apprenticecodex.jpg",
+   "source": "https://modrinth.com/mod/apprentices-codex",
+   "wiki": "Modrinth",
+   "title": "Glass Cannon Mage Loadout"
+  },
+  "ars_additions": {
+   "file": "images/mods/ars_additions.jpg",
+   "source": "https://modrinth.com/mod/ars-additions",
+   "wiki": "Modrinth",
+   "title": "Stabilized Warp Index"
+  },
+  "ars_artifice": {
+   "file": "images/mods/ars_artifice.jpg",
+   "source": "https://modrinth.com/mod/ars-artifice",
+   "wiki": "Modrinth",
+   "title": "New Item Additions"
+  },
+  "ars_creo": {
+   "file": "images/mods/ars_creo.jpg",
+   "source": "https://modrinth.com/mod/ars-creo",
+   "wiki": "Modrinth",
+   "title": "Spinny starbuncle magic go brrr"
+  },
+  "arsdelight": {
+   "file": "images/mods/arsdelight.jpg",
+   "source": "https://modrinth.com/mod/arsdelight",
+   "wiki": "Modrinth",
+   "title": "showcase"
+  },
+  "farmers_spell": {
+   "file": "images/mods/farmers_spell.jpg",
+   "source": "https://modrinth.com/mod/farmers-spell",
+   "wiki": "Modrinth",
+   "title": "Farmer's Spell 'n Spell Book"
+  },
+  "iss_magicfromtheeast": {
+   "file": "images/mods/iss_magicfromtheeast.jpg",
+   "source": "https://modrinth.com/mod/magic-from-the-east",
+   "wiki": "Modrinth",
+   "title": "Magic From The East"
+  },
+  "vs_clockwork": {
+   "file": "images/mods/vs_clockwork.jpg",
+   "source": "https://modrinth.com/mod/create-clockwork",
+   "wiki": "Modrinth",
+   "title": "Title"
+  },
+  "createpropulsion": {
+   "file": "images/mods/createpropulsion.jpg",
+   "source": "https://modrinth.com/mod/create-propulsion",
+   "wiki": "Modrinth",
+   "title": "Rocket"
+  },
+  "do_a_barrel_roll": {
+   "file": "images/mods/do_a_barrel_roll.jpg",
+   "source": "https://modrinth.com/mod/do-a-barrel-roll",
+   "wiki": "Modrinth",
+   "title": "Modrinth banner"
+  },
+  "dragonmounts": {
+   "file": "images/mods/dragonmounts.jpg",
+   "source": "https://modrinth.com/mod/dragon-mounts-legacy",
+   "wiki": "Modrinth",
+   "title": "Banner"
+  },
+  "immersive_aircraft": {
+   "file": "images/mods/immersive_aircraft.jpg",
+   "source": "https://modrinth.com/mod/immersive-aircraft",
+   "wiki": "Modrinth",
+   "title": "Multiplayer"
+  },
+  "immersive_machinery": {
+   "file": "images/mods/immersive_machinery.jpg",
+   "source": "https://modrinth.com/mod/immersive-machinery",
+   "wiki": "Modrinth",
+   "title": "Copperfin"
+  },
+  "man_of_many_planes": {
+   "file": "images/mods/man_of_many_planes.jpg",
+   "source": "https://modrinth.com/mod/man-of-many-planes",
+   "wiki": "Modrinth",
+   "title": "The Scarlet Biplane"
+  },
+  "northstar": {
+   "file": "images/mods/northstar.jpg",
+   "source": "https://modrinth.com/mod/northstar-redux",
+   "wiki": "Modrinth",
+   "title": "Moon Landing"
+  },
+  "computercraft": {
+   "file": "images/mods/computercraft.jpg",
+   "source": "https://modrinth.com/mod/cc-tweaked",
+   "wiki": "Modrinth",
+   "title": "Massive monitors"
+  },
+  "cccbridge": {
+   "file": "images/mods/cccbridge.jpg",
+   "source": "https://modrinth.com/mod/cccbridge",
+   "wiki": "Modrinth",
+   "title": "Dabbing Animatronic"
+  },
+  "chunkloaders": {
+   "file": "images/mods/chunkloaders.jpg",
+   "source": "https://modrinth.com/mod/chunk-loaders",
+   "wiki": "Modrinth",
+   "title": "Map of loaded chunks"
+  },
+  "createaddition": {
+   "file": "images/mods/createaddition.jpg",
+   "source": "https://modrinth.com/mod/createaddition",
+   "wiki": "Modrinth",
+   "title": "Blocks & Items"
+  },
+  "createnuclear": {
+   "file": "images/mods/createnuclear.jpg",
+   "source": "https://modrinth.com/mod/createnuclear",
+   "wiki": "Modrinth",
+   "title": "Create Nuclear"
+  },
+  "sliceanddice": {
+   "file": "images/mods/sliceanddice.jpg",
+   "source": "https://modrinth.com/mod/slice-and-dice",
+   "wiki": "Modrinth",
+   "title": "Automatic Cooking"
+  },
+  "bellsandwhistles": {
+   "file": "images/mods/bellsandwhistles.jpg",
+   "source": "https://modrinth.com/mod/bellsandwhistles",
+   "wiki": "Modrinth",
+   "title": "Train Build with Logo"
+  },
+  "createdieselgenerators": {
+   "file": "images/mods/createdieselgenerators.jpg",
+   "source": "https://modrinth.com/mod/create-diesel-generators",
+   "wiki": "Modrinth",
+   "title": "Pumpjack"
+  },
+  "create_new_age": {
+   "file": "images/mods/create_new_age.jpg",
+   "source": "https://modrinth.com/mod/create-new-age",
+   "wiki": "Modrinth",
+   "title": "Nuclear reactor & lights"
+  },
+  "create_oppenheimered": {
+   "file": "images/mods/create_oppenheimered.jpg",
+   "source": "https://modrinth.com/mod/create-oppenheimered",
+   "wiki": "Modrinth",
+   "title": "Some Recipes"
+  },
+  "powergrid": {
+   "file": "images/mods/powergrid.jpg",
+   "source": "https://modrinth.com/mod/power-grid",
+   "wiki": "Modrinth",
+   "title": "Substation"
+  },
+  "delightfulcreators": {
+   "file": "images/mods/delightfulcreators.jpg",
+   "source": "https://modrinth.com/mod/delightful-creators",
+   "wiki": "Modrinth",
+   "title": "example craft"
+  },
+  "rftoolsbuilder": {
+   "file": "images/mods/rftoolsbuilder.jpg",
+   "source": "https://modrinth.com/mod/rftools-builder",
+   "wiki": "Modrinth",
+   "title": "RFTools Builder blocks"
+  },
+  "rftoolsdim": {
+   "file": "images/mods/rftoolsdim.jpg",
+   "source": "https://modrinth.com/mod/rftools-dimensions",
+   "wiki": "Modrinth",
+   "title": "Ravine Dimension"
+  },
+  "rftoolsutility": {
+   "file": "images/mods/rftoolsutility.jpg",
+   "source": "https://modrinth.com/mod/rftools-utility",
+   "wiki": "Modrinth",
+   "title": "RFTools Utility blocks"
+  },
+  "wirelessredstone": {
+   "file": "images/mods/wirelessredstone.jpg",
+   "source": "https://modrinth.com/mod/wirelessredstone",
+   "wiki": "Modrinth",
+   "title": "P2P Usage"
+  },
+  "vinery": {
+   "file": "images/mods/vinery.jpg",
+   "source": "https://modrinth.com/mod/lets-do-vinery",
+   "wiki": "Modrinth",
+   "title": "Storage and Production"
+  },
+  "croptopiadelight": {
+   "file": "images/mods/croptopiadelight.jpg",
+   "source": "https://modrinth.com/mod/croptopia-delight",
+   "wiki": "Modrinth",
+   "title": "Example"
+  },
+  "drinkbeer": {
+   "file": "images/mods/drinkbeer.jpg",
+   "source": "https://modrinth.com/mod/drink-beer-refill",
+   "wiki": "Modrinth",
+   "title": "Title"
+  },
+  "farmersdelight": {
+   "file": "images/mods/farmersdelight.jpg",
+   "source": "https://modrinth.com/mod/farmers-delight",
+   "wiki": "Modrinth",
+   "title": "Kitchenware"
+  },
+  "moredelight": {
+   "file": "images/mods/moredelight.jpg",
+   "source": "https://modrinth.com/mod/more-delight",
+   "wiki": "Modrinth",
+   "title": "More Delight Banner"
+  },
+  "tobacconistmod": {
+   "file": "images/mods/tobacconistmod.jpg",
+   "source": "https://modrinth.com/mod/tobacconist",
+   "wiki": "Modrinth",
+   "title": "Tobacconist"
+  },
+  "chipped": {
+   "file": "images/mods/chipped.jpg",
+   "source": "https://modrinth.com/mod/chipped",
+   "wiki": "Modrinth",
+   "title": "Mason's Workbench"
+  },
+  "comforts": {
+   "file": "images/mods/comforts.jpg",
+   "source": "https://modrinth.com/mod/comforts",
+   "wiki": "Modrinth",
+   "title": "At Rest"
+  },
+  "dawnoftimebuilder": {
+   "file": "images/mods/dawnoftimebuilder.jpg",
+   "source": "https://modrinth.com/mod/dawn-of-time",
+   "wiki": "Modrinth",
+   "title": "German Castle"
+  },
+  "decorative_blocks": {
+   "file": "images/mods/decorative_blocks.jpg",
+   "source": "https://modrinth.com/mod/decorative-blocks",
+   "wiki": "Modrinth",
+   "title": "A mineshaft build"
+  },
+  "handcrafted": {
+   "file": "images/mods/handcrafted.jpg",
+   "source": "https://modrinth.com/mod/handcrafted",
+   "wiki": "Modrinth",
+   "title": "Cherry Bedroom"
+  },
+  "immersive_furniture": {
+   "file": "images/mods/immersive_furniture.jpg",
+   "source": "https://modrinth.com/mod/immersive-furniture",
+   "wiki": "Modrinth",
+   "title": "Outside"
+  },
+  "mcwfurnitures": {
+   "file": "images/mods/mcwfurnitures.jpg",
+   "source": "https://modrinth.com/mod/macaws-furniture",
+   "wiki": "Modrinth",
+   "title": "Macaw's Furniture"
+  },
+  "mcwlights": {
+   "file": "images/mods/mcwlights.jpg",
+   "source": "https://modrinth.com/mod/macaws-lights-and-lamps",
+   "wiki": "Modrinth",
+   "title": "Tiki Torches - stackable height"
+  },
+  "supplementaries": {
+   "file": "images/mods/supplementaries.jpg",
+   "source": "https://modrinth.com/mod/supplementaries",
+   "wiki": "Modrinth",
+   "title": "logo2"
+  },
+  "ironchest": {
+   "file": "images/mods/ironchest.jpg",
+   "source": "https://modrinth.com/mod/iron-chests",
+   "wiki": "Modrinth",
+   "title": "Chests"
+  },
+  "naturescompass": {
+   "file": "images/mods/naturescompass.jpg",
+   "source": "https://modrinth.com/mod/natures-compass",
+   "wiki": "Modrinth",
+   "title": "Found Biome"
+  },
+  "polymorph": {
+   "file": "images/mods/polymorph.jpg",
+   "source": "https://modrinth.com/mod/polymorph",
+   "wiki": "Modrinth",
+   "title": "Crafting Select"
+  },
+  "waystones": {
+   "file": "images/mods/waystones.jpg",
+   "source": "https://modrinth.com/mod/waystones",
+   "wiki": "Modrinth",
+   "title": "Waystone Menu"
+  },
+  "betterf3": {
+   "file": "images/mods/betterf3.jpg",
+   "source": "https://modrinth.com/mod/betterf3",
+   "wiki": "Modrinth",
+   "title": "F3 Menu"
+  },
+  "drippyloadingscreen": {
+   "file": "images/mods/drippyloadingscreen.jpg",
+   "source": "https://modrinth.com/mod/drippy-loading-screen",
+   "wiki": "Modrinth",
+   "title": "Loading Screen by CiborgLuiz"
+  },
+  "enchdesc": {
+   "file": "images/mods/enchdesc.jpg",
+   "source": "https://modrinth.com/mod/enchantment-descriptions",
+   "wiki": "Modrinth",
+   "title": "JEI Compatability: Descriptions"
+  },
+  "fancymenu": {
+   "file": "images/mods/fancymenu.jpg",
+   "source": "https://modrinth.com/mod/fancymenu",
+   "wiki": "Modrinth",
+   "title": "\"BigChadGuys\" Title screen by jflec"
+  },
+  "jade": {
+   "file": "images/mods/jade.jpg",
+   "source": "https://modrinth.com/mod/jade",
+   "wiki": "Modrinth",
+   "title": "Redstone support"
+  },
+  "jei": {
+   "file": "images/mods/jei.jpg",
+   "source": "https://modrinth.com/mod/jei",
+   "wiki": "Modrinth",
+   "title": "jei-header"
+  },
+  "jeresources": {
+   "file": "images/mods/jeresources.jpg",
+   "source": "https://modrinth.com/mod/just-enough-resources-jer",
+   "wiki": "Modrinth",
+   "title": "Villager trades"
+  },
+  "legendarytooltips": {
+   "file": "images/mods/legendarytooltips.jpg",
+   "source": "https://modrinth.com/mod/legendary-tooltips",
+   "wiki": "Modrinth",
+   "title": "Before / After"
+  },
+  "mobplaques": {
+   "file": "images/mods/mobplaques.jpg",
+   "source": "https://modrinth.com/mod/mob-plaques",
+   "wiki": "Modrinth",
+   "title": "Mob Plaques"
+  },
+  "skinlayers3d": {
+   "file": "images/mods/skinlayers3d.jpg",
+   "source": "https://modrinth.com/mod/3dskinlayers",
+   "wiki": "Modrinth",
+   "title": "Header image"
+  },
+  "athena": {
+   "file": "images/mods/athena.jpg",
+   "source": "https://modrinth.com/mod/athena-ctm",
+   "wiki": "Modrinth",
+   "title": "Mural CTM"
+  },
+  "betteranimationscollection": {
+   "file": "images/mods/betteranimationscollection.jpg",
+   "source": "https://modrinth.com/mod/better-animations-collection",
+   "wiki": "Modrinth",
+   "title": "Better Animations Collection"
+  },
+  "culllessleaves": {
+   "file": "images/mods/culllessleaves.jpg",
+   "source": "https://modrinth.com/mod/cull-less-leaves-reforged",
+   "wiki": "Modrinth",
+   "title": "FPS improvement"
+  },
+  "fusion": {
+   "file": "images/mods/fusion.jpg",
+   "source": "https://modrinth.com/mod/fusion-connected-textures",
+   "wiki": "Modrinth",
+   "title": "Stacking stick texture"
+  },
+  "magiccircles": {
+   "file": "images/mods/magiccircles.jpg",
+   "source": "https://modrinth.com/mod/magic-circles-isas-addon",
+   "wiki": "Modrinth",
+   "title": "With version 1.2.2, inside a server world"
+  },
+  "notenoughanimations": {
+   "file": "images/mods/notenoughanimations.jpg",
+   "source": "https://modrinth.com/mod/not-enough-animations",
+   "wiki": "Modrinth",
+   "title": "Crawling example"
+  }
+ }
+}

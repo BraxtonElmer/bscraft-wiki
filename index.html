@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="assets/theme/portrait.png">
+<title>BSCraft 4 Wiki</title>
+<meta name="description" content="The BSCraft 4 wiki: every mod, boss, weapon, armor set, spell system and comfort in the pack, taken from the pack's own files.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&family=Silkscreen&display=swap">
+<link rel="stylesheet" href="assets/style.css?v=a4616270">
+<link rel="stylesheet" href="assets/icons.css?v=8b7ef933">
+</head>
+<body>
+<a class="skip"href="#main">Skip to content</a>
+<header class="top">
+  <button class="tbtn menubtn" id="menuBtn" type="button" aria-controls="side" aria-expanded="false">Menu</button>
+  <a class="brand" href="#/"><img src="assets/theme/logo.png" alt="BSCraft 4" width="254" height="73"><span>Wiki</span></a>
+  <div class="searchbox" role="search">
+    <label class="sr-only" for="q">Search the wiki</label>
+    <input id="q" type="search" placeholder="Search bosses, items, mods, spells" autocomplete="off" aria-controls="results" aria-expanded="false">
+    <kbd aria-hidden="true">/</kbd>
+    <ul class="results" id="results" role="listbox" hidden></ul>
+  </div>
+</header>
+<div class="shell">
+  <nav class="side" id="side" aria-label="Wiki pages"></nav>
+  <main id="main" tabindex="-1"></main>
+</div>
+
+<script src="assets/data.js?v=65397229"></script>
+<script src="assets/app.js?v=ddd444cc"></script>
+</body>
+</html>

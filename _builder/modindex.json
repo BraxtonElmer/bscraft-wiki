@@ -1,0 +1,1794 @@
+[
+ {
+  "id": "skinlayers3d",
+  "name": "3d-Skin-Layers",
+  "jar": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "3D skin layers."
+ },
+ {
+  "id": "vinery",
+  "name": "[Let's Do] Vinery",
+  "jar": "letsdo-vinery-forge-1.4.41.jar",
+  "cat": "Food & Farming",
+  "d": "Grow grapes, run a winery, drink wines with effects."
+ },
+ {
+  "id": "adamsarsplus",
+  "name": "Adam's Ars Plus",
+  "jar": "adamsarsplus-1.20.1-5.0.3.jar",
+  "cat": "Magic",
+  "d": "Seven Archmage bosses with their own dungeons, boss armor stronger than netherite, Domain spells and Ten Shadows summons."
+ },
+ {
+  "id": "alexscaves",
+  "name": "Alex's Caves",
+  "jar": "alexscaves-2.0.2.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "Six rare underground biomes (magnetic, primordial, toxic, abyssal, forlorn, candy) with unique mobs, gear and a nuke."
+ },
+ {
+  "id": "alexs_caves_spellbooks",
+  "name": "Alex's Caves Spellbooks",
+  "jar": "alexs_caves_spellbooks-1.1.2.jar",
+  "cat": "Magic",
+  "d": "Vesper and Grottoceratops summon spells, plus the Dread Robes and Primordial Mage armor, for Iron's Spells."
+ },
+ {
+  "id": "alexscaves_torpedoes",
+  "name": "Alex's Caves: Stuff & Torpedoes",
+  "jar": "alexscaves_torpedoes-1.0.4.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "Alex's Caves add-on: torpedoes, submarine-hunting gear and armor for the Abyssal Chasm."
+ },
+ {
+  "id": "alexsmobs",
+  "name": "Alex's Mobs",
+  "jar": "alexsmobs-1.22.9.jar",
+  "cat": "Bosses & Mobs",
+  "d": "About 90 creatures with drops that craft unique gear, potions and powers; Void Worm boss."
+ },
+ {
+  "id": "alternate_current",
+  "name": "Alternate Current",
+  "jar": "alternate_current-mc1.20-1.7.0.jar",
+  "cat": "Tech & Automation",
+  "d": "Faster, lag-free redstone dust implementation (behavior-compatible)."
+ },
+ {
+  "id": "ambientsounds",
+  "name": "AmbientSounds",
+  "jar": "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "Rich biome ambient sounds."
+ },
+ {
+  "id": "appleskin",
+  "name": "AppleSkin",
+  "jar": "appleskin-forge-mc1.20.1-2.5.1.jar",
+  "cat": "Interface & Info",
+  "d": "Hunger/saturation preview."
+ },
+ {
+  "id": "apprenticecodex",
+  "name": "Apprentice's Codex",
+  "jar": "apprentice_codex-0.9.7.1+mc1.20.1.jar",
+  "cat": "Magic",
+  "d": "84 Iron's spells, spell guns, staves, turrets, companions and utility magic."
+ },
+ {
+  "id": "aquamirae",
+  "name": "Aquamirae",
+  "jar": "aquamirae-forge-1.20.1-6.4.0.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Ice Maze ship-graveyard biome, Captain Cornelia, deep-sea horrors and strong gear sets."
+ },
+ {
+  "id": "architectury",
+  "name": "Architectury",
+  "jar": "architectury-9.2.14-forge.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "armoroftheages",
+  "name": "Armor of the Ages",
+  "jar": "Armor of the Ages-forge-1.20.1-1.3.15.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Fancy historic armor sets from world cultures."
+ },
+ {
+  "id": "ars_n_spells",
+  "name": "Ars 'n' Spells",
+  "jar": "ars_n_spells-3.2.4.jar",
+  "cat": "Magic",
+  "d": "Joins Ars Nouveau and Iron's Spells: one shared mana bar, shared spell power, and a damage bonus at full mana."
+ },
+ {
+  "id": "ars_additions",
+  "name": "Ars Additions",
+  "jar": "ars_additions-1.20.1-1.6.7.jar",
+  "cat": "Magic",
+  "d": "Protection charms, warp and storage gear, a few glyphs, and 3 structures (Arcane Library, Nexus Tower, Ruined Warp Portals)."
+ },
+ {
+  "id": "ars_artifice",
+  "name": "Ars Artifice",
+  "jar": "ars_artifice-1.20.1-2.0.4.jar",
+  "cat": "Magic",
+  "d": "Curios that cast a stored spell for you on a trigger (getting hurt, falling, landing, a timer), and Spell Gems."
+ },
+ {
+  "id": "ars_controle",
+  "name": "Ars Controle",
+  "jar": "ars_controle-1.20.1-1.1.1.jar",
+  "cat": "Magic",
+  "d": "A Remote for retargeting spells and a warping Spell Prism."
+ },
+ {
+  "id": "ars_creo",
+  "name": "Ars Creo",
+  "jar": "ars_creo-1.20.1-4.3.0.jar",
+  "cat": "Magic",
+  "d": "Spell Turrets and Source Jars on Create contraptions, and a Starbuncle-powered water wheel."
+ },
+ {
+  "id": "ars_elemental",
+  "name": "Ars Elemental",
+  "jar": "ars_elemental-1.20.1-0.6.8.0.jar",
+  "cat": "Magic",
+  "d": "Fire, Water, Air and Earth schools with foci, bangles, four elemental armor sets, new glyphs and creatures."
+ },
+ {
+  "id": "ars_nouveau",
+  "name": "Ars Nouveau",
+  "jar": "ars_nouveau-1.20.1-4.12.7-all.jar",
+  "cat": "Magic",
+  "d": "Build your own spells from glyphs, plus magical automation, rituals, familiars and helper creatures."
+ },
+ {
+  "id": "ars_extended_glyphs",
+  "name": "Ars Nouveau - Extended Glyphs",
+  "jar": "ars_extended_glyphs-1.20.1-1.9.jar",
+  "cat": "Magic",
+  "d": "19 utility glyphs and the Magestone gear line."
+ },
+ {
+  "id": "ars_trinkets",
+  "name": "Ars Nouveau Trinkets",
+  "jar": "ars_trinkets-1.20.1-3.0.5b.jar",
+  "cat": "Magic",
+  "d": "Tiered mana rings, lotuses and monocles, Arcane Runes and 25+ combat glyphs."
+ },
+ {
+  "id": "arsdelight",
+  "name": "Ars Nouveau's Flavors & Delight",
+  "jar": "arsdelight-1.2.2.jar",
+  "cat": "Magic",
+  "d": "Farmer's Delight food from Wilden and Archwood with mana and spell buffs, plus the Enchanter's Knife."
+ },
+ {
+  "id": "ars_technica",
+  "name": "Ars Technica",
+  "jar": "ars_technica-1.20.1-1.4.2.jar",
+  "cat": "Magic",
+  "d": "Create crossover: 10 glyphs, the Technomancer armor and Source-powered machines."
+ },
+ {
+  "id": "ars_zero",
+  "name": "Ars Zero",
+  "jar": "ars_zero-1.20.1-2.0.2HOTFIX.jar",
+  "cat": "Magic",
+  "d": "Three-phase staff casting, the Psion's Circlet, and the Blight Forest with its Necropolis dungeon."
+ },
+ {
+  "id": "artifacts",
+  "name": "Artifacts",
+  "jar": "artifacts-forge-9.5.19.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Uncraftable magic accessories (curios) found in loot and mimics."
+ },
+ {
+  "id": "athena",
+  "name": "Athena",
+  "jar": "athena-forge-1.20.1-3.1.2.jar",
+  "cat": "Visuals & Audio",
+  "d": "Connected-texture model loader."
+ },
+ {
+  "id": "attributefix",
+  "name": "AttributeFix",
+  "jar": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Lifts vanilla attribute caps so high armor/damage values work."
+ },
+ {
+  "id": "azurelib",
+  "name": "AzureLib",
+  "jar": "azurelib-neo-1.20.1-3.1.10.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "baguettelib",
+  "name": "BaguetteLib",
+  "jar": "baguettelib-1.20.1-Forge-1.1.6.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "balm",
+  "name": "Balm",
+  "jar": "balm-forge-1.20.1-7.3.38-all.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "barteringstation",
+  "name": "Bartering Station",
+  "jar": "BarteringStation-v8.0.0-1.20.1-Forge.jar",
+  "cat": "Structures & Exploration",
+  "d": "Automates Piglin bartering."
+ },
+ {
+  "id": "bclib",
+  "name": "BCLib",
+  "jar": "BCLib-20.0.9.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "betteranimationscollection",
+  "name": "Better Animations Collection",
+  "jar": "BetterAnimationsCollection-v8.0.1-1.20.1-Forge.jar",
+  "cat": "Visuals & Audio",
+  "d": "Smoother mob animations."
+ },
+ {
+  "id": "betterend",
+  "name": "Better End",
+  "jar": "BetterEnd-20.0.8.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "Overhauls the End: dozens of biomes, new ores/metals, Eternal Portal, infusion rituals, gear."
+ },
+ {
+  "id": "betternether",
+  "name": "Better Nether",
+  "jar": "BetterNether-20.0.10.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "Nether biomes, flora, mobs and Cincinnasite/Nether Ruby gear."
+ },
+ {
+  "id": "betterf3",
+  "name": "BetterF3",
+  "jar": "BetterF3-7.0.2-Forge-1.20.1.jar",
+  "cat": "Interface & Info",
+  "d": "Readable F3 debug screen."
+ },
+ {
+  "id": "betterfpsdist",
+  "name": "betterfpsdist mod",
+  "jar": "betterfpsdist-1.20.1-6.0.jar",
+  "cat": "Performance",
+  "d": "Smarter render distance shape."
+ },
+ {
+  "id": "biggerreactors",
+  "name": "Bigger Reactors",
+  "jar": "biggerreactors-1.20.1-0.6.0-beta.10.5.jar",
+  "cat": "Tech & Automation",
+  "d": "Multiblock yellorium fission reactors and turbines, the big FE generator."
+ },
+ {
+  "id": "bookshelf",
+  "name": "Bookshelf",
+  "jar": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "block_factorys_bosses",
+  "name": "Bosses'Rise",
+  "jar": "block_factorys_bosses-2.1.1-forge-1.20.1.jar",
+  "cat": "Bosses & Mobs",
+  "d": "A set of world bosses with special attacks and unique drops."
+ },
+ {
+  "id": "botarium",
+  "name": "Botarium",
+  "jar": "botarium-forge-1.20.1-2.3.4.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "epherolib",
+  "name": "BOZOID",
+  "jar": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "brewinandchewin",
+  "name": "Brewin' And Chewin'",
+  "jar": "BrewinAndChewin-1.20.1-3.2.1.jar",
+  "cat": "Food & Farming",
+  "d": "Keg fermentation: beers, meads, cheeses and the Tipsy effect."
+ },
+ {
+  "id": "bygonenether",
+  "name": "Bygone Nether",
+  "jar": "bygonenether-1.3.2-1.20.x.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "Ancient nether remnants: new mobs, structures and gilded gear."
+ },
+ {
+  "id": "caelus",
+  "name": "Caelus API",
+  "jar": "caelus-forge-3.2.0+1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "computercraft",
+  "name": "CC: Tweaked",
+  "jar": "cc-tweaked-1.20.1-forge-1.119.0.jar",
+  "cat": "Tech & Automation",
+  "d": "Programmable Lua computers, turtles, monitors and modems."
+ },
+ {
+  "id": "cccbridge",
+  "name": "CC:C Bridge",
+  "jar": "cccbridge-mc1.20.1-v1.7.1-forge.jar",
+  "cat": "Tech & Automation",
+  "d": "Lets ComputerCraft read and drive Create (source/target blocks, train schedules, animatronic)."
+ },
+ {
+  "id": "charmofundying",
+  "name": "Charm of Undying",
+  "jar": "charmofundying-forge-6.5.0+1.20.1.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Wear a Totem of Undying in a curio slot."
+ },
+ {
+  "id": "chipped",
+  "name": "Chipped",
+  "jar": "chipped-forge-1.20.1-3.0.7.jar",
+  "cat": "Building & Decoration",
+  "d": "Thousands of block variants via workbenches."
+ },
+ {
+  "id": "chunkloaders",
+  "name": "Chunk Loaders",
+  "jar": "chunkloaders-1.2.9-forge-mc1.20.1.jar",
+  "cat": "Tech & Automation",
+  "d": "Tiered chunk loaders to keep farms and machines running."
+ },
+ {
+  "id": "citadel",
+  "name": "Citadel",
+  "jar": "citadel-2.6.3-1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "cleanswing",
+  "name": "Clean Swing Through Grass",
+  "jar": "cleanswing-1.20-1.8.jar",
+  "cat": "Visuals & Audio",
+  "d": "Swing swords through grass."
+ },
+ {
+  "id": "vs_clockwork",
+  "name": "Clockwork",
+  "jar": "clockwork-0.5.6.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Propellers, balloons, gyros and flaps to pilot VS2 airships with Create."
+ },
+ {
+  "id": "cloth_config",
+  "name": "Cloth Config v10 API",
+  "jar": "cloth-config-11.1.136-forge.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "cofh_core",
+  "name": "CoFH Core",
+  "jar": "cofh_core-1.20.1-11.0.2.56.jar",
+  "cat": "Libraries",
+  "d": "CoFH core library (for Ensorcellation) with small vanilla tweaks."
+ },
+ {
+  "id": "comforts",
+  "name": "Comforts",
+  "jar": "comforts-forge-6.4.0+1.20.1.jar",
+  "cat": "Building & Decoration",
+  "d": "Sleeping bags (skip night without moving spawn) and hammocks (skip day)."
+ },
+ {
+  "id": "corgilib",
+  "name": "CorgiLib",
+  "jar": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "corpse",
+  "name": "Corpse",
+  "jar": "corpse-forge-1.20.1-1.0.23.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Your items stay in a corpse when you die."
+ },
+ {
+  "id": "corpsecurioscompat",
+  "name": "corpsecurioscompat",
+  "jar": "corpsecurioscompat-1.20.1-Forge-3.1.3.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Curios items go into your corpse too."
+ },
+ {
+  "id": "create",
+  "name": "Create",
+  "jar": "create-1.20.1-6.0.8.jar",
+  "cat": "Tech & Automation",
+  "d": "Rotational power (SU), mechanical crafting, contraptions, trains, and fluid and item logistics."
+ },
+ {
+  "id": "createaddition",
+  "name": "Create Crafts & Additions",
+  "jar": "createaddition-1.20.1-1.3.3.jar",
+  "cat": "Tech & Automation",
+  "d": "Converts Create rotation into FE electricity (alternator/electric motor), wires, rolling mill, tesla coil charging."
+ },
+ {
+  "id": "createnuclear",
+  "name": "Create Nuclear",
+  "jar": "createnuclear-1.3.1-forge.jar",
+  "cat": "Tech & Automation",
+  "d": "Full fission reactor multiblock (2M+ SU), uranium processing, radiation and anti-radiation suits."
+ },
+ {
+  "id": "cp_tweaks",
+  "name": "Create Planetary Tweaks",
+  "jar": "cp_tweaks-forge-1.20.1-1.0.21.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Recipe/progression glue for the Create plus Northstar space path."
+ },
+ {
+  "id": "sliceanddice",
+  "name": "Create Slice & Dice",
+  "jar": "sliceanddice-forge-3.6.0.jar",
+  "cat": "Tech & Automation",
+  "d": "Slicer machine that runs Farmer's Delight cutting-board recipes automatically."
+ },
+ {
+  "id": "create_alexscaves_compat",
+  "name": "Create: Alex's Caves Compat",
+  "jar": "create_alexscaves_compat-1.20.1-1.6.1.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "Create processing recipes for Alex's Caves materials."
+ },
+ {
+  "id": "bellsandwhistles",
+  "name": "Create: Bells & Whistles",
+  "jar": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+  "cat": "Tech & Automation",
+  "d": "Train cosmetics and utility: pilots, seats, doors, platform blocks."
+ },
+ {
+  "id": "createdieselgenerators",
+  "name": "Create: Diesel Generators",
+  "jar": "createdieselgenerators-1.20.1-1.3.12.jar",
+  "cat": "Tech & Automation",
+  "d": "Crude oil, distillation, diesel/gasoline engines, plus lighters, chemical sprayer and oil pumpjacks."
+ },
+ {
+  "id": "create_dragons_plus",
+  "name": "Create: Dragons Plus",
+  "jar": "CreateDragonsPlus-1.11.9.jar",
+  "cat": "Tech & Automation",
+  "d": "Bulk sanding, freezing, ending and enchanting with Create fans, plus a large set of dyes. Create: Enchantment Industry needs it."
+ },
+ {
+  "id": "create_enchantment_industry",
+  "name": "Create: Enchantment Industry",
+  "jar": "create-enchantment-industry-2.5.4.jar",
+  "cat": "Tech & Automation",
+  "d": "Automates enchanting with Create: liquid experience, printing books, disenchanting, and machines that do it all in a line."
+ },
+ {
+  "id": "create_new_age",
+  "name": "Create: New Age",
+  "jar": "create-new-age-1.1.7f+forge-mc1.20.1.jar",
+  "cat": "Tech & Automation",
+  "d": "Electricity for Create: magnetite motors/generators, solar heating, energisers and a small nuclear reactor."
+ },
+ {
+  "id": "create_oppenheimered",
+  "name": "Create: Oppenheimered",
+  "jar": "create_oppenheimered-1.0.5.jar",
+  "cat": "Tech & Automation",
+  "d": "Crafting bridge between Create and Alex's Caves' nuclear tech."
+ },
+ {
+  "id": "powergrid",
+  "name": "Create: Power Grid",
+  "jar": "powergrid-mc1.20.1-0.5.5.1.jar",
+  "cat": "Tech & Automation",
+  "d": "A real electrical network layer (generators, cables, transformers) for Create."
+ },
+ {
+  "id": "createpropulsion",
+  "name": "Create: Propulsion",
+  "jar": "createpropulsion-0.3.3.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Thrusters and more for VS2 ships."
+ },
+ {
+  "id": "railways",
+  "name": "Create: Steam 'n' Rails",
+  "jar": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+  "cat": "Tech & Automation",
+  "d": "More track types, conductors, semaphores, couplers, wide and narrow gauge, and train utilities."
+ },
+ {
+  "id": "creativecore",
+  "name": "CreativeCore",
+  "jar": "CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "cristellib",
+  "name": "Cristel Lib",
+  "jar": "cristellib-1.1.6-forge.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "croptopia",
+  "name": "Croptopia",
+  "jar": "Croptopia-1.20.1-FORGE-4.0.1.jar",
+  "cat": "Food & Farming",
+  "d": "About 60 new crops and hundreds of foods; seeds from grass and wild crops."
+ },
+ {
+  "id": "croptopiadelight",
+  "name": "Croptopia Delight",
+  "jar": "croptopiadelight-1.3.2.jar",
+  "cat": "Food & Farming",
+  "d": "Croptopia recipes in Farmer's Delight cookware."
+ },
+ {
+  "id": "culllessleaves",
+  "name": "Cull Less Leaves Reforged",
+  "jar": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+  "cat": "Visuals & Audio",
+  "d": "Nicer leaf rendering."
+ },
+ {
+  "id": "cupboard",
+  "name": "Cupboard utilities",
+  "jar": "cupboard-1.20.1-3.7.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "curios",
+  "name": "Curios API",
+  "jar": "curios-forge-5.14.1+1.20.1.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "The accessory slot system (rings, necklaces, belts, etc.)."
+ },
+ {
+  "id": "curiouslanterns",
+  "name": "Curious Lanterns",
+  "jar": "curiouslanterns-1.20.1-1.3.7.jar",
+  "cat": "Building & Decoration",
+  "d": "Lanterns you can wear in a Curios slot so they light the way, plus more lantern types to build with."
+ },
+ {
+  "id": "customskinloader-bootstrap",
+  "name": "CustomSkinLoader Bootstrap",
+  "jar": "CustomSkinLoader_Universal-15.0.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "Custom skin sources."
+ },
+ {
+  "id": "darkdoppelganger",
+  "name": "DarkDoppelganger",
+  "jar": "darkdoppelganger-9.9.0-1.20.1.jar",
+  "cat": "Bosses & Mobs",
+  "d": "A 6,000 HP End boss that copies your gear and spells."
+ },
+ {
+  "id": "dawnoftimebuilder",
+  "name": "Dawn Of Time",
+  "jar": "dawnoftimebuilder-forge-1.20.1-1.5.51.jar",
+  "cat": "Building & Decoration",
+  "d": "Historic building blocks from world cultures."
+ },
+ {
+  "id": "decorative_blocks",
+  "name": "Decorative Blocks",
+  "jar": "decorative_blocks-forge-1.20.1-4.1.3.jar",
+  "cat": "Building & Decoration",
+  "d": "Beams, palisades, seats, chandeliers, brazier."
+ },
+ {
+  "id": "delightful",
+  "name": "Delightful",
+  "jar": "Delightful-1.20.1-3.7.8.jar",
+  "cat": "Food & Farming",
+  "d": "Farmer's Delight compat foods and extra meals."
+ },
+ {
+  "id": "delightfulcreators",
+  "name": "Delightful Creators",
+  "jar": "delightfulcreators-1.2.jar",
+  "cat": "Tech & Automation",
+  "d": "More Create/Farmer's Delight automation recipes."
+ },
+ {
+  "id": "distanthorizons",
+  "name": "Distant Horizons",
+  "jar": "DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar",
+  "cat": "Visuals & Audio",
+  "d": "Renders far-away terrain as LODs for huge view distances."
+ },
+ {
+  "id": "do_a_barrel_roll",
+  "name": "Do a Barrel Roll",
+  "jar": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Plane-style elytra controls (roll and banking; thrust is off in this pack)."
+ },
+ {
+  "id": "dragonmounts",
+  "name": "Dragon Mounts: Legacy",
+  "jar": "dragonmounts-1.20.1-1.2.3-beta.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Hatch dragon eggs into rideable, breed-specific flying dragons."
+ },
+ {
+  "id": "drinkbeer",
+  "name": "Drink Beer Refill",
+  "jar": "drinkbeer-refill-1.20.1-1.0.5.jar",
+  "cat": "Food & Farming",
+  "d": "Placeable beer mugs and beer brewing with effects."
+ },
+ {
+  "id": "drippyloadingscreen",
+  "name": "Drippy Loading Screen",
+  "jar": "drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
+  "cat": "Interface & Info",
+  "d": "The pack's custom loading screen."
+ },
+ {
+  "id": "mr_dungeons_andtaverns",
+  "name": "Dungeons and Taverns",
+  "jar": "dungeons-and-taverns-3.0.3.f.jar",
+  "cat": "Structures & Exploration",
+  "d": "Taverns, dungeons and themed structures."
+ },
+ {
+  "id": "mr_dungeons_andtavernsancientcityoverhaul",
+  "name": "Dungeons and Taverns Ancient City Overhaul",
+  "jar": "dungeons-and-taverns-ancient-city-overhaul-1.jar",
+  "cat": "Structures & Exploration",
+  "d": "Overhauled Ancient Cities."
+ },
+ {
+  "id": "ecologics",
+  "name": "Ecologics",
+  "jar": "ecologics-forge-1.20.1-2.2.6.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Vanilla-plus biome updates with small mobs (coconut crabs, penguins, squirrels) and plants."
+ },
+ {
+  "id": "elytraslot",
+  "name": "Elytra Slot",
+  "jar": "elytraslot-forge-6.4.4+1.20.1.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Wear an elytra in a curio slot alongside chest armor."
+ },
+ {
+  "id": "embeddium",
+  "name": "Embeddium",
+  "jar": "embeddium-0.3.31+mc1.20.1.jar",
+  "cat": "Performance",
+  "d": "Sodium-based renderer, a big FPS boost."
+ },
+ {
+  "id": "enchdesc",
+  "name": "EnchantmentDescriptions",
+  "jar": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+  "cat": "Interface & Info",
+  "d": "Explains enchantments in tooltips."
+ },
+ {
+  "id": "ensorcellation",
+  "name": "Ensorcellation",
+  "jar": "ensorcellation-1.20.1-5.0.2.24.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Many extra enchantments and vanilla enchantment improvements."
+ },
+ {
+  "id": "entityculling",
+  "name": "EntityCulling",
+  "jar": "entityculling-forge-1.10.2-mc1.20.1.jar",
+  "cat": "Performance",
+  "d": "Skip rendering hidden entities."
+ },
+ {
+  "id": "mr_epic_structuresvillages",
+  "name": "Epic Structures: Villages",
+  "jar": "Epic Villages 1.3.1 (1.20+).jar",
+  "cat": "Structures & Exploration",
+  "d": "Sprawling medieval cities and towns."
+ },
+ {
+  "id": "fallingtree",
+  "name": "FallingTree",
+  "jar": "FallingTree-1.20.1-4.3.4.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Breaking one log fells the whole tree, leaves included. Sneak while chopping to turn it off for that tree."
+ },
+ {
+  "id": "fancymenu",
+  "name": "FancyMenu",
+  "jar": "fancymenu_forge_3.9.12_MC_1.20.1.jar",
+  "cat": "Interface & Info",
+  "d": "The pack's custom menus."
+ },
+ {
+  "id": "farmersdelight",
+  "name": "Farmer's Delight",
+  "jar": "FarmersDelight-1.20.1-1.3.2.jar",
+  "cat": "Food & Farming",
+  "d": "Cooking pot, skillet, cutting board; Comfort and Nourishment meal buffs."
+ },
+ {
+  "id": "farmers_spell",
+  "name": "Farmer's Spell",
+  "jar": "farmers_spell-1.0.5-1.20.1-all.jar",
+  "cat": "Magic",
+  "d": "The Gluttony school, mana-restoring food and drinks, and the Foodgeist."
+ },
+ {
+  "id": "fast_travel_waypoints",
+  "name": "Fast Travel Waypoints",
+  "jar": "Fast_Travel_Waypoints-Forge-1.20.1-v1.4.0.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Travel between waystones from Xaero's world map instead of the waystone list. Free, but you have to be standing next to a waystone."
+ },
+ {
+  "id": "fastload",
+  "name": "Fastload-Reforged",
+  "jar": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+  "cat": "Performance",
+  "d": "Faster world loading."
+ },
+ {
+  "id": "ferritecore",
+  "name": "Ferrite Core",
+  "jar": "ferritecore-6.0.1-forge.jar",
+  "cat": "Performance",
+  "d": "Memory reduction."
+ },
+ {
+  "id": "fixmyspawnr",
+  "name": "FixMySpawnR",
+  "jar": "fixmyspawnr-forge-1.20.1-2.0.1.jar",
+  "cat": "Structures & Exploration",
+  "d": "Mob spawners shut off after a set time (bypass with redstone)."
+ },
+ {
+  "id": "forgottenruins",
+  "name": "Forgotten Ruins",
+  "jar": "forgottenruins-forge-1.20.1-0.0.13.jar",
+  "cat": "Structures & Exploration",
+  "d": "NPC-civilization ruins, ancient golems and lost scrolls."
+ },
+ {
+  "id": "fusion",
+  "name": "Fusion",
+  "jar": "fusion-1.2.12-forge-mc1.20.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "Connected textures for resource packs."
+ },
+ {
+  "id": "rsgauges",
+  "name": "Gauges and Switches",
+  "jar": "rsgauges-1.2.22.jar",
+  "cat": "Tech & Automation",
+  "d": "Decorative redstone gauges, levers, sensors and detector switches."
+ },
+ {
+  "id": "geckolib",
+  "name": "GeckoLib 4",
+  "jar": "geckolib-forge-1.20.1-4.8.3.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "gtbcs_geomancy_plus",
+  "name": "GTBC's Geomancy Plus",
+  "jar": "gtbcs_geomancy_plus-2.0.0-1.20.1.jar",
+  "cat": "Magic",
+  "d": "The Geo school for Iron's Spells, spells from Mowzie's Mobs bosses, and the Geomancer Tower."
+ },
+ {
+  "id": "gtbcs_spell_lib",
+  "name": "GTBC's SpellLib",
+  "jar": "gtbcs_spell_lib-2.2.0-1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library for GTBC's Iron's Spells addons."
+ },
+ {
+  "id": "handcrafted",
+  "name": "Handcrafted",
+  "jar": "handcrafted-forge-1.20.1-3.0.6.jar",
+  "cat": "Building & Decoration",
+  "d": "Furniture: couches, tables, cupboards, trophies."
+ },
+ {
+  "id": "iceberg",
+  "name": "Iceberg",
+  "jar": "Iceberg-1.20.1-forge-1.1.25.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "immersive_aircraft",
+  "name": "Immersive Aircraft",
+  "jar": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Rustic aircraft: airships, biplane, gyrodyne, quadrocopter, warship and more."
+ },
+ {
+  "id": "immersive_armors",
+  "name": "Immersive Armors",
+  "jar": "immersive_armors-1.7.2+1.20.1-forge.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Vanilla-faithful armor sets with set effects (Wither, Divine, Warrior, Heavy and more)."
+ },
+ {
+  "id": "immersive_furniture",
+  "name": "Immersive Furniture",
+  "jar": "immersive_furniture-forge-0.1.3+1.20.1.jar",
+  "cat": "Building & Decoration",
+  "d": "Design custom furniture in-game or pick from an online library."
+ },
+ {
+  "id": "immersive_machinery",
+  "name": "Immersive Machinery",
+  "jar": "immersive_machinery-0.2.0+1.20.1-forge.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Rustic vehicles/machines: tunnel digger, copperfin, bamboo bee, redstone sheep and friends."
+ },
+ {
+  "id": "inventoryhud",
+  "name": "Inventory HUD+",
+  "jar": "inventoryhud.forge.1.20.1-3.4.26.jar",
+  "cat": "Interface & Info",
+  "d": "Shows inventory/armor/potion HUD on screen."
+ },
+ {
+  "id": "inventoryprofilesnext",
+  "name": "Inventory Profiles Next",
+  "jar": "InventoryProfilesNext-forge-1.20-1.10.20.jar",
+  "cat": "Interface & Info",
+  "d": "Inventory sorting, auto-refill and profiles."
+ },
+ {
+  "id": "ironchest",
+  "name": "Iron Chests",
+  "jar": "ironchest-1.20.1-14.4.4.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Bigger chests: iron to gold to diamond to crystal/obsidian/netherite."
+ },
+ {
+  "id": "irons_lib",
+  "name": "Iron's Lib",
+  "jar": "irons_lib-1.20.1-2.1.0.jar",
+  "cat": "Libraries",
+  "d": "Library for Iron's Spells."
+ },
+ {
+  "id": "irons_spellbooks_tweaks",
+  "name": "Iron's Spellbooks Tweaks",
+  "jar": "irons_spellbooks_tweaks-1.5.0.jar",
+  "cat": "Magic",
+  "d": "Server settings for Iron's Spells (left at defaults here)."
+ },
+ {
+  "id": "irons_spellbooks",
+  "name": "Iron's Spells 'n Spellbooks",
+  "jar": "irons_spellbooks-1.20.1-3.16.3.jar",
+  "cat": "Magic",
+  "d": "RPG-style spells in 9 schools, spellbooks, mage armor and weapons, wizard towers and boss dungeons."
+ },
+ {
+  "id": "iss_magicfromtheeast",
+  "name": "ISS: Magic From The East",
+  "jar": "iss_magicfromtheeast-1.20.1-1.1.3.jar",
+  "cat": "Magic",
+  "d": "The Symmetry and Spirit schools, jade gear, eastern-myth mobs, and two shrine structures."
+ },
+ {
+  "id": "jade",
+  "name": "Jade",
+  "jar": "Jade-1.20.1-Forge-11.13.2.jar",
+  "cat": "Interface & Info",
+  "d": "Shows what you're looking at (block/mob info)."
+ },
+ {
+  "id": "jei",
+  "name": "Just Enough Items",
+  "jar": "jei-1.20.1-forge-15.20.0.130.jar",
+  "cat": "Interface & Info",
+  "d": "Look up any recipe with `R` or any use with `U`."
+ },
+ {
+  "id": "jeresources",
+  "name": "Just Enough Resources",
+  "jar": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+  "cat": "Interface & Info",
+  "d": "Also called JER, ore distribution, mob drops and loot shown right in JEI."
+ },
+ {
+  "id": "konkrete",
+  "name": "Konkrete",
+  "jar": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library for FancyMenu."
+ },
+ {
+  "id": "kotlinforforge",
+  "name": "Kotlin for Forge",
+  "jar": "kotlinforforge-4.12.0-all.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "krypton",
+  "name": "Krypton Reforged",
+  "jar": "KryptonReforged-0.2.3.jar",
+  "cat": "Performance",
+  "d": "Network optimization."
+ },
+ {
+  "id": "legendarytooltips",
+  "name": "Legendary Tooltips",
+  "jar": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+  "cat": "Interface & Info",
+  "d": "Fancy tooltip borders for rare items."
+ },
+ {
+  "id": "libipn",
+  "name": "libIPN",
+  "jar": "libIPN-forge-1.20-4.0.2.jar",
+  "cat": "Interface & Info",
+  "d": "Library for Inventory Profiles Next."
+ },
+ {
+  "id": "lightspeed",
+  "name": "Lightspeed",
+  "jar": "lightspeed-1.20.1-1.1.2hotfix.jar",
+  "cat": "Performance",
+  "d": "Faster pack loading."
+ },
+ {
+  "id": "logprot",
+  "name": "Logprot",
+  "jar": "logprot-1.20.1-3.5.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Invulnerability for a few seconds after logging in."
+ },
+ {
+  "id": "lootr",
+  "name": "Lootr",
+  "jar": "lootr-forge-1.20-0.7.35.94.jar",
+  "cat": "Structures & Exploration",
+  "d": "Per-player loot chests, every player gets their own loot on the server."
+ },
+ {
+  "id": "mcwfurnitures",
+  "name": "Macaw's Furniture",
+  "jar": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+  "cat": "Building & Decoration",
+  "d": "Hundreds of furniture pieces."
+ },
+ {
+  "id": "mcwlights",
+  "name": "Macaw's Lights and Lamps",
+  "jar": "mcw-lights-1.1.5-mc1.20.1forge.jar",
+  "cat": "Building & Decoration",
+  "d": "More lighting and lamp options."
+ },
+ {
+  "id": "magiccircles",
+  "name": "Magic Circles - ISAS Addon",
+  "jar": "magiccircles-1.2.2-1.20.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "Shows a glowing circle under you when you cast Iron's spells."
+ },
+ {
+  "id": "man_of_many_planes",
+  "name": "Man of Many Planes",
+  "jar": "man_of_many_planes-0.2.0+1.20.1-forge.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Extra Create-flavored aircraft for Immersive Aircraft."
+ },
+ {
+  "id": "mcjtylib",
+  "name": "McJtyLib",
+  "jar": "mcjtylib-1.20-8.0.7.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "melody",
+  "name": "Melody",
+  "jar": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+  "cat": "Libraries",
+  "d": "Music library for FancyMenu."
+ },
+ {
+  "id": "memoryleakfix",
+  "name": "Memory Leak Fix",
+  "jar": "memoryleakfix-forge-1.17+-1.1.5.jar",
+  "cat": "Performance",
+  "d": "Memory-leak fixes."
+ },
+ {
+  "id": "mca",
+  "name": "Minecraft Comes Alive Reborn",
+  "jar": "minecraft-comes-alive-7.6.28-beta.10+1.20.1-universal.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Villagers become people with names, faces, families and moods. You can befriend them, marry one, raise children, and villages get their own guards."
+ },
+ {
+  "id": "mobplaques",
+  "name": "Mob Plaques",
+  "jar": "MobPlaques-v8.0.1-1.20.1-Forge.jar",
+  "cat": "Interface & Info",
+  "d": "Mob health/armor shown above their heads."
+ },
+ {
+  "id": "modernfix",
+  "name": "ModernFix",
+  "jar": "modernfix-forge-5.27.25+mc1.20.1.jar",
+  "cat": "Performance",
+  "d": "Load-time and memory fixes."
+ },
+ {
+  "id": "moogs_structures",
+  "name": "Moog's Structure Lib",
+  "jar": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "mes",
+  "name": "MoogsEndStructures",
+  "jar": "MoogsEndStructures-1.20-2.0.3.jar",
+  "cat": "Structures & Exploration",
+  "d": "Moog's End Structures."
+ },
+ {
+  "id": "mns",
+  "name": "MoogsNetherStructures",
+  "jar": "MoogsNetherStructures-1.20-2.0.4.jar",
+  "cat": "Structures & Exploration",
+  "d": "Moog's Nether Structures."
+ },
+ {
+  "id": "mss",
+  "name": "MoogsSoaringStructures",
+  "jar": "MoogsSoaringStructures-1.20-2.1.0.jar",
+  "cat": "Structures & Exploration",
+  "d": "Moog's Soaring (sky) Structures."
+ },
+ {
+  "id": "mtr",
+  "name": "MoogsTemplesReimagined",
+  "jar": "MoogsTemplesReimagined-1.20-1.1.3.jar",
+  "cat": "Structures & Exploration",
+  "d": "Moog's Temples Reimagined."
+ },
+ {
+  "id": "mvs",
+  "name": "MoogsVoyagerStructures",
+  "jar": "MoogsVoyagerStructures-1.20-5.0.6.jar",
+  "cat": "Structures & Exploration",
+  "d": "Moog's Voyager Structures (160+ overworld builds)."
+ },
+ {
+  "id": "moonlight",
+  "name": "Moonlight Library",
+  "jar": "moonlight-1.20-2.16.32-forge.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "moredelight",
+  "name": "More Delight",
+  "jar": "moredelight-26.04.30-1.20-forge.jar",
+  "cat": "Food & Farming",
+  "d": "More Farmer's Delight tools and dishes."
+ },
+ {
+  "id": "mousetweaks",
+  "name": "Mouse Tweaks",
+  "jar": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+  "cat": "Interface & Info",
+  "d": "Better click-drag item handling."
+ },
+ {
+  "id": "mowziesmobs",
+  "name": "Mowzie's Mobs",
+  "jar": "mowziesmobs-1.8.2.jar",
+  "cat": "Bosses & Mobs",
+  "d": "High-quality bosses (Ferrous Wroughtnaut, Frostmaw, Umvuthi, Sculptor and more) with signature powers."
+ },
+ {
+  "id": "naturalist",
+  "name": "Naturalist",
+  "jar": "naturalist-5.0pre2+forge-1.20.1.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Realistic wildlife (bears, deer, snakes, birds and more) with real behaviors."
+ },
+ {
+  "id": "naturescompass",
+  "name": "Nature's Compass",
+  "jar": "NaturesCompass-1.20.1-1.12.0-forge.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Locate any biome."
+ },
+ {
+  "id": "mr_no_morevillages",
+  "name": "No More Villages",
+  "jar": "no-more-villages-1.1.0.jar",
+  "cat": "Structures & Exploration",
+  "d": "Disables vanilla village generation (replaced by the village mods above)."
+ },
+ {
+  "id": "northstar_curios_compat",
+  "name": "Northstar Curios Compat",
+  "jar": "northstar-curios-compat-1.2.4.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Oxygen tanks work from Curios slots for Northstar."
+ },
+ {
+  "id": "northstar",
+  "name": "Northstar Redux",
+  "jar": "Northstar-0.5.4+1.20.1.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Create-powered rockets, oxygen, space suits and travel to other planets."
+ },
+ {
+  "id": "not_enough_glyphs",
+  "name": "Not Enough Glyphs",
+  "jar": "not_enough_glyphs-1.20.1-3.2.1.1.jar",
+  "cat": "Magic",
+  "d": "Extra glyphs (Plow, Echoing Projectile, propagators) and the Spell Binder."
+ },
+ {
+  "id": "notenoughanimations",
+  "name": "NotEnoughAnimations",
+  "jar": "notenoughanimations-forge-1.12.3-mc1.20.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "Better third-person animations."
+ },
+ {
+  "id": "nyctophobia",
+  "name": "Nyctophobia",
+  "jar": "Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Spooky, foggy, dark new biomes."
+ },
+ {
+  "id": "obscure_api",
+  "name": "Obscure API",
+  "jar": "obscure_api-18.jar",
+  "cat": "Libraries",
+  "d": "Obscuria core (Aquamirae); adds Astral Dust."
+ },
+ {
+  "id": "obsidianui",
+  "name": "ObsidianUI",
+  "jar": "ObsidianUI-forge-0.2.3+mc1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "oculus",
+  "name": "Oculus",
+  "jar": "oculus-mc1.20.1-1.8.0.jar",
+  "cat": "Visuals & Audio",
+  "d": "Shader support (Iris for Forge)."
+ },
+ {
+  "id": "biomeswevegone",
+  "name": "Oh The Biomes We've Gone",
+  "jar": "Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar",
+  "cat": "World Generation & Biomes",
+  "d": "80+ overworld and nether biomes with new woods and plants."
+ },
+ {
+  "id": "ohthetreesyoullgrow",
+  "name": "Oh The Trees You'll Grow",
+  "jar": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.6.0.jar",
+  "cat": "World Generation & Biomes",
+  "d": "Tree-template library for BWG."
+ },
+ {
+  "id": "ok_zoomer",
+  "name": "Ok Zoomer",
+  "jar": "ok_zoomer-forge-5.4.0-beta.9.jar",
+  "cat": "Interface & Info",
+  "d": "Zoom key `C`."
+ },
+ {
+  "id": "openloader",
+  "name": "OpenLoader",
+  "jar": "OpenLoader-Forge-1.20.1-19.0.5.jar",
+  "cat": "Libraries",
+  "d": "Loads the pack's bundled fixes/resources."
+ },
+ {
+  "id": "packetfixer",
+  "name": "PacketFixer",
+  "jar": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+  "cat": "Performance",
+  "d": "Stops some connection errors in big modpacks."
+ },
+ {
+  "id": "particular",
+  "name": "Particular",
+  "jar": "particular-1.20.1-Forge-1.2.7.jar",
+  "cat": "Visuals & Audio",
+  "d": "Extra ambient particles (fireflies, cascades and more)."
+ },
+ {
+  "id": "patchouli",
+  "name": "Patchouli",
+  "jar": "Patchouli-1.20.1-85-FORGE.jar",
+  "cat": "Interface & Info",
+  "d": "In-game guidebook system."
+ },
+ {
+  "id": "phosphophyllite",
+  "name": "Phosphophyllite",
+  "jar": "phosphophyllite-1.20.1-0.7.0-alpha.0.2.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "pipez",
+  "name": "Pipez",
+  "jar": "pipez-forge-1.20.1-1.2.26.jar",
+  "cat": "Tech & Automation",
+  "d": "Simple, fast item/fluid/energy/gas pipes with upgrade tiers and filters."
+ },
+ {
+  "id": "platform",
+  "name": "Platform",
+  "jar": "Platform-forge-1.20.1-1.3.3.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "playeranimator",
+  "name": "Player Animator",
+  "jar": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+  "cat": "Libraries",
+  "d": "Player animation library."
+ },
+ {
+  "id": "polymorph",
+  "name": "Polymorph",
+  "jar": "polymorph-forge-0.49.10+1.20.1.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Choose between conflicting recipe outputs."
+ },
+ {
+  "id": "presencefootsteps",
+  "name": "Presence Footsteps [FORGE]",
+  "jar": "Presence Footsteps [FORGE] 1.0.0.jar",
+  "cat": "Visuals & Audio",
+  "d": "Material-accurate footstep sounds."
+ },
+ {
+  "id": "prism",
+  "name": "Prism",
+  "jar": "Prism-1.20.1-forge-1.0.5.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "puzzleslib",
+  "name": "Puzzles Lib",
+  "jar": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "quartz",
+  "name": "Quartz",
+  "jar": "quartz-1.20.1-0.2.0-alpha.0.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "radiantgear",
+  "name": "Radiant Gear",
+  "jar": "radiantgear-forge-2.2.0+1.20.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "Dynamic lights for curio items."
+ },
+ {
+  "id": "refined_mod",
+  "name": "Refined Mod",
+  "jar": "refined_mod-1.20.1-1.1.6.jar",
+  "cat": "Magic",
+  "d": "Weapon-scaling spells and three magic weapons (Flame Tongue, Summer Rain, Hunter's Bow)."
+ },
+ {
+  "id": "regions_unexplored",
+  "name": "Regions Unexplored",
+  "jar": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
+  "cat": "World Generation & Biomes",
+  "d": "70+ new biomes."
+ },
+ {
+  "id": "repurposed_structures",
+  "name": "Repurposed Structures",
+  "jar": "repurposed_structures-7.1.23+1.20.1-forge.jar",
+  "cat": "Structures & Exploration",
+  "d": "Biome variants of vanilla structures (mansions, temples, mineshafts, villages and more)."
+ },
+ {
+  "id": "resourcefullib",
+  "name": "Resourceful Lib",
+  "jar": "resourcefullib-forge-1.20.1-2.1.29.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "resourcefulconfig",
+  "name": "Resourcefulconfig",
+  "jar": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "rftoolsbase",
+  "name": "RFToolsBase",
+  "jar": "rftoolsbase-1.20-5.0.6.jar",
+  "cat": "Tech & Automation",
+  "d": "Base for RFTools: machine frames, dimensional shards, information screen."
+ },
+ {
+  "id": "rftoolsbuilder",
+  "name": "RFToolsBuilder",
+  "jar": "rftoolsbuilder-1.20-6.0.8.jar",
+  "cat": "Tech & Automation",
+  "d": "Builder and shape cards: quarries, area clearing, structure copying, spaceship-style moves."
+ },
+ {
+  "id": "rftoolsdim",
+  "name": "RFToolsDimensions",
+  "jar": "rftoolsdim-1.20-11.0.10.jar",
+  "cat": "Tech & Automation",
+  "d": "Design and build your own dimensions from dimlets, powered by FE."
+ },
+ {
+  "id": "rftoolsutility",
+  "name": "RFToolsUtility",
+  "jar": "rftoolsutility-1.20-6.0.6.jar",
+  "cat": "Tech & Automation",
+  "d": "RFTools utilities: teleporters, crafters, screens, environmental controller (flight, regen and other area effects)."
+ },
+ {
+  "id": "rottencreatures",
+  "name": "Rotten Creatures",
+  "jar": "rottencreatures-forge-1.20.1-1.1.0.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Many new zombie variants (frostbitten, swampy, burned, dead beard and more)."
+ },
+ {
+  "id": "ryoamiclights",
+  "name": "RyoamicLights",
+  "jar": "RyoamicLights-forge-0.2.3+mc1.20.1.jar",
+  "cat": "Visuals & Audio",
+  "d": "Dynamic lights from held torches and similar."
+ },
+ {
+  "id": "saplanting",
+  "name": "Saplanting",
+  "jar": "saplanting-1.20.1-forge-1.3.1.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Saplings that drop on the ground plant themselves a couple of seconds later, so forests grow back on their own."
+ },
+ {
+  "id": "saturn",
+  "name": "Saturn",
+  "jar": "saturn-mc1.20.1-0.1.3.jar",
+  "cat": "Performance",
+  "d": "Memory optimization."
+ },
+ {
+  "id": "shieldexp",
+  "name": "Shield Expansion",
+  "jar": "shieldexp-forge-1.20.1-1.3.7.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "Shield tiers and a parry mechanic."
+ },
+ {
+  "id": "simplelogin",
+  "name": "Simple Login",
+  "jar": "SimpleLogin-1.20.1-1.0.2-all.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Server login/password system."
+ },
+ {
+  "id": "simplyswords",
+  "name": "Simply Swords",
+  "jar": "simplyswords-forge-1.56.0-1.20.1.jar",
+  "cat": "Weapons, Armor & Accessories",
+  "d": "The main weapon mod: 15 weapon types x 5 materials, plus dozens of unique legendary swords with abilities."
+ },
+ {
+  "id": "sit",
+  "name": "Sit",
+  "jar": "sit-1.20.1-1.3.5.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Sit on slabs and stairs."
+ },
+ {
+  "id": "smartbrainlib",
+  "name": "SmartBrainLib",
+  "jar": "SmartBrainLib-forge-1.20.1-1.15.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "smoothboot",
+  "name": "Smooth Boot (Reloaded)",
+  "jar": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+  "cat": "Performance",
+  "d": "Smoother startup threads."
+ },
+ {
+  "id": "sodiumextras",
+  "name": "Sodium Extras",
+  "jar": "sodiumextras-forge-1.0.7-1.20.1.jar",
+  "cat": "Performance",
+  "d": "Extra render options."
+ },
+ {
+  "id": "sodiumoptionsapi",
+  "name": "Sodium Options API",
+  "jar": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+  "cat": "Performance",
+  "d": "Options API for Embeddium."
+ },
+ {
+  "id": "sophisticatedbackpacks",
+  "name": "Sophisticated Backpacks",
+  "jar": "sophisticatedbackpacks-1.20.1-3.24.40.1745.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Upgradeable backpacks (magnet, feeding, crafting, stack and more)."
+ },
+ {
+  "id": "sophisticatedcore",
+  "name": "Sophisticated Core",
+  "jar": "sophisticatedcore-1.20.1-1.3.36.1854.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Core for Sophisticated Backpacks."
+ },
+ {
+  "id": "sound_physics_remastered",
+  "name": "Sound Physics Remastered",
+  "jar": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+  "cat": "Visuals & Audio",
+  "d": "Realistic echo/reverb and muffling through walls."
+ },
+ {
+  "id": "spawn",
+  "name": "Spawn",
+  "jar": "spawn-4.0-1.20.1.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Niche animals on land and sea with personalities, drops and foods."
+ },
+ {
+  "id": "starbunclemania",
+  "name": "Starbunclemania",
+  "jar": "starbunclemania-1.20.1-1.2.3.0.jar",
+  "cat": "Magic",
+  "d": "New Starbuncle and Wixie jobs, like moving fluids and power."
+ },
+ {
+  "id": "starlight",
+  "name": "Starlight",
+  "jar": "starlight-1.1.5+forge.c562a3a.jar",
+  "cat": "Performance",
+  "d": "Faster light engine."
+ },
+ {
+  "id": "supermartijn642configlib",
+  "name": "SuperMartijn642's Config Library",
+  "jar": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "supermartijn642corelib",
+  "name": "SuperMartijn642's Core Lib",
+  "jar": "supermartijn642corelib-1.1.21-forge-mc1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "supplementaries",
+  "name": "Supplementaries",
+  "jar": "supplementaries-1.20-3.1.43-forge.jar",
+  "cat": "Building & Decoration",
+  "d": "Vanilla-plus functional blocks: jars, sacks, rope, bombs, slingshot, cannon, quiver, globes, clocks and more."
+ },
+ {
+  "id": "terrablender",
+  "name": "TerraBlender",
+  "jar": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+  "cat": "World Generation & Biomes",
+  "d": "Lets multiple biome mods coexist."
+ },
+ {
+  "id": "graveyard",
+  "name": "The Graveyard",
+  "jar": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+  "cat": "Bosses & Mobs",
+  "d": "Graveyards, crypts, undead mobs and the Lich boss."
+ },
+ {
+  "id": "twilightforest",
+  "name": "The Twilight Forest",
+  "jar": "twilightforest-1.20.1-4.3.2508-universal.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "A boss-by-boss progression world with its own gear tiers."
+ },
+ {
+  "id": "mr_tidal_towns",
+  "name": "Tidal Towns",
+  "jar": "tidal-towns-1.3.4.jar",
+  "cat": "Structures & Exploration",
+  "d": "Floating driftwood villages on the ocean."
+ },
+ {
+  "id": "tobacconistmod",
+  "name": "Tobacconist",
+  "jar": "tobacconistmod-3.0.0-forge-1.20.1.jar",
+  "cat": "Food & Farming",
+  "d": "Grow tobacco and make smokables."
+ },
+ {
+  "id": "toomanyglyphs",
+  "name": "Too Many Glyphs",
+  "jar": "toomanyglyphs-1.20.1-2.3.2.12345.jar",
+  "cat": "Magic",
+  "d": "Targeting filters, the Ray form and stronger Amplify."
+ },
+ {
+  "id": "t_and_t",
+  "name": "Towns and Towers",
+  "jar": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+  "cat": "Structures & Exploration",
+  "d": "New villages, outposts and ships."
+ },
+ {
+  "id": "travelerstitles",
+  "name": "Traveler's Titles",
+  "jar": "TravelersTitles-1.20-Forge-4.0.2.jar",
+  "cat": "Structures & Exploration",
+  "d": "RPG-style title cards when entering biomes/dimensions."
+ },
+ {
+  "id": "mr_trek",
+  "name": "Trek",
+  "jar": "trek-B0.6.1.1.jar",
+  "cat": "Structures & Exploration",
+  "d": "A broad pack of new overworld structures."
+ },
+ {
+  "id": "mr_limesplatus_ending",
+  "name": "True Ending: Ender Dragon Overhaul",
+  "jar": "tru.e-ending-v1.1.0c.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "A dramatic Ender Dragon overhaul with new attacks."
+ },
+ {
+  "id": "tf_dnv",
+  "name": "Twilight Forest - Dungeons & Villages",
+  "jar": "tf_dnv-1.2.3.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "New villages and dungeons inside the Twilight Forest."
+ },
+ {
+  "id": "twilight_spellbooks",
+  "name": "Twilight Spellbooks",
+  "jar": "twilight_spellbooks-1.2.0.jar",
+  "cat": "Magic",
+  "d": "Twilight Forest boss spellbooks, rings and weapons for Iron's Spells."
+ },
+ {
+  "id": "twilightdelight",
+  "name": "Twilight's Flavor & Delight",
+  "jar": "twilightdelight-2.2.1.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "Twilight Forest foods and cooking in Farmer's Delight style (plus a few weapons)."
+ },
+ {
+  "id": "valkyrienskies",
+  "name": "Valkyrien Skies 2",
+  "jar": "valkyrienskies-120-2.4.11.jar",
+  "cat": "Space, Ships & Vehicles",
+  "d": "Turn builds into physics ships that sail and fly."
+ },
+ {
+  "id": "waystones",
+  "name": "Waystones",
+  "jar": "waystones-forge-1.20.1-14.1.20.jar",
+  "cat": "Storage, Travel & Utility",
+  "d": "Teleport network of waystones, warp stones and scrolls."
+ },
+ {
+  "id": "wheel",
+  "name": "Wheel",
+  "jar": "wheel-1.0.0-forge-1.20.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "dungeons_arise",
+  "name": "When Dungeons Arise",
+  "jar": "DungeonsArise-1.20.x-2.1.58-release.jar",
+  "cat": "Structures & Exploration",
+  "d": "Huge roguelike castles, towers, sky fortresses and ships with big loot."
+ },
+ {
+  "id": "wind_spellbooks",
+  "name": "Wind's Spellbooks",
+  "jar": "wind_spellbooks-1.20.1-1.0.3.jar",
+  "cat": "Magic",
+  "d": "The Wind school (7 spells, Tornado disabled here), the Aeromancer and the Windmill."
+ },
+ {
+  "id": "wirelessredstone",
+  "name": "Wireless Redstone",
+  "jar": "wirelessredstone-forge-1.2.2+1.20.1.jar",
+  "cat": "Tech & Automation",
+  "d": "Transmitter/receiver pairs that send redstone signals over distance by frequency."
+ },
+ {
+  "id": "wunderlib",
+  "name": "WunderLib",
+  "jar": "WunderLib-20.0.1.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "xaerominimap",
+  "name": "Xaero's Minimap",
+  "jar": "xaerominimap-forge-1.20.1-26.5.0.jar",
+  "cat": "Interface & Info",
+  "d": "Minimap with waypoints."
+ },
+ {
+  "id": "xaeroworldmap",
+  "name": "Xaero's World Map",
+  "jar": "xaeroworldmap-forge-1.20.1-1.46.0.jar",
+  "cat": "Interface & Info",
+  "d": "Full-screen world map, key `M`."
+ },
+ {
+  "id": "yet_another_config_lib_v3",
+  "name": "YetAnotherConfigLib",
+  "jar": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "yungsapi",
+  "name": "YUNG's API",
+  "jar": "YungsApi-1.20-Forge-4.0.6.jar",
+  "cat": "Libraries",
+  "d": "Library/API required by other mods."
+ },
+ {
+  "id": "betterdeserttemples",
+  "name": "YUNG's Better Desert Temples",
+  "jar": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's desert temple redesign (puzzles, Pharaoh's traps)."
+ },
+ {
+  "id": "betterdungeons",
+  "name": "YUNG's Better Dungeons",
+  "jar": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's dungeon redesign (skeleton, spider, zombie dungeons, catacombs)."
+ },
+ {
+  "id": "betterendisland",
+  "name": "YUNG's Better End Island",
+  "jar": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+  "cat": "Dimensions & Adventure",
+  "d": "YUNG's redesign of the main End island and dragon arena."
+ },
+ {
+  "id": "betterjungletemples",
+  "name": "YUNG's Better Jungle Temples",
+  "jar": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's jungle temple redesign."
+ },
+ {
+  "id": "bettermineshafts",
+  "name": "YUNG's Better Mineshafts",
+  "jar": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's mineshaft overhaul."
+ },
+ {
+  "id": "betterfortresses",
+  "name": "YUNG's Better Nether Fortresses",
+  "jar": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's Nether fortress redesign."
+ },
+ {
+  "id": "betteroceanmonuments",
+  "name": "YUNG's Better Ocean Monuments",
+  "jar": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's ocean monument redesign."
+ },
+ {
+  "id": "betterstrongholds",
+  "name": "YUNG's Better Strongholds",
+  "jar": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's stronghold redesign."
+ },
+ {
+  "id": "betterwitchhuts",
+  "name": "YUNG's Better Witch Huts",
+  "jar": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+  "cat": "Structures & Exploration",
+  "d": "YUNG's witch hut redesign."
+ },
+ {
+  "id": "yungsbridges",
+  "name": "YUNG's Bridges",
+  "jar": "YungsBridges-1.20-Forge-4.0.3.jar",
+  "cat": "Structures & Exploration",
+  "d": "Natural bridges across rivers and ravines."
+ },
+ {
+  "id": "yungscavebiomes",
+  "name": "YUNG's Cave Biomes",
+  "jar": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+  "cat": "World Generation & Biomes",
+  "d": "Frosted caves, lost caves (sand), marble."
+ },
+ {
+  "id": "zerocore",
+  "name": "Zero CORE 2",
+  "jar": "ZeroCore2-1.20.1-2.1.48.jar",
+  "cat": "Libraries",
+  "d": "Multiblock API for Bigger Reactors."
+ }
+]

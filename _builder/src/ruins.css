@@ -1,0 +1,137 @@
+/* ===== Ruins layer: carved slabs on an old wall. Static, no effects. ===== */
+:root{
+  --bg:#E9E7E1; --surface:#FBFAF7; --sunk:#F0EEE8;
+  --rule:#D9D5CB; --rule-2:#B9B3A6; --mortar:rgba(60,55,45,.075);
+  --gold:#9C6A22; --gold-soft:#F5EAD6;
+  --inscr:"Cinzel","Trajan Pro",Georgia,serif;
+  --c:14px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#131518; --surface:#1B1E23; --sunk:#22262C;
+    --rule:#2E333A; --rule-2:#474E58; --mortar:rgba(255,255,255,.035);
+    --gold:#D9A55B; --gold-soft:#2C2418;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#131518; --surface:#1B1E23; --sunk:#22262C;
+  --rule:#2E333A; --rule-2:#474E58; --mortar:rgba(255,255,255,.035);
+  --gold:#D9A55B; --gold-soft:#2C2418;
+}
+
+/* faint masonry behind everything: offset stone courses */
+body{position:relative}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background-color:var(--mortar);
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='64'%3E%3Cpath d='M0 .5H128M0 32.5H128M.5 0V32M64.5 32V64' stroke='%23000' fill='none'/%3E%3C/svg%3E") 0 0/128px 64px;
+  mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='64'%3E%3Cpath d='M0 .5H128M0 32.5H128M.5 0V32M64.5 32V64' stroke='%23000' fill='none'/%3E%3C/svg%3E") 0 0/128px 64px}
+
+/* chiselled slab: cut corners, a stone edge and a thin inner groove */
+.slab,.note,.tablewrap,.further,.contents > section,.startlist,.authornote,.facts,.icon,.tier,.btn,.tbtn,.intro{
+  position:relative;isolation:isolate;border:0;border-radius:0;background:var(--edge,var(--rule-2));
+  clip-path:polygon(var(--c) 0,calc(100% - var(--c)) 0,100% var(--c),100% calc(100% - var(--c)),calc(100% - var(--c)) 100%,var(--c) 100%,0 calc(100% - var(--c)),0 var(--c))}
+.slab::before,.note::before,.tablewrap::before,.further::before,.contents > section::before,.startlist::before,.authornote::before,.facts::before,.icon::before,.tier::before,.btn::before,.tbtn::before,.intro::before{
+  content:"";position:absolute;inset:1px;z-index:-1;background:var(--fill,var(--surface));
+  clip-path:polygon(var(--c) 0,calc(100% - var(--c)) 0,100% var(--c),100% calc(100% - var(--c)),calc(100% - var(--c)) 100%,var(--c) 100%,0 calc(100% - var(--c)),0 var(--c))}
+.slab::after,.further::after,.contents > section::after,.intro::after{content:"";position:absolute;inset:6px;z-index:-1;pointer-events:none;border:1px solid var(--rule);
+  clip-path:polygon(calc(var(--c) - 4px) 0,calc(100% - var(--c) + 4px) 0,100% calc(var(--c) - 4px),100% calc(100% - var(--c) + 4px),calc(100% - var(--c) + 4px) 100%,calc(var(--c) - 4px) 100%,0 calc(100% - var(--c) + 4px),0 calc(var(--c) - 4px))}
+
+/* the page itself is a tablet set into the wall */
+.page > article{--c:18px;padding:clamp(22px,4vw,44px) clamp(18px,4vw,52px) 36px}
+.page > article{position:relative;isolation:isolate;background:var(--rule-2);
+  clip-path:polygon(18px 0,calc(100% - 18px) 0,100% 18px,100% calc(100% - 18px),calc(100% - 18px) 100%,18px 100%,0 calc(100% - 18px),0 18px)}
+.page > article::before{content:"";position:absolute;inset:1px;z-index:-1;background:var(--surface);
+  clip-path:polygon(18px 0,calc(100% - 18px) 0,100% 18px,100% calc(100% - 18px),calc(100% - 18px) 100%,18px 100%,0 calc(100% - 18px),0 18px)}
+.page > article::after{content:"";position:absolute;inset:7px;z-index:-1;pointer-events:none;border:1px solid var(--rule);
+  clip-path:polygon(13px 0,calc(100% - 13px) 0,100% 13px,100% calc(100% - 13px),calc(100% - 13px) 100%,13px 100%,0 calc(100% - 13px),0 13px)}
+.page{grid-template-columns:minmax(0,calc(var(--measure) + 104px)) 200px;gap:40px}
+.page.wide article > :not(.tablewrap):not(.tabletools){max-width:var(--measure)}
+@media (max-width:1240px){.page{grid-template-columns:minmax(0,calc(var(--measure) + 104px))}}
+
+/* inscriptions: small carved capitals for labels */
+.side h2,.toc h2,.crumbs ol,.intro .kicker,table.db thead th,.further h2,.facts dt,.linkrow + .authornote figcaption,.about .how b,.pager a small{font-family:var(--inscr);font-weight:600;letter-spacing:.09em;text-transform:uppercase}
+.side h2{font-size:11.5px;color:var(--ink-2)}
+.crumbs ol{font-size:11.5px}
+table.db thead th{font-size:11.5px}
+.pager a small{font-size:11px}
+
+/* title rule: a keystone and a fading line */
+.titlerule{position:relative;width:200px;height:9px;margin:16px 0 26px;border:0;opacity:1;background:linear-gradient(90deg,var(--gold),transparent) 16px 50%/100% 1px no-repeat}
+.titlerule::before{content:"";position:absolute;left:1px;top:1px;width:7px;height:7px;border:1px solid var(--gold);transform:rotate(45deg)}
+article h2{position:relative;padding-bottom:10px}
+article h2::after{content:"";position:absolute;left:0;bottom:0;width:44px;height:3px;border-top:1px solid var(--rule-2);border-bottom:1px solid var(--rule-2)}
+
+/* top bar and sidebar edges */
+.top{border-bottom:3px double var(--rule-2)}
+.side{border-right:3px double var(--rule)}
+
+/* opening explanation */
+.about{margin:0 0 26px}
+.about .lede{margin-bottom:12px}
+.about p{color:var(--ink-2)}
+.about .how{font-size:14px;color:var(--ink-3);margin:6px 0 0}
+.about .how b{font-size:11px;color:var(--gold);margin-right:4px}
+
+/* notes */
+.note{--c:10px;--fill:var(--sunk);background:var(--rule);padding:16px 20px;margin:24px 0}
+.note::before{background:var(--sunk)}
+
+/* tables sit on their own slab */
+.tablewrap{--c:12px;overflow-x:auto;padding:1px}
+.tablewrap::before{background:var(--surface)}
+table.db thead th{background:var(--sunk);border-bottom:3px double var(--rule-2)}
+
+/* further reading */
+.further{--c:12px;margin:48px 0 0;padding:20px 24px 16px}
+.further h2{margin:0 0 10px;padding:0;font-size:12px;color:var(--gold)}
+.further h2::after{display:none}
+.further ul{list-style:none;margin:0;padding:0}
+.further li{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;padding:8px 0;border-top:1px solid var(--rule)}
+.further li:first-child{border-top:0}
+.further li > a:first-child{font-weight:600}
+.further li span{font-size:12.5px;color:var(--ink-3)}
+.further .inwiki{margin-left:auto;font-size:13px;color:var(--ink-3)}
+
+/* icons and tiers as small cut stones */
+.icon{--c:5px;--fill:var(--sunk);width:34px;height:34px}
+.tier{--c:5px;width:26px;height:26px;background:var(--rule-2)}
+.tier.tS{background:var(--gold);color:var(--gold)}.tier.tS::before{background:var(--gold-soft)}
+.tier.tA{background:color-mix(in srgb,var(--accent) 70%,transparent);color:var(--accent-ink)}.tier.tA::before{background:var(--accent-soft)}
+
+/* buttons */
+.btn,.tbtn{--c:6px;border:0;background:var(--rule-2);display:inline-flex;align-items:center;gap:6px;text-decoration:none;color:var(--ink)}
+.btn:hover,.tbtn:hover{background:var(--ink-3);border:0}
+.btn.primary{background:var(--accent)}.btn.primary::before{background:var(--accent)}.btn.primary{color:var(--surface)}
+.linkrow{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 22px}
+.linkrow .btn{height:34px;padding:0 14px;font-size:13.5px}
+
+/* mod pages */
+.authornote{--c:12px;margin:0 0 22px;padding:18px 22px}
+.authornote blockquote{margin:0;font:500 19px/1.5 var(--serif);color:var(--ink)}
+.authornote blockquote p{margin:0 0 8px}
+.authornote figcaption{font-size:12.5px;color:var(--ink-3)}
+.facts{--c:10px;padding:14px 18px;gap:8px 20px}
+.facts dt{font-size:11px;color:var(--ink-3);padding-top:2px}
+.modhead .logo,.modlist .logo{border-radius:0;clip-path:polygon(6px 0,calc(100% - 6px) 0,100% 6px,100% calc(100% - 6px),calc(100% - 6px) 100%,6px 100%,0 calc(100% - 6px),0 6px)}
+
+/* home */
+.intro{--c:20px;max-width:none;padding:clamp(24px,4vw,44px) clamp(20px,4vw,48px)}
+.intro .lede,.intro p{max-width:64ch}
+.intro .kicker{font-size:11.5px;color:var(--gold)}
+.startlist{--c:12px;border:0;padding:4px 22px;gap:0 36px}
+.startlist li:last-child,.startlist li:nth-last-child(2):nth-child(odd){border-bottom:0}
+.contents{columns:auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:18px}
+.contents > section{--c:12px;margin:0;padding:20px 22px 18px}
+.contents h3{font-size:22px}
+.home > section{margin-top:52px}
+
+/* footer: the top of the wall */
+footer.foot{position:relative;border-top:0;padding-top:26px}
+footer.foot::before{content:"";position:absolute;left:0;right:0;top:0;height:8px;
+  background:linear-gradient(90deg,var(--rule-2) 50%,transparent 0) 0 0/24px 5px repeat-x,linear-gradient(var(--rule-2),var(--rule-2)) 0 5px/100% 3px no-repeat}
+
+@media (max-width:620px){
+  .page > article{padding:22px 16px 28px}
+  .startlist{padding:4px 16px}
+}
+.tabletools select{height:36px;font:14px var(--sans);color:var(--ink);background:var(--surface);border:1px solid var(--rule-2);border-radius:0;padding:0 8px}
+.tabletools select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
