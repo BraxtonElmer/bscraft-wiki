@@ -57,7 +57,7 @@
   /* ---------- shared bits ---------- */
   const logo = m => m.logo ? `<span class="logo"><img src="assets/logos/${m.id}.png" alt="" loading="lazy"></span>`
     : `<span class="logo mono" aria-hidden="true">${esc(m.name.replace(/^[^A-Za-z]+/, '').charAt(0).toUpperCase())}</span>`;
-  const foot = () => `<footer class="foot"><span>BSCraft 4 Wiki. Built from the pack's own files and checked against the mods' wikis.</span><span>Item icons and mod logos belong to their mods' authors. Background art is from the pack's main menu theme.</span></footer>`;
+  const foot = () => `<footer class="foot"><span>BSCraft 4 Wiki. Built from the pack's own files and checked against the mods' wikis.</span><span><a href="#/p/changelog">What changed in 4.1</a> · Item icons and mod logos belong to their mods' authors. Background art is from the pack's main menu theme.</span></footer>`;
 
   // page banner: a slice of the title-screen garden (a different corner per part of the wiki), crumbs, and the title with its item
   const banner = (group, crumbs, title, badge) => `<header class="banner g-${group}">

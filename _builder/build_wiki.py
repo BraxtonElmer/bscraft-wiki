@@ -80,8 +80,12 @@ PAGES = [  # title, group, slug, short label
     ('How the bigger systems work', 'tech', 'systems', 'Bigger systems'),
     ('Food and drink', 'everyday', 'food', 'Food & drink'),
     ('Building and gadgets', 'everyday', 'building', 'Building & gadgets'),
+    ('Mods that work well together', 'reference', 'combos', 'Mod combos'),
+    ('Playing together', 'reference', 'multiplayer', 'Playing together'),
     ('Where to read more', 'reference', 'read-more', 'Where to read more'),
+    ('Version history', 'reference', 'changelog', 'Version history'),
 ]
+HIDDEN = {'changelog'}   # builds and is searchable, but stays out of the sidebar and contents
 SLUG = {t: s for t, g, s, l in PAGES}
 
 # ---------------------------------------------------------------- icons
@@ -476,7 +480,7 @@ PAGE_ICON = {'what-is-bscraft': 'mc:written_book', 'vs-vanilla': 'mc:knowledge_b
              'weapons': 'mc:netherite_sword', 'ranged': 'mc:bow', 'armor': 'mc:diamond_chestplate', 'enchantments': 'mc:enchanted_book',
              'powers': 'mc:heart_of_the_sea', 'getting-gear': 'mc:experience_bottle', 'magic': 'Arcane Essence', 'ars-nouveau': 'Source Gem',
              'irons-spells': 'Spell Book', 'creatures': 'mc:bone', 'villagers': 'mc:emerald', 'mounts': 'mc:saddle', 'bestiary': 'mc:writable_book', 'create': 'Cogwheel',
-             'rftools': 'mc:redstone', 'systems': 'mc:clock_00', 'food': 'mc:cake', 'building': 'mc:brick', 'read-more': 'mc:book'}
+             'rftools': 'mc:redstone', 'systems': 'mc:clock_00', 'food': 'mc:cake', 'building': 'mc:brick', 'combos': 'mc:crafting_table_front', 'multiplayer': 'mc:cake', 'changelog': 'mc:clock_00', 'read-more': 'mc:book'}
 for slug in pages:
     pages[slug]['icon'] = nav_icon(PAGE_ICON.get(slug, '')) if PAGE_ICON.get(slug) else None
 missing = [s for s in pages if not pages[s]['icon']]
@@ -485,7 +489,7 @@ if missing:
 ANIM = json.load(open(os.path.join(W, 'theme', 'anim.json'), encoding='utf-8-sig'))   # made by make_anim.ps1
 
 data = {'meta': {'mods': len(mods), 'mc': '1.20.1', 'forge': '47.4.10'},
-        'groups': [{'id': g, 'name': n, 'icon': nav_icon(GROUP_ICON[g]), 'blurb': b, 'pages': [s for t, gg, s, l in PAGES if gg == g]} for g, n, f, b in GROUPS],
+        'groups': [{'id': g, 'name': n, 'icon': nav_icon(GROUP_ICON[g]), 'blurb': b, 'pages': [s for t, gg, s, l in PAGES if gg == g and s not in HIDDEN]} for g, n, f, b in GROUPS],
         'pages': pages, 'mods': mod_out, 'cats': C.CAT_ORDER, 'search': search, 'bis': bis_html, 'qol': qol_html,
         'bosses': BOSS_CARDS, 'intro': intro, 'anim': ANIM}
 

@@ -167,6 +167,20 @@ GUIDES = {
   'about': [
    "Decoration and gadget mods: furniture, thousands of block variants, useful devices like quivers, slingshots and jars, bigger chests and storage."],
   'mods': ['supplementaries', 'chipped', 'mcwfurnitures', 'handcrafted']},
+ 'combos': {
+  'about': [
+   "Two or three mods lining up to do something none of them does alone. None of this is required, and none of it is in any particular order.",
+   "If you only want one thing from this page: rotation and electricity are different currencies, and knowing which mod converts between them saves a lot of confusion later."],
+  'mods': ['create', 'create_enchantment_industry', 'ars_nouveau', 'fallingtree', 'waystones']},
+ 'multiplayer': {
+  'about': [
+   "What changes when other people are on the server. Most of it is about loot, corpses and what other players can take.",
+   "The short version: your loot is your own, your corpse is not, and PvP is on."],
+  'mods': ['lootr', 'corpse', 'waystones']},
+ 'changelog': {
+  'about': [
+   "What changed in the pack, newest first, limited to the things that affect how you play."],
+  'mods': []},
  'read-more': {
   'about': [
    "The mods' own wikis and docs go much deeper than this wiki can. They're sometimes written for other versions, so trust this wiki or the in-game tooltip for numbers, and use these for how things work."],

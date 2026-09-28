@@ -322,12 +322,21 @@ The main things the pack lets you do, grouped by type. It isn't a complete list,
 - Carry storage and tools around in upgradeable backpacks
 - Grow magic trees, transmute items, or turn an area into a different biome
 
+## New in this update
+- **Live in a village properly**: villagers are people now, so you can befriend them, hire them, marry one and raise a family. See Villagers.
+- **Clear forests fast**: one log fells a whole tree, and dropped saplings replant themselves.
+- **Travel from the map**: stand at any waystone, open the world map, and jump to any other one you've found.
+- **Light your way hands-free**: wear a lantern on your belt.
+- **Enchant on a conveyor**: with Create, experience becomes a fluid and enchanting becomes a production line.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Difficulty tiers
 People often ask what to do first. There's no set order here.
 
 This isn't a route, just a rough sense of how tough each part of the pack is and what you'll find at each level, so you know what you're walking into. Go anywhere, in any order. Only the Twilight Forest locks its own bosses behind each other, and plenty of players wander into a tier-4 cave on day two just to see what happens. Risky trips cost less than you might think: your items wait in a corpse when you die, and every chest has its own loot for you even if someone got there first.
+
+If you want a suggested order anyway, reading the tiers from top to bottom is one. Treat it as a difficulty scale, not a checklist: skip ahead, double back, or ignore whole tiers you're not interested in.
 
 ### Tier 1: Overworld basics (wood to iron)
 At this tier: near-vanilla gear. Create's Andesite Alloy machines, Farmer's Delight cooking, Sophisticated Backpacks and Waystones are all within reach from the start.
@@ -697,11 +706,28 @@ YUNG's Better End Island redesigns the dragon arena, and True Ending overhauls t
 - Void Worm: throw a Mysterious Worm into the void past the island (see the Bosses section).
 - Dragon Mounts: dragon eggs don't spawn in chests in this pack. Use the dragon egg instead (a new one appears after each re-summoned dragon). Hatch it in a themed spot to change its breed: near lava for fire, underwater for water, snow for ice, and so on.
 
+## Worth the trip
+- **Nether cities** (BetterNether) have chest tables that can roll netherite, the best odds in the Nether outside bastions.
+- **Bygone Nether's citadel** can roll netherite and enchanted golden apples, and its catacombs hide netherite too.
+- **Moog's Nether Structures** adds 44 builds across the Nether, every 22 to 115 chunks, with treasure chests that can hold netherite and enchanted golden apples.
+- **End villages** (BetterEnd) include a bonus chest that can hold an Elytra, which makes them worth checking even if you already have one from an End Ship.
+- **Moog's End Structures** adds 24 builds scattered across the outer islands.
+
+## The dragon fight here
+True Ending rebuilds the Ender Dragon rather than just adding health.
+- Some of its attacks go straight through a shield and skip the shield cooldown, so blocking is not a plan.
+- It throws a heavier fireball, and phantoms fly in to guard it.
+- End crystals matter more than in vanilla, and the fight has its own music and effects.
+- There's no vanilla obsidian platform to land on when you arrive, because the End island is rebuilt. Bring blocks.
+- Every kill still drops a dragon egg, which is the only way to get a dragon to raise.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # The Twilight Forest
 
 This is a dimension of permanent dusk with a locked boss chain and its own gear tiers. Two add-ons are installed: Twilight's Flavor & Delight (buff foods, knives, trophy dismantling) and TF Dungeons & Villages (villages that sell rare TF items for Trader Tokens).
+
+This page is the short version. The Twilight Forest has its own official wiki that goes through every boss, structure and item in detail: <http://benimatic.com/tfwiki/index.php/Main_Page>. Use this page for what's different in this pack, and that one for everything else.
 
 ## Getting in
 
@@ -787,6 +813,9 @@ These are six rare cave biomes hidden under the Overworld, each about 300 blocks
 - Create compat: sequenced assembly mass-produces normally rare drops, including Telecore, Polymer Plate, Occult Gem, Notor Gizmo, Depth Charge and Charred Remnant.
 
 > Server hazards: the Totem of Possession works on players in this pack, and a nuke has a 96-block-wide blast. Don't set one off near other people's bases.
+
+## Processing cave materials with Create
+Create: Oppenheimered lets Create machines work Alex's Caves materials: Abyssmarine, Galena, Amber and the uranium-based fissile cores. If you're already running Create, it turns cave runs into a steady supply rather than one-off hauls.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -3923,6 +3952,96 @@ Libraries and performance mods are listed too, just so you can see everything th
 > This is everything we found, not everything there is. Two hundred and fifty-six mods, layered together, make things none of them were built to do alone, and the world generates places nobody's seen yet.
 
 > About this guide: built from the pack's own files (recipes, loot tables, configs, item and boss classes), then cross-checked against mod wikis and community discussion. Where they disagree, the pack's files win. Some boss numbers and stats come from wikis and are marked as such. We also checked the server pack, and it doesn't change any of the mods' server-side settings, so the defaults described here are what the server runs. An admin could still change them later.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# Mods that work well together
+
+Most mods here work on their own. These are the places where two or three of them add up to something neither does alone. Nothing below is required, and none of it is a puzzle you have to solve in order.
+
+## Enchanting on a conveyor (Create + Enchantment Industry)
+- A **Mechanical Grindstone** disenchants gear, and a **Grindstone Drain** underneath catches the experience as **Liquid Experience**. An **Experience Hatch** collects what mobs and furnaces give off.
+- Liquid experience moves in normal Create fluid pipes, so it can be tanked and pumped like anything else.
+- A **Blaze Enchanter** applies enchantments, drinking that fluid. A **Blaze Forger** does the anvil work, repairing and combining.
+- A Spout pouring liquid experience onto Mending gear on a belt keeps your armour topped up without you touching it.
+- The Gem Cutter, Infuser, Brass Bookshelf and Affix Augmentor in that mod need Apotheosis, which this pack doesn't have, so ignore them.
+
+## Getting electricity for RFTools (Create + Crafts & Additions)
+- Create machines run on rotation. The RFTools Builder, teleporters and dimensions run on FE, and never the two shall meet on their own.
+- An **Alternator** turns rotation into FE as long as you feed it at least 32 RPM. New Age's **Generator Coils** with **Carbon Brushes** do the same job.
+- Going the other way, an **Electric Motor** turns FE back into rotation at whatever RPM you scroll it to.
+- **Bigger Reactors** skips the conversion entirely and makes FE directly, which is why people building a quarry usually end up there.
+
+## A forest that replants itself (FallingTree + Saplanting + backpacks)
+- Break one log and **FallingTree** drops the whole tree, leaves included.
+- The saplings that fall then plant themselves a couple of seconds later, because of **Saplanting**.
+- A **Magnet upgrade** in a Sophisticated Backpack hoovers up the logs and apples while you walk away.
+- Put together, a wood run is: walk, break one block per tree, walk on. The forest is back by the time you return.
+
+## Source without babysitting (Ars Nouveau)
+- **Agronomic Sourcelinks** take growth happening near them, so they sit in a farm and do nothing else. Mageblooms and Source Berries pay more.
+- **Volcanic Sourcelinks** want lava nearby, which makes them the steady option once you're in the Nether or over a lava lake.
+- **Fuel-based Sourcelinks** burn items fed from pedestals, useful when you have too much charcoal.
+- Ars moves Source through Source Jars and relays, not through item pipes. Where it meets the rest of the pack is items: familiars and turrets drop things, and Create belts or Pipez carry them onward.
+
+## Food chains that feed each other
+- **Croptopia** grows the ingredients, **Farmer's Delight** cooks the dishes that actually buff you, and **Croptopia Delight**, **Delightful** and **More Delight** are the glue that lets one use the other.
+- **Create Slice & Dice** automates Farmer's Delight cutting boards and cooking pots, so a farm can produce finished meals.
+- **Brewin' and Chewin'** kegs can be filled and emptied by a Create Spout, which means a brewery is just another production line.
+
+## Travel that compounds
+- Waystones are free once found, and the wild ones now sit roughly every 24 chunks.
+- **Fast Travel Waypoints** lets you jump to any of them from Xaero's world map, as long as you're standing near a waystone.
+- Xaero's map also drops a **death waypoint**, and **Corpse** keeps your gear where you died, so a long trip going wrong costs time rather than everything you own.
+- **Sharestones** work per colour and anyone can use them, which is what makes a shared hub worth building.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# Playing together
+
+The server runs the pack as it ships, with a handful of settings that matter when other people are around.
+
+## What other players can and can't take
+- **Loot is yours alone.** Every chest that came with the world rolls separately for each player, so nobody can clear a dungeon out from under you, and going through somewhere already explored is still worth it.
+- **Corpses are not private.** Anyone can open your corpse. A friend can bring your gear back, and someone else can walk off with it.
+- **PvP is on.** Keep that in mind near a corpse, and near anyone you don't know.
+- **The difficulty is Normal**, the same for everyone.
+
+## Things worth sharing
+- **Sharestones** link everyone using the same colour, which makes them the natural base for a public hub. Ordinary waystones work per player once found.
+- **Chunk loaders** keep farms running while you're offline, but they switch themselves off after seven days without you. Long breaks mean stopped machines, not lost ones.
+- **Villagers are people now.** Guards defend a village for whoever lives near it, and a village someone else has built up is a shared asset, so raiding it makes enemies faster than it makes emeralds.
+
+## Being easy to play with
+- Waystones you place are worth naming clearly, since everyone sees the list.
+- Chunk loaders and big Create factories cost server performance. If things feel slow, that's usually the first place to look.
+- If you find a structure nobody has mentioned, say so. Half of what's in this guide came from someone stumbling into something.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# Version history
+
+What changed in the pack, newest first. Only the things that affect how you play.
+
+## 4.1, September 2026
+**Added**
+- **Minecraft Comes Alive Reborn**: villagers became people with names, families, moods and guards. Existing villagers were converted, keeping professions, trades and levels. Villager experience and reputation discounts reset.
+- **Fast Travel Waypoints**: travel to any waystone you've found from Xaero's world map, free, as long as you're standing near a waystone.
+- **Curious Lanterns**: wear a lantern on your belt for light, plus more lantern styles to build with.
+- **FallingTree**: one log fells the whole tree.
+- **Saplanting**: dropped saplings plant themselves.
+- **Create: Enchantment Industry** and **Create: Dragons Plus**: liquid experience, automated enchanting, and bulk fan processing.
+
+**Changed**
+- A waystone datapack: wild waystones roughly every 24 chunks in six biome styles, waystone plazas in Biomes We've Gone villages, and waystones in the Twilight Forest, the Graveyard's past and all four Northstar planets.
+- Warping between dimensions costs 3 levels.
+- Xaero's Minimap and World Map updated, which Fast Travel Waypoints needs.
+
+**Removed**
+- Falling Leaves and Farsight.
+
+## Before that
+The pack ran 251 mods through the summer. The magic update earlier in the year brought Ars 'n Spells, the shared mana bar, and the addon mods that grew both spell systems. Anything older than that isn't tracked here.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Where to read more
