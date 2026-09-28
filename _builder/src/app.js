@@ -18,6 +18,13 @@
     W.groups.map(g => `<section><h2>${esc(g.name)}</h2><ul>${g.pages.map(s => `<li><a href="#/p/${s}" data-r="p/${s}">${ic(W.pages[s].icon)}${esc(W.pages[s].label)}</a></li>`).join('')}</ul></section>`).join('');
   menuBtn.addEventListener('click', () => { const o = side.classList.toggle('open'); menuBtn.setAttribute('aria-expanded', o); });
 
+  /* ---------- download menu in the top bar ---------- */
+  const dlBtn = $('#dlBtn'), dlMenu = $('#dlmenu');
+  const showDl = open => { dlMenu.hidden = !open; dlBtn.setAttribute('aria-expanded', open); };
+  dlBtn.addEventListener('click', () => showDl(dlMenu.hidden));
+  document.addEventListener('click', e => { if (!e.target.closest('.dlwrap')) showDl(false); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !dlMenu.hidden) { showDl(false); dlBtn.focus(); } });
+
   /* ---------- search ---------- */
   const q = $('#q'), res = $('#results');
   let sel = -1;

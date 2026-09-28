@@ -325,13 +325,37 @@ WIKI_ID = {'Ars Nouveau': 'ars_nouveau', "Iron's Spells 'n Spellbooks": 'irons_s
            "Brewin' and Chewin'": 'brewinandchewin', 'Croptopia': 'croptopia', 'Supplementaries': 'supplementaries', 'Waystones': 'waystones'}
 mod_wiki = {WIKI_ID[k]: v for k, v in wiki_links.items() if k in WIKI_ID}
 
+# what the guide actually calls these mods, so their pages can link back to the text
+MENTION_ALIASES = {
+    'betterdungeons': ['Better Dungeons'], 'bettermineshafts': ['Better Mineshafts'],
+    'betterstrongholds': ['Better Strongholds'], 'betterdeserttemples': ['Better Desert Temples', 'Desert temples'],
+    'betterjungletemples': ['Better Jungle Temples'], 'betteroceanmonuments': ['Better Ocean Monuments'],
+    'betterfortresses': ['Better Nether Fortresses'], 'betterwitchhuts': ['Better Witch Huts'],
+    'betterendisland': ['Better End Island'], 'yungsbridges': ["YUNG's Bridges"],
+    'mvs': ["Moog's Voyager"], 'mss': ["Moog's Soaring"], 'mns': ["Moog's Nether"],
+    'mes': ["Moog's End"], 'mtr': ["Moog's Temples"],
+    'vinery': ['Vinery'], 'brewinandchewin': ["Brewin' and Chewin'", "Brewin' And Chewin'"],
+    'create_enchantment_industry': ['Enchantment Industry'], 'createaddition': ['Crafts & Additions'],
+    'railways': ["Steam 'n' Rails"], 'createdieselgenerators': ['Diesel Generators'],
+    'powergrid': ['Power Grid'], 'sliceanddice': ['Slice & Dice'], 'create_new_age': ['New Age'],
+    'bellsandwhistles': ['Bells & Whistles'],
+    'rftoolsbuilder': ['RFTools Builder', 'Builder and shape cards'], 'rftoolsdim': ['RFTools Dimensions', 'Dimension Builder'],
+    'rftoolsutility': ['Matter Transmitter', 'Powercell'], 'rftoolsbase': ['RFTools'],
+    'jei': ['JEI'], 'jeresources': ['JER'],
+    'xaerominimap': ["Xaero's minimap", "Xaero's map"], 'xaeroworldmap': ["Xaero's world map"],
+    'mr_limesplatus_ending': ['True Ending'], 'tf_dnv': ['Dungeons & Villages'],
+    'ars_extended_glyphs': ['Extended Glyphs'],
+    'mr_dungeons_andtavernsancientcityoverhaul': ['Ancient City Overhaul'],
+}
+
 name_variants = {}
 for x in mods:
     vs = {x['name']}
     for k, v in EXTRA.items():
         if v == x['id']:
             vs.add(k)
-    name_variants[x['id']] = [v for v in vs if len(v) >= 4]
+    vs.update(MENTION_ALIASES.get(x['id'], []))
+    name_variants[x['id']] = [v for v in vs if len(v) >= 3]
 
 logo_dir = os.path.join(W, 'logos')
 mod_out = []

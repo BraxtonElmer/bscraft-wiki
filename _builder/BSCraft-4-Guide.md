@@ -3469,7 +3469,7 @@ Uranium and unshielded reactors inflict Radiation. A full Anti-Radiation suit (d
 - **Barbed Wire** (Crafts & Additions): 2 damage on contact.
 
 ## Automating enchanting (Create: Enchantment Industry)
-Experience becomes a fluid you can pump, so enchanting turns into a production line. The pieces, roughly in the order you meet them:
+Create: Enchantment Industry turns experience into a fluid you can pump, so enchanting becomes a production line. The pieces, roughly in the order you meet them:
 - **Liquid Experience**: experience as a fluid. A **Grindstone Drain** under a **Mechanical Grindstone** catches the experience from disenchanting, and an **Experience Hatch** collects what mobs and furnaces give off.
 - **Blaze Enchanter**: a blaze burner that enchants items fed to it, drinking liquid experience. Set the level, and feed it either a direct enchantment or a template.
 - **Printer**: copies written books, enchanted books and maps, using ink and experience.

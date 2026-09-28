@@ -274,6 +274,15 @@ td.notes{font-size:15px}
 .startlist a:hover b{color:var(--gold-hi)}
 .startlist a:hover .slot,.pager a:hover .slot{box-shadow:inset 2px 2px 0 var(--slot-lo),inset -2px -2px 0 var(--slot-hi),0 0 0 2px rgba(230,230,143,.35)}
 .startlist a:hover .ico,.pager a:hover .ico{transform:translateY(-2px)}
+/* download in the top bar: the button and the panel it drops */
+.dlwrap{position:relative;flex:none}
+.dlbtn[aria-expanded="true"]{background:var(--gold);border-color:var(--gold-hi);color:var(--slot-lo)}
+.dlmenu{position:absolute;right:0;top:calc(100% + 10px);z-index:50;width:max-content;min-width:250px;
+  display:grid;gap:8px;padding:6px 10px 10px;box-shadow:0 24px 40px -18px rgba(0,0,0,.9)}
+.dlmenu .dlhead{margin:0;font:16px var(--pixel);color:var(--gold)}
+.dlmenu .dlnote{margin:0;font-size:13.5px;color:var(--text-3);max-width:30ch}
+.dlmenu .btn.dl{justify-content:flex-start}
+
 /* get the pack: the two launcher downloads */
 .getpack{padding:4px 12px 10px}
 .getpack .sub{margin-bottom:12px}
