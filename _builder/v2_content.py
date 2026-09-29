@@ -272,7 +272,7 @@ This guide only covers the big picture for most mods. These are the wikis and do
 - Alex's Caves: <https://alexscaves.wiki.gg/> (the official wiki)
 - Alex's Mobs: <https://alexs-mobs-unofficial.fandom.com/wiki/Alex%27s_Mobs_Unofficial_Wiki>
 - Mowzie's Mobs: <https://mowziesmobs.fandom.com/wiki/Mowzie's_Mobs_Wiki>
-- Twilight Forest: <http://benimatic.com/tfwiki/index.php/Main_Page> (official, with the progression and bosses)
+- Twilight Forest: <https://twilightforest.fandom.com/wiki/The_Twilight_Forest_Wiki> (official, with the progression and bosses)
 - BetterEnd: <https://github.com/paulevsGitch/BetterEnd/wiki>
 
 **Weapons and gear**

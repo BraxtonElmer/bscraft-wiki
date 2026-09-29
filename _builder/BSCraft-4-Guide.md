@@ -739,7 +739,7 @@ True Ending rebuilds the Ender Dragon rather than just adding health.
 
 This is a dimension of permanent dusk with a locked boss chain and its own gear tiers. Two add-ons are installed: Twilight's Flavor & Delight (buff foods, knives, trophy dismantling) and TF Dungeons & Villages (villages that sell rare TF items for Trader Tokens).
 
-This page is the short version. The Twilight Forest has its own official wiki that goes through every boss, structure and item in detail: <http://benimatic.com/tfwiki/index.php/Main_Page>. Use this page for what's different in this pack, and that one for everything else.
+This page is the short version. The Twilight Forest has its own community wiki that goes through every boss, structure and item in detail: <https://twilightforest.fandom.com/wiki/The_Twilight_Forest_Wiki>. Use this page for what's different in this pack, and that one for everything else.
 
 ## Getting in
 
@@ -4078,7 +4078,7 @@ This guide only covers the big picture for most mods. These are the wikis and do
 - Alex's Caves: <https://alexscaves.wiki.gg/> (the official wiki)
 - Alex's Mobs: <https://alexs-mobs-unofficial.fandom.com/wiki/Alex%27s_Mobs_Unofficial_Wiki>
 - Mowzie's Mobs: <https://mowziesmobs.fandom.com/wiki/Mowzie's_Mobs_Wiki>
-- Twilight Forest: <http://benimatic.com/tfwiki/index.php/Main_Page> (official, with the progression and bosses)
+- Twilight Forest: <https://twilightforest.fandom.com/wiki/The_Twilight_Forest_Wiki> (the community wiki, with the progression and every boss)
 - BetterEnd: <https://github.com/paulevsGitch/BetterEnd/wiki>
 
 **Weapons and gear**

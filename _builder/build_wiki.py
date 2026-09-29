@@ -18,7 +18,14 @@ USED = []
 def picture(kind, slug, name):
     rec = IMG.get(kind, {}).get(slug)
     if not rec or not os.path.exists(os.path.join(W, 'site', rec['file'])):
-        return ''
+        # a picture dropped straight into images/<kind>/ with no credit entry is an in-game screenshot
+        for ext in ('.jpg', '.png', '.webp'):
+            rel = f'images/{kind}/{slug}{ext}'
+            if os.path.exists(os.path.join(W, 'site', rel)):
+                rec = {'file': rel, 'title': name, 'source': '', 'wiki': 'in-game screenshot'}
+                break
+        else:
+            return ''
     USED.append({'t': rec.get('title') or name, 'u': rec.get('source', ''), 'w': rec.get('wiki', '')})
     return f'<img class="thumb" src="{html.escape(rec["file"])}" alt="{html.escape(name)}" loading="lazy">'
 SEP = '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
@@ -529,7 +536,8 @@ Open index.html in a browser, or upload this whole folder to any static host
 
 Pictures you can add later (PNG, any size, square looks best):
   images/bosses/<boss-name>.png   e.g. images/bosses/dark-doppelganger.png
-  The site shows them automatically; missing ones fall back to a letter badge.
+  The site shows them automatically on the next build, no credit entry needed.
+  Same for mobs: images/mobs/<mob-name>.jpg or .png.
   Boss file names: ''' + ', '.join(b['slug'] for b in BOSS_CARDS) + '''
 
 Rebuild from the guide with build_wiki.py (see the scratchpad project).
