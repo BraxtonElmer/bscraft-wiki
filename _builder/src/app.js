@@ -20,7 +20,11 @@
 
   /* ---------- download menu in the top bar ---------- */
   const dlBtn = $('#dlBtn'), dlMenu = $('#dlmenu');
-  const showDl = open => { dlMenu.hidden = !open; dlBtn.setAttribute('aria-expanded', open); };
+  const showDl = open => {
+    // on phones the popup is fixed to the screen edges, so it needs to know where the button ends
+    if (open) dlMenu.style.setProperty('--dltop', Math.round(dlBtn.getBoundingClientRect().bottom + 10) + 'px');
+    dlMenu.hidden = !open; dlBtn.setAttribute('aria-expanded', open);
+  };
   dlBtn.addEventListener('click', () => showDl(dlMenu.hidden));
   document.addEventListener('click', e => { if (!e.target.closest('.dlwrap')) showDl(false); });
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && !dlMenu.hidden) { showDl(false); dlBtn.focus(); } });
@@ -113,14 +117,6 @@
         </div>
         <nav class="heromenu" aria-label="Main menu"><a href="#/p/what-is-bscraft">About</a><a href="#/p/bosses">Bosses</a><a href="#/p/magic">Magic</a><a href="#/mods">Mods</a></nav>
       </header>
-      <section class="panel getpack" aria-labelledby="h-get">
-        <h2 id="h-get">Get the pack</h2>
-        <p class="sub">The launcher installs BSCraft 4 and keeps it up to date. Minecraft 1.20.1 on Forge ${W.meta.forge}, ${W.meta.mods} mods.</p>
-        <div class="linkrow">
-          <a class="btn primary dl" href="https://bscraft.zukashix.com/launcher/bsclauncher-setup.exe"><b>Windows</b><small>bsclauncher-setup.exe</small></a>
-          <a class="btn dl" href="https://bscraft.zukashix.com/launcher/bsclauncher-macos.dmg"><b>macOS</b><small>bsclauncher-macos.dmg</small></a>
-        </div>
-      </section>
       <section class="dialogue" id="tip" aria-label="Tips">
         <div class="portrait"><img src="assets/theme/portrait.png" alt="" width="60" height="60"></div>
         <div class="say">
