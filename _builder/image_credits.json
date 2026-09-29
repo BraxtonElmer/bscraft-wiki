@@ -101,6 +101,42 @@
    "source": "https://modrinth.com/mod/bossesrise",
    "wiki": "Modrinth (gallery)",
    "title": "Underworld Knight"
+  },
+  "captain-cornelia": {
+   "file": "images/bosses/captain-cornelia.jpg",
+   "source": "https://www.minecraft-guides.com/wiki/aquamirae/captain-cornelia/",
+   "wiki": "Minecraft Guides Wiki (Aquamirae)",
+   "title": "Ghost of Captain Cornelia"
+  },
+  "mother-of-the-maze": {
+   "file": "images/bosses/mother-of-the-maze.jpg",
+   "source": "https://www.minecraft-guides.com/wiki/aquamirae/mother-of-the-maze/",
+   "wiki": "Minecraft Guides Wiki (Aquamirae)",
+   "title": "Mother of the Maze"
+  },
+  "dead-king": {
+   "file": "images/bosses/dead-king.jpg",
+   "source": "https://www.minecraft-guides.com/mod-guides/dead-king-irons-spells-and-spellbooks/",
+   "wiki": "Minecraft Guides Wiki (Iron's Spells 'n Spellbooks)",
+   "title": "Dead King"
+  },
+  "wilden-chimera": {
+   "file": "images/bosses/wilden-chimera.jpg",
+   "source": "https://ars.guide/book/field_guide/wilden/",
+   "wiki": "Ars Nouveau Field Guide (ars.guide)",
+   "title": "Wilden Chimera"
+  },
+  "lich": {
+   "file": "images/bosses/lich.jpg",
+   "source": "https://www.minecraft-guides.com/mod/the-twilight-forest/",
+   "wiki": "Minecraft Guides Wiki (Twilight Forest)",
+   "title": "Lich"
+  },
+  "minoshroom": {
+   "file": "images/bosses/minoshroom.jpg",
+   "source": "https://www.minecraft-guides.com/mod/the-twilight-forest/",
+   "wiki": "Minecraft Guides Wiki (Twilight Forest)",
+   "title": "Minoshroom"
   }
  },
  "mobs": {
@@ -901,6 +937,24 @@
    "source": "https://modrinth.com/mod/bygone-nether",
    "wiki": "Modrinth (gallery)",
    "title": "Warped Endermen"
+  },
+  "mars-root-toad": {
+   "file": "images/mobs/mars-root-toad.jpg",
+   "source": "https://modrinth.com/mod/create-northstar/gallery",
+   "wiki": "Modrinth Gallery (Create: Northstar)",
+   "title": "Martian Root Toad"
+  },
+  "venus-stone-bull": {
+   "file": "images/mobs/venus-stone-bull.jpg",
+   "source": "https://modrinth.com/mod/create-northstar/gallery",
+   "wiki": "Modrinth Gallery (Create: Northstar)",
+   "title": "Venus Stone Bull"
+  },
+  "mercurian-raptor": {
+   "file": "images/mobs/mercurian-raptor.jpg",
+   "source": "https://modrinth.com/mod/create-northstar/gallery",
+   "wiki": "Modrinth Gallery (Create: Northstar)",
+   "title": "Mercury Raptor"
   }
  },
  "mods": {
@@ -1599,6 +1653,120 @@
    "source": "https://modrinth.com/mod/not-enough-animations",
    "wiki": "Modrinth",
    "title": "Crawling example"
+  },
+  "mr_dungeons_andtaverns": {
+   "file": "images/mods/mr_dungeons_andtaverns.jpg",
+   "source": "https://modrinth.com/mod/dungeons-and-taverns",
+   "wiki": "Modrinth",
+   "title": "Taverns"
+  },
+  "railways": {
+   "file": "images/mods/railways.jpg",
+   "source": "https://modrinth.com/mod/create-steam-n-rails",
+   "wiki": "Modrinth",
+   "title": "A station on Steam 'n' Rails track"
+  },
+  "ok_zoomer": {
+   "file": "images/mods/ok_zoomer.jpg",
+   "source": "https://modrinth.com/mod/ok-zoomer",
+   "wiki": "Modrinth",
+   "title": "Zoom Showcase (Camera Preset)"
+  },
+  "curiouslanterns": {
+   "file": "images/mods/curiouslanterns.jpg",
+   "source": "https://modrinth.com/mod/curious-lanterns",
+   "wiki": "Modrinth",
+   "title": "Rear View Cave"
+  },
+  "mca": {
+   "file": "images/mods/mca.jpg",
+   "source": "https://modrinth.com/mod/minecraft-comes-alive-reborn",
+   "wiki": "Modrinth",
+   "title": "Interact with the new villagers!"
+  },
+  "saplanting": {
+   "file": "images/mods/saplanting.jpg",
+   "source": "https://modrinth.com/mod/saplanting",
+   "wiki": "Modrinth",
+   "title": "dscpt_02"
+  },
+  "irons_spellbooks": {
+   "file": "images/mods/irons_spellbooks.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks/gallery",
+   "wiki": "CurseForge",
+   "title": "Fighting the Dead King boss"
+  },
+  "twilightforest": {
+   "file": "images/mods/twilightforest.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/gallery",
+   "wiki": "CurseForge",
+   "title": "Lich Tower exterior in the Twilight Forest"
+  },
+  "betterend": {
+   "file": "images/mods/betterend.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/betterend/gallery",
+   "wiki": "CurseForge",
+   "title": "Chorus Forest biome"
+  },
+  "betternether": {
+   "file": "images/mods/betternether.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/betternether/gallery",
+   "wiki": "CurseForge",
+   "title": "Arbitrary-shaped Nether portal built from obsidian blocks"
+  },
+  "sophisticatedbackpacks": {
+   "file": "images/mods/sophisticatedbackpacks.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/gallery",
+   "wiki": "CurseForge",
+   "title": "Backpack variants in-game"
+  },
+  "corpse": {
+   "file": "images/mods/corpse.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+   "wiki": "CurseForge (imgur-hosted)",
+   "title": "Player corpse holding dropped items"
+  },
+  "xaeroworldmap": {
+   "file": "images/mods/xaeroworldmap.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/gallery",
+   "wiki": "CurseForge",
+   "title": "Fullscreen overworld map view"
+  },
+  "valkyrienskies": {
+   "file": "images/mods/valkyrienskies.jpg",
+   "source": "https://github.com/ValkyrienSkies/Valkyrien-Skies-2",
+   "wiki": "GitHub",
+   "title": "Physics-driven ship/airship built with Valkyrien Skies 2"
+  },
+  "croptopia": {
+   "file": "images/mods/croptopia.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/croptopia/gallery",
+   "wiki": "CurseForge",
+   "title": "Croptopia foods and dishes"
+  },
+  "brewinandchewin": {
+   "file": "images/mods/brewinandchewin.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin/gallery",
+   "wiki": "CurseForge",
+   "title": "Keg and fermenting setup"
+  },
+  "biggerreactors": {
+   "file": "images/mods/biggerreactors.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/biggerreactors/gallery",
+   "wiki": "CurseForge",
+   "title": "Turbine converting irradiated steam to RF power"
+  },
+  "ars_elemental": {
+   "file": "images/mods/ars_elemental.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/ars-elemental/gallery",
+   "wiki": "CurseForge",
+   "title": "Blazing Archwoods elemental biome"
+  },
+  "adamsarsplus": {
+   "file": "images/mods/adamsarsplus.jpg",
+   "source": "https://www.curseforge.com/minecraft/mc-mods/adams-ars-plus/gallery",
+   "wiki": "CurseForge",
+   "title": "In-game gameplay screenshot from Adam's Ars Plus"
   }
  }
 }

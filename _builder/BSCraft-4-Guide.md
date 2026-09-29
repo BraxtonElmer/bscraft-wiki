@@ -178,12 +178,14 @@ These are the pack's default keybinds. If you installed the pack before the magi
 - Instant waypoint: `Numpad +`
 - Bigger minimap: `Shift` + `Z`
 - Minimap settings: `F7`
+- Travel to a waystone: stand within 7 blocks of any waystone, open the world map (`M`) and click another waystone you've found
 
 ## Villagers
 - Talk to a villager: right-click them. That opens the screen with their mood, family and everything you can do with them.
 - Trade: the Trade button in that screen, not a separate key.
 
 ## Inventory and gear
+- Wear a lantern for light: put it in the belt slot on the accessories screen (`G`)
 - Accessories (curios): `G`
 - Open backpack: `B`
 - Sort a backpack or storage: middle mouse
@@ -397,7 +399,7 @@ A few of the directions the pack supports end to end. They aren't classes or que
 
 ### Explorer
 Structures, caves, dimensions
-1. Loot YUNG's and Moog's structures, taverns, When Dungeons Arise
+1. Loot YUNG's and Moog's structures, taverns, When Dungeons Arise, and pick up every wild waystone on the way
 2. Decode Cave Tablets into Cave Maps (all 6 Alex's Caves biomes)
 3. Twilight Forest landmarks
 4. Bastions, Ancient Cities, Mansions
@@ -429,16 +431,26 @@ Food, drink, farms, building
 3. Vinery wines (26 effects, aging makes them stronger)
 4. Brewin' & Chewin' kegs, Drink Beer
 5. Create-automated kitchen (Slice & Dice)
-6. Macaw's, Handcrafted, Chipped, Dawn of Time builds
+6. Macaw's, Handcrafted, Chipped, Dawn of Time builds, lit with Curious Lanterns
+7. A forest that replants itself (FallingTree and Saplanting)
 
 ### Engineer
 Create, trains, reactors, automation
 1. Andesite to Brass to Precision Mechanism
-2. Steam engines, then diesel engines
+2. A Stirling engine on a coal burner, then steam engines, then diesel
 3. Trains with Steam 'n' Rails conductors
 4. Alternator (SU to FE) to RFTools machines
 5. Create Nuclear or Bigger Reactors
-6. ComputerCraft factory control
+6. An enchanting line on liquid experience, then ComputerCraft factory control
+
+### Village keeper
+Villagers, families, a town of your own
+1. Befriend villagers with gifts and conversation, and learn who trades what
+2. Hire a few and give them chores: farming, fishing, chopping, cooking
+3. A Bouquet, then rings from a Jeweler Workbench, and marry someone
+4. Raise children, who grow up and work alongside you
+5. Run the village with the Blueprint: guards, the marriage limit, its waystone
+6. Keep a Staff of Life for the day someone you care about doesn't make it
 
 ### Aviator and captain
 Planes, airships, subs, dragons
@@ -814,8 +826,17 @@ These are six rare cave biomes hidden under the Overworld, each about 300 blocks
 
 > Server hazards: the Totem of Possession works on players in this pack, and a nuke has a 96-block-wide blast. Don't set one off near other people's bases.
 
-## Processing cave materials with Create
-Create: Oppenheimered lets Create machines work Alex's Caves materials: Abyssmarine, Galena, Amber and the uranium-based fissile cores. If you're already running Create, it turns cave runs into a steady supply rather than one-off hauls.
+## Which cave to try first, and what to bring
+Rough order from gentlest to nastiest. It's a suggestion, not a lock: nothing stops you going straight for the Toxic Caves.
+
+1. **Magnetic Caves** first. It's the most common and the closest, and the Galena Gauntlet and Resistor Shield you bring back make the rest easier. Watch the ceilings, because Boundroids drop on you.
+2. **Primordial Caves** next. The dinosaurs hit hard but they're ordinary fights, and a tamed Subterranodon or Vallumraptor pays for the trip.
+3. **Abyssal Chasm** when you can breathe and see underwater. It's deep ocean only, so bring water breathing or the diving suit, and light, because the pressure darkness is real.
+4. **Toxic Caves** only with a full Hazmat suit. Radiation stops your natural healing, and a Nucleeper can do up to 100 damage in one go.
+5. **Forlorn Hollows** with plenty of light. It's pitch dark, and Watchers can take over your camera.
+6. **Candy Cavity** whenever you find it. It's the rarest, and less dangerous than it is hard to locate.
+
+Every cave takes its own Cave Codex in this pack, so a map to one doesn't help you find another.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -4051,6 +4072,7 @@ This guide only covers the big picture for most mods. These are the wikis and do
 - Ars Nouveau: <https://www.arsnouveau.wiki/> (every glyph, ritual and familiar)
 - Iron's Spells 'n Spellbooks: <https://iron.wiki/> (spells, schools, items and curios)
 - Ars 'n Spells: <https://github.com/otectus/ars-n-spells> (how the shared mana works)
+- Ars Nouveau source guide: <https://ars.guide/> (sourcelinks and automation, written for a newer version but the ideas hold)
 
 **Adventure and creatures**
 - Alex's Caves: <https://alexscaves.wiki.gg/> (the official wiki)
@@ -4068,7 +4090,15 @@ This guide only covers the big picture for most mods. These are the wikis and do
 - Create: <https://createmod.com/> and the community wiki <https://createmodminecraft.miraheze.org/wiki/Main_Page>
 - Valkyrien Skies 2: <https://wiki.valkyrienskies.org/wiki/Main_Page>
 - RFTools: <https://mcjty.eu/docs/mods>
+- Create: Power Grid: <https://createpowergrid.miraheze.org/> (circuits, voltage and its generators)
+- Create: Enchantment Industry: <https://modrinth.com/mod/create-enchantment-industry> (the machines and how liquid experience flows)
 - CC: Tweaked: <https://tweaked.cc/>
+
+**Space and vehicles**
+- Northstar Redux: <https://www.curseforge.com/minecraft/mc-mods/northstar-redux>
+- Clockwork: <https://wiki.valkyrienskies.org/wiki/Clockwork> (physics ships built from Create parts)
+- Immersive Aircraft: <https://modrinth.com/mod/immersive-aircraft>
+- Dragon Mounts: Legacy: <https://github.com/Kay9Unit/Dragon-Mounts-Legacy/wiki> (eggs, habitats, taming and raising)
 
 **Everyday**
 - Farmer's Delight: <https://farmersdelight.fandom.com/wiki/Farmer's_Delight_Wiki>
